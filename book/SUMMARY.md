@@ -1,7 +1,6 @@
 # Summary
 
-* [Preface: An Open Source Book](00-preface.md)
-* [Prologue: The Path to AW3](01-prologue.md)
+* [Preface & Prologue](front-matter.md)
 * [Introduction: The New Landscape](02-introduction.md)
 
 ## Part I - Understanding the New Terrain

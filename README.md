@@ -33,6 +33,10 @@ Chapters 31-34: Global innovation maps, emerging markets, and the spiritual jour
 - [Epilogue: Being Anointed](book/epilogue.md)
 - [Appendix](book/appendix.md)
 
+## Featured Case Studies
+
+This book includes detailed case studies from over 30 companies and projects at the forefront of Web3 and AI innovation. See the [Company Index](book/company-index.md) for a complete list of featured organizations.
+
 ## Contributing
 
 This is an open-source book project. Contributions, corrections, and enhancements are welcome through pull requests.
