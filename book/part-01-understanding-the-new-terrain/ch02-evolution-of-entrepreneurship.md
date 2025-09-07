@@ -1,4 +1,4 @@
-# Chapter 1: The Evolution of Entrepreneurship
+# Chapter 2: The Evolution of Entrepreneurship
 
 ## 1. Introduction: From "Zero to One" to "Zero to Three"
 
@@ -9,6 +9,13 @@ This insight radically shifted focus from incremental improvements to fundamenta
 While Thiel's framework remains foundational, today's entrepreneurial landscape demands an expanded perspective. The convergence of Web3 and AI technologies has created exponentially more complex possibilities, requiring founders to navigate multiple technology curves simultaneously. Building successful ventures now extends beyond creating innovative products to developing thriving communities and influencing entire ecosystems.
 
 This is why we need the "Zero to Three" framework—a multidimensional path that acknowledges the full spectrum of the modern entrepreneurial journey:
+
+## In This Chapter, You Will
+
+- Contrast classic startup advice with today’s realities
+- Understand why community and governance now sit alongside product
+- Learn the Zero → One → Two → Three progression and feedback loops
+- Identify which stage deserves your current focus
 
 - **Zero**: The founder's personal development and unique insight
 - **One**: Creating innovative products that solve real problems

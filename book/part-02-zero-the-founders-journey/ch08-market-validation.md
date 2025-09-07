@@ -1,4 +1,4 @@
-# Chapter 7: Understanding User Adoption
+# Chapter 8: Market Validation
 
 ## 1. Introduction: Why Adoption Is the Real Moat
 
@@ -9,6 +9,26 @@ This adoption challenge transcends mere feature sets or technical capabilities. 
 As Sam Altman observed during OpenAI's rapid growth, "The most important thing for AI products is getting into the hands of users as quickly as possible. Technical capability alone doesn't create value—usage does." This perspective applies equally across technological domains: value emerges not from what a product can theoretically do, but from what people actually use it to accomplish.
 
 This chapter decodes the psychology behind adoption—the why behind the buy—particularly in Web3 and AI contexts where both the barriers and opportunities are distinctive.
+
+## In This Chapter, You Will
+
+- Build a lean validation plan for your core hypothesis
+- Design minimum viable tests: message, channel, pricing, and trust
+- Translate interest into credible signals (beyond vanity metrics)
+- Avoid false positives common in frontier tech adoption
+
+## Founder’s Checklist
+
+- Who exactly are the first 10 ideal users and why?
+- What is the smallest test that could prove we’re wrong?
+- What trust barrier must we remove before usage is possible?
+- Which metrics will we ignore (and why)?
+
+## Exercises
+
+- Write a one-week validation sprint with success/fail criteria
+- Draft 3 landing page headlines and pick channels to test
+- Design an onboarding that removes one major trust friction
 
 ## 2. The Psychology of Purchasing Decisions
 

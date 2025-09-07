@@ -1,4 +1,4 @@
-# CHAPTER 12: ANTI-PATTERN RECOGNITION
+# Chapter 12: Anti-Pattern Recognition
 
 ## 1. Introduction: Not All Wisdom Ages Well
 
@@ -9,6 +9,26 @@ Yet a troubling pattern emerges as we enter the Web3 and AI era: much of this se
 This mismatch occurs not because previous wisdom lacked value, but because it emerged from fundamentally different technological, economic, and governance contexts. Strategies optimized for centralized platforms with venture capital funding and traditional corporate structures may prove actively harmful when applied to decentralized networks with token incentives and community governance.
 
 This chapter focuses on a crucial but underappreciated founder skill: anti-pattern recognition—the ability to identify, analyze, and reject conventional wisdom that, despite its prestigious pedigree, creates more harm than benefit in new technological paradigms. By developing this discernment, founders can avoid the pitfalls that have claimed numerous Web3 and AI ventures whose leaders followed seemingly sound advice into fundamentally misaligned strategies, structures, and incentive systems.
+
+## In This Chapter, You Will
+
+- Identify popular advice that fails in Web3/AI contexts
+- Build tests to evaluate borrowed playbooks before adoption
+- Replace harmful defaults with systems-aligned practices
+- Create a culture that rewards disconfirming evidence
+
+## Founder’s Checklist
+
+- Which “best practices” have hurt us this quarter?
+- What would we stop doing if we only followed evidence?
+- Where do incentives contradict our stated values?
+- Who is empowered to say “stop” and be taken seriously?
+
+## Exercises
+
+- List 5 common playbooks; write when they fail for you
+- Create a “trial period” policy for any new process
+- Run a 90‑day experiment replacing one harmful default
 
 ## 2. When Conventional Startup Wisdom Actively Harms Web3/AI Ventures
 

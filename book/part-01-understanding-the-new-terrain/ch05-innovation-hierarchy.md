@@ -8,6 +8,13 @@ Understanding where your venture fits within this innovation hierarchy is not me
 
 This chapter explores the architecture of innovation in the Web3 and AI era, revealing the distinct layers where value is created and captured.
 
+## In This Chapter, You Will
+
+- Place your venture in the stack (infrastructure, platform, application)
+- See how value capture patterns differ by layer
+- Choose funding, timelines, and GTM that fit your layer
+- Plan credible layer transitions (if any) over time
+
 ## Infrastructure vs. Application Innovation
 
 ### Defining the Layers
@@ -37,6 +44,19 @@ The platform layer connects infrastructure with applications, making lower-level
 Platform innovations focus on developer experience, standardization, and abstraction of complexity.
 
 **Application Layer**
+
+## Founder’s Checklist
+
+- Are we pretending to be a platform while building an app?
+- Do our KPIs match our layer (dev adoption vs. end-user growth)?
+- Where are our defensibility levers at this layer?
+- What’s our partner strategy up/down the stack?
+
+## Exercises
+
+- Write a one-page “layer thesis” for your venture
+- Define 3 metrics that actually matter for your layer
+- Identify 2 adjacent-layer partners and a co-ship plan
 
 The application layer directly serves end users, solving specific problems or providing particular experiences:
 - Consumer applications (social networks, productivity tools)

@@ -1,4 +1,4 @@
-# Zero to Three: Project Folder Structure
+# Zero to Three: Project Organization
 
 This document defines the organizational structure for the "Zero to Three" book project to maintain consistency and clarity as the project grows.
 
@@ -6,33 +6,44 @@ This document defines the organizational structure for the "Zero to Three" book 
 
 ```
 zero_to_three/
-├── README.md                    # Project overview and navigation
-├── FOLDER_STRUCTURE.md         # This file - organizational guidelines
-├── case_studies.md             # Comprehensive case study compendium
-├── chapters/                   # All book chapters
-│   ├── chapter_18.md          # ONE — Building What Works
-│   └── chapter_32.md          # Financial Centers and Capital Access
-├── resources/                  # Supporting materials (to be created)
-│   ├── images/                # Diagrams, charts, photos
-│   ├── templates/             # Chapter templates, case study formats
-│   └── research/              # Background research, interview notes
-└── drafts/                    # Work-in-progress content (to be created)
-    ├── outlines/              # Chapter outlines and planning
-    ├── fragments/             # Partial content and ideas
-    └── archive/               # Old versions and discarded content
+├── README.md                           # Project overview and navigation
+├── book/                              # Main book content
+│   ├── SUMMARY.md                     # Book table of contents
+│   ├── company-index.md              # Comprehensive case study compendium
+│   ├── 00-preface.md                 # Front matter files
+│   ├── 02-introduction.md            # Introduction
+│   ├── 97-epilogue.md                # Back matter files
+│   ├── 98-appendix.md
+│   ├── part-1-the-new-paradigm/
+│   ├── part-2-learning-from-failure/
+│   ├── part-3-technical-and-organizational-innovations/
+│   ├── part-4-crypto-native-models/
+│   ├── part-5-three-leading-systems/
+│   └── part-6-the-new-geography-of-innovation/
+├── resources/                         # Supporting materials
+│   ├── project-organization.md       # This file - organizational guidelines  
+│   ├── images/                       # Diagrams, charts, photos
+│   ├── templates/                    # Chapter templates, case study formats
+│   └── research/                     # Background research, interview notes
+└── drafts/                           # Work-in-progress content
+    ├── outlines/                     # Chapter outlines and planning
+    ├── fragments/                    # Partial content and ideas
+    └── archive/                      # Old versions and discarded content
 ```
 
 ## File Naming Conventions
 
 ### Chapters
-- **Format**: `chapter_XX.md` where XX is the chapter number (zero-padded)
-- **Examples**: `chapter_01.md`, `chapter_18.md`, `chapter_32.md`
-- **Title Format**: Include chapter title as H1 header within the file
+- **Format**: `chXX-descriptive-name.md` where XX is the chapter number (zero-padded)
+- **Examples**: `ch01-the-new-paradigm.md`, `ch18-alternative-funding.md`, `ch32-global-coordination.md`
+- **Title Format**: Include chapter number and title as H1 header within the file
+- **Location**: Within appropriate `part-#-description/` directories
 
 ### Case Studies
-- **Main File**: `case_studies.md` (comprehensive compendium)
+- **Main File**: `company-index.md` (comprehensive case study compendium)
 - **Individual Studies**: If needed, use format `case_study_[company_name].md`
 - **Examples**: `case_study_anthropic.md`, `case_study_tsmc.md`
+- **Integration**: Case studies are embedded within relevant chapters rather than standalone files
 
 ### Supporting Documents
 - **Outlines**: `outline_chapter_XX.md` or `outline_[topic].md`

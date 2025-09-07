@@ -1,4 +1,4 @@
-# CHAPTER 8: THE FOUNDER'S PSYCHOLOGY
+# Chapter 9: The Founder's Psychology
 
 ## 1. Introduction: The Inner Game of Founding
 
@@ -11,6 +11,26 @@ In the Web3 and AI landscape, this psychological foundation becomes even more cr
 This chapter maps this internal terrainexamining cognitive biases, emotional challenges, and psychological tools that shape the entrepreneurial journey. By understanding and actively designing their mental landscape, founders can transform their psychology from a hidden liability into a strategic asset.
 
 The reality is simple but profound: the founder's psychology is the first product they build. Everything else emerges from this foundation.
+
+## In This Chapter, You Will
+
+- Build a resilient inner operating system for volatile conditions
+- Identify your cognitive biases and install debiasing routines
+- Create recovery and support systems before you need them
+- Translate personal mastery into better team decisions
+
+## Founder’s Checklist
+
+- What are my early warning signs of overload?
+- Which practices reliably reset me in <30 minutes?
+- Who are my 3 advisors for product, people, and psyche?
+- What decisions do I only make well when rested?
+
+## Exercises
+
+- Run a one-week “energy audit”; adjust your work blocks
+- Write a pre-mortem for yourself, not your startup
+- Schedule two recurring recovery rituals in your calendar
 
 ## 2. Cognitive Biases in Emerging Tech Entrepreneurship
 

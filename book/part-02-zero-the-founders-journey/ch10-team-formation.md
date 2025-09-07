@@ -1,4 +1,4 @@
-# Chapter 9: The Resilience Toolkit
+# Chapter 10: The Resilience Toolkit
 
 ## 1. Introduction: Resilience Is the Real Traction
 
@@ -9,6 +9,26 @@ What ultimately determines entrepreneurial success isn't peak performance but pe
 This pattern reveals a crucial truth: success doesn't belong to the smartest—it belongs to the most durable. Particularly in domains like Web3 and AI, where technological complexity and market volatility create extraordinary psychological challenges, resilience becomes the fundamental competitive advantage. The founder who can maintain clarity, motivation, and effectiveness through funding droughts, technical setbacks, team conflicts, and market rejection possesses an advantage that transcends any particular skill or insight.
 
 Crucially, this resilience isn't a reactive quality that emerges spontaneously during crises. Rather, it represents proactive infrastructure for uncertainty—psychological systems deliberately built before they're desperately needed. Just as companies invest in financial reserves and technical redundancies to weather operational challenges, founders must invest in psychological reserves and emotional redundancies to withstand entrepreneurial challenges.
+
+## In This Chapter, You Will
+
+- Treat resilience as deliberate infrastructure, not a personality trait
+- Build routines for stress, recovery, and decision hygiene
+- Create team-level practices that reduce failure cascades
+- Turn setbacks into compounding learning
+
+## Founder’s Checklist
+
+- What is our incident response for people, not just systems?
+- Which rituals keep us sane during fundraising or launches?
+- Where do we routinely overextend and how do we stop?
+- Who owns morale—and how do we measure it?
+
+## Exercises
+
+- Write a personal “runbook” for your next tough week
+- Define a team postmortem template emphasizing learning and care
+- Schedule a quarterly resilience review with concrete changes
 
 This chapter provides a practical playbook for building this resilience infrastructure—training your emotional operating system to function effectively through the extreme conditions that entrepreneurship inevitably creates. These practices and frameworks aren't abstract theories but battle-tested approaches developed by founders who've navigated the psychological gauntlet of building ventures at technological frontiers.
 

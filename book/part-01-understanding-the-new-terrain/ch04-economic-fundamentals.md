@@ -10,6 +10,13 @@ The "build and they will come" approach—prioritizing product development and u
 
 This chapter aims to equip founders with the economic literacy required to build, fund, and scale responsibly in the Web3 and AI era.
 
+## In This Chapter, You Will
+
+- Distinguish natural vs. manufactured scarcity in your model
+- Map unit economics across users, contributors, and validators
+- Choose capital structures aligned with your time horizons
+- Stress-test survivability under different macro scenarios
+
 ## 2. Scarcity: Real vs. Manufactured
 
 At the heart of economics lies the concept of scarcity—the tension between unlimited wants and limited resources. For founders, understanding different types of scarcity and how they operate in various contexts is essential for effective strategy and product design.
@@ -37,6 +44,19 @@ In contrast to natural scarcity, digital economies often involve deliberately cr
 **Digital Goods** like NFTs deliberately restrict supply to create perceived value. The scarcity is entirely constructed through technical and social mechanisms.
 
 **Access Controls** to AI capabilities or specialized APIs create artificial bottlenecks that enable monetization.
+
+## Founder’s Checklist
+
+- What are our real constraints (energy, compute, capital, talent)?
+- What manufactured constraints create value vs. frustrate users?
+- How resilient are we to rate hikes, liquidity shocks, or supply crunches?
+- Where does value accrue in our stack—and to whom?
+
+## Exercises
+
+- Build a simple survival model: 12–18 months under bear-case assumptions
+- Define 3 pricing experiments that match value delivered
+- Design a positive-sum incentive for a key external contributor
 
 **Compute Resources** for specialized tasks may be artificially restricted to create pricing power, even when additional capacity could technically be provided.
 

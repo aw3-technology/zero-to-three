@@ -22,3 +22,23 @@ The FTX collapse serves as a cautionary tale about confusing technological innov
 - Smart contracts as programmable money
 - Decentralized consensus mechanisms
 - The shift from client-server to peer-to-peer architectures
+
+## In This Chapter, You Will
+
+- Recognize the primitives driving the current shift
+- Map how these primitives change system design choices
+- Avoid hype: separate infrastructure from applications
+- Identify a practical experiment to run in your domain
+
+## Founder’s Checklist
+
+- Do we need a blockchain—or just a database with signatures?
+- What assumptions break if an AI agent is the user?
+- Which parts must be open/standard vs. closed/defensible?
+- How will we verify integrity, provenance, and intent?
+
+## Exercises
+
+- Redesign one core flow assuming AI agents are first-class users
+- Diagram your trust model: who/what must you verify and how?
+- Choose one decentralization you can credibly adopt in 90 days

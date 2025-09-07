@@ -1,56 +1,71 @@
-# Summary
+# Zero to Three: A Web3 Guide to Building the Future
 
-* [Preface & Prologue](chapters/00-front-matter.md)
-* [Introduction: The New Landscape](chapters/01-introduction.md)
+## Table of Contents
 
-## Part I - Understanding the New Terrain
+### [Preface](00-preface.md)
 
-* [Chapter 1: The Evolution of Entrepreneurship](chapters/02-evolution-of-entrepreneurship.md)
-* [Chapter 2: Timeless Wisdom from "Zero to One"](chapters/03-timeless-wisdom-zero-to-one.md)
-* [Chapter 3: The Technical Paradigm Shift](chapters/04-technical-paradigm-shift.md)
-* [Chapter 4: Economic Fundamentals for Founders](chapters/05-economic-fundamentals-for-founders.md)
-* [Chapter 5: The Innovation Hierarchy](chapters/06-innovation-hierarchy.md)
-* [Chapter 6: Creating Defensible Advantages](chapters/07-creating-defensible-advantages.md)
-* [Chapter 7: Understanding User Adoption](chapters/08-understanding-user-adoption.md)
+### [Introduction](02-introduction.md)
 
-## Part II - Zero: The Founder's Journey
+---
 
-* [Chapter 8: The Founder's Psychology](chapters/09-founders-psychology.md)
-* [Chapter 9: The Resilience Toolkit](chapters/10-resilience-toolkit.md)
-* [Chapter 10: When Everything Breaks: Learning Through Collapse](chapters/11-when-everything-breaks.md)
-* [Chapter 11: Navigating Modern Capital](chapters/12-navigating-modern-capital.md)
-* [Chapter 12: Anti-Pattern Recognition](chapters/13-anti-pattern-recognition.md)
-* [Chapter 13: Building in Uncertainty](chapters/14-building-in-uncertainty.md)
-* [Chapter 14: ZERO - Self-Leadership](chapters/15-zero-self-leadership.md)
-* [Chapter 15: The Founder's Curriculum](chapters/16-founders-curriculum.md)
+## Part I: Understanding the New Terrain
 
-## Part III - One: Building What Works
+* [Chapter 1: The New Paradigm](part-01-understanding-the-new-terrain/ch01-the-new-paradigm.md)
+* [Chapter 2: Evolution of Entrepreneurship](part-01-understanding-the-new-terrain/ch02-evolution-of-entrepreneurship.md)  
+* [Chapter 3: Technical Paradigm Shift](part-01-understanding-the-new-terrain/ch03-technical-paradigm-shift.md)
+* [Chapter 4: Economic Fundamentals](part-01-understanding-the-new-terrain/ch04-economic-fundamentals.md)
+* [Chapter 5: Innovation Hierarchy](part-01-understanding-the-new-terrain/ch05-innovation-hierarchy.md)
+* [Chapter 6: Idea Development](part-01-understanding-the-new-terrain/ch06-idea-development.md)
+* [Chapter 7: Global Perspectives](part-01-understanding-the-new-terrain/ch07-global-perspectives.md)
 
-* [Chapter 16: Alternative Funding Models](chapters/18-alternative-funding-models.md)
-* [Chapter 19: Tokenomics and Incentive Engineering](chapters/20-tokenomics-incentive-engineering.md)
-* [Chapter 20: AI System Design](chapters/21-ai-system-design.md)
-* [Chapter 21: Web3 Architecture and Security](chapters/22-web3-architecture-security.md)
-* [Chapter 22: Cross-Industry Applications](chapters/23-cross-industry-applications.md)
+## Part II: Zero - The Founder's Journey
 
-## Part IV - Two: Gaining Traction
+* [Chapter 8: Market Validation](part-02-zero-the-founders-journey/ch08-market-validation.md)
+* [Chapter 9: Technical Foundations](part-02-zero-the-founders-journey/ch09-technical-foundations.md)
+* [Chapter 10: Team Formation](part-02-zero-the-founders-journey/ch10-team-formation.md)
+* [Chapter 11: When Everything Breaks](part-02-zero-the-founders-journey/ch11-when-everything-breaks.md)
+* [Chapter 12: Building in Uncertainty](part-02-zero-the-founders-journey/ch12-building-in-uncertainty.md)
+* [Chapter 13: Navigating Modern Capital](part-02-zero-the-founders-journey/ch13-navigating-modern-capital.md)
+* [Chapter 14: Anti-Pattern Recognition](part-02-zero-the-founders-journey/ch14-anti-pattern-recognition.md)
+* [Chapter 15: Self-Leadership](part-02-zero-the-founders-journey/ch15-self-leadership.md)
+* [Chapter 16: Solo Founders in the AI Era](part-02-zero-the-founders-journey/ch16-solo-founders-ai-era.md)
 
-* [Chapter 23: Trust and Community](chapters/24-trust-community.md)
-* [Chapter 24: The Creator-Founder Crossroad](chapters/25-creator-founder-crossroad.md)
-* [Chapter 25: Convergence Opportunities](chapters/26-convergence-opportunities.md)
+## Part III: One - Building What Works
 
-## Part V - Three: Leading Systems
+* [Chapter 13: System Thinking](part-03-one-building-systems/ch13-system-thinking.md)
+* [Chapter 14: Technology Decisions](part-03-one-building-systems/ch14-technology-decisions.md)
+* [Chapter 15: User Experience](part-03-one-building-systems/ch15-user-experience.md)
+* [Chapter 17: Founders Curriculum](part-03-one-building-systems/ch17-founders-curriculum.md)
+* [Chapter 18: Alternative Funding](part-03-one-building-systems/ch18-alternative-funding.md)
+* [Chapter 19: Building What Works](part-03-one-building-systems/ch19-building-what-works.md)
+* [Chapter 20: Scaling Challenges](part-03-one-building-systems/ch20-scaling-challenges.md)
+* [Chapter 21: AI System Design](part-03-one-building-systems/ch21-ai-system-design.md)
+* [Chapter 22: Decentralized Governance](part-03-one-building-systems/ch22-decentralized-governance.md)
+* [Chapter 23: Global Expansion](part-03-one-building-systems/ch23-global-expansion.md)
 
-* [Chapter 26: THREE - System Leadership](chapters/27-three-system-leadership.md)
-* [Chapter 27: Founder Evolution](chapters/28-founder-evolution.md)
-* [Chapter 28: Building Movements](chapters/29-building-movements.md)
-* [Chapter 29: Long-Term Vision](chapters/30-long-term-vision.md)
+## Part IV: Two - Gaining Traction
 
-## Part VI - The New Geography of Innovation
+* [Chapter 24: Community Building](part-04-two-scaling-systems/ch24-community-building.md)
+* [Chapter 25: Ecosystem Leadership](part-04-two-scaling-systems/ch25-ecosystem-leadership.md)
+* [Chapter 26: Operational Excellence](part-04-two-scaling-systems/ch26-operational-excellence.md)
 
-* [Chapter 30: The Global Innovation Map](chapters/31-global-innovation-map.md)
-* [Chapter 31: Emerging Market Innovation](chapters/33-emerging-market-innovation.md)
+## Part V: Three - Leading Systems
 
-## Epilogue & Appendix
+* [Chapter 27: System Leadership](part-05-three-leading-systems/ch27-system-leadership.md)
+* [Chapter 28: Future Paradigms](part-05-three-leading-systems/ch28-future-paradigms.md)
+* [Chapter 29: Building Movements](part-05-three-leading-systems/ch29-building-movements.md)
+* [Chapter 30: Legacy Systems](part-05-three-leading-systems/ch30-legacy-systems.md)
 
-* [Epilogue: Being Anointed](chapters/35-epilogue.md)
-* [Appendix](chapters/36-appendix.md)
+## Part VI: Beyond Three
+
+* [Chapter 31: Exponential Impact](part-06-beyond-three/ch31-exponential-impact.md)
+* [Chapter 32: Financial Centers & Capital Access](part-06-beyond-three/ch32-financial-centers-capital-access.md)
+* [Chapter 33: Emerging Market Innovation](part-06-beyond-three/ch33-emerging-market-innovation.md)
+
+---
+
+### [Epilogue](97-epilogue.md)
+
+### [Appendix](98-appendix.md)
+
+### [Company Index](company-index.md)

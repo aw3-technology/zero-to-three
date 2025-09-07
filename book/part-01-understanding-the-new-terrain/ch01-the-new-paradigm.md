@@ -1,4 +1,4 @@
-# Chapter 2: Timeless Wisdom from "Zero to One"
+# Chapter 1: The New Paradigm
 
 ## 1. Introduction: Revisiting Thiel's Foundational Insights
 
@@ -13,6 +13,21 @@ The power of Thiel's thinking lies in its focus on first principles rather than 
 This chapter examines Thiel's most enduring insights and their application to the current technological era. While the previous chapter established why we need to expand beyond "Zero to One" with our "Zero to Three" framework, here we acknowledge the foundation upon which we're building. Many of Thiel's core principles remain essential, even as we adapt them to new contexts and extend them to address emerging challenges.
 
 We'll explore five key Thielian concepts: the power of monopolies, the importance of secrets, vertical versus horizontal progress, last mover advantage, and definite optimism. For each, we'll analyze both the original insight and its application to Web3 and AI ventures. Through this exploration, we'll demonstrate how timeless wisdom can be adapted to novel technological paradigms while retaining its essential value.
+
+## In This Chapter, You Will
+
+- Name the core forces redefining entrepreneurship in the AI + Web3 era
+- Map how systems thinking changes product, GTM, and governance
+- Identify where trust must be engineered (and made verifiable)
+- Choose near-term focus areas that compound into ecosystem leverage
+
+## Operating Principles For Today’s Builders
+
+- Design for composability: clean interfaces, stable contracts, portable data
+- Treat ethics as infrastructure: privacy, consent, recourse built‑in
+- Prefer progressive decentralization: ship centrally, plan credible distribution
+- Make trust verifiable: audits, proofs, transparent governance, incentives
+- Close the loop with learning: ship → measure → adapt at system boundaries
 
 ## 2. The Power of Monopolies: Striving for Market Dominance
 
