@@ -40,31 +40,33 @@
 * [Chapter 20: Tokenomics Incentive Engineering](part-03-one-building-systems/ch20-tokenomics-incentive-engineering.md)
 * [Chapter 21: Web3 Architecture Security](part-03-one-building-systems/ch21-web3-architecture-security.md)
 * [Chapter 22: Building What Works](part-03-one-building-systems/ch22-building-what-works.md)
-* [Chapter 23: Founders Curriculum](part-03-one-building-systems/ch23-founders-curriculum.md)
-* [Chapter 24: AI System Design](part-03-one-building-systems/ch24-ai-system-design.md)
-* [Chapter 25: Decentralized Governance](part-03-one-building-systems/ch25-decentralized-governance.md)
-* [Chapter 26: Global Expansion](part-03-one-building-systems/ch26-global-expansion.md)
-* [Chapter 27: Creating Defensible Advantages](part-03-one-building-systems/ch27-creating-defensible-advantages.md)
+* [Chapter 23: Building in Uncertainty](part-03-one-building-systems/ch23-building-in-uncertainty.md)
+* [Chapter 24: Founders Curriculum](part-03-one-building-systems/ch24-founders-curriculum.md)
+* [Chapter 25: AI System Design](part-03-one-building-systems/ch25-ai-system-design.md)
+* [Chapter 26: Decentralized Governance](part-03-one-building-systems/ch26-decentralized-governance.md)
+* [Chapter 27: Global Expansion](part-03-one-building-systems/ch27-global-expansion.md)
+* [Chapter 28: Creating Defensible Advantages](part-03-one-building-systems/ch28-creating-defensible-advantages.md)
 
 ## Part IV: Two Scaling Systems
 
-* [Chapter 28: The Creator-Founder Crossroad](part-04-two-scaling-systems/ch28-creator-founder-crossroad.md)
-* [Chapter 29: Community Building](part-04-two-scaling-systems/ch29-community-building.md)
-* [Chapter 30: Ecosystem Leadership](part-04-two-scaling-systems/ch30-ecosystem-leadership.md)
-* [Chapter 31: Operational Excellence](part-04-two-scaling-systems/ch31-operational-excellence.md)
+* [Chapter 29: The Creator-Founder Crossroad](part-04-two-scaling-systems/ch29-creator-founder-crossroad.md)
+* [Chapter 30: Community Building](part-04-two-scaling-systems/ch30-community-building.md)
+* [Chapter 31: Ecosystem Leadership](part-04-two-scaling-systems/ch31-ecosystem-leadership.md)
+* [Chapter 32: Operational Excellence](part-04-two-scaling-systems/ch32-operational-excellence.md)
 
 ## Part V: Three Leading Systems
 
-* [Chapter 32: System Leadership](part-05-three-leading-systems/ch32-system-leadership.md)
-* [Chapter 33: Future Paradigms](part-05-three-leading-systems/ch33-future-paradigms.md)
-* [Chapter 34: Building Movements](part-05-three-leading-systems/ch34-building-movements.md)
-* [Chapter 35: Legacy Systems](part-05-three-leading-systems/ch35-legacy-systems.md)
+* [Chapter 33: System Leadership](part-05-three-leading-systems/ch33-system-leadership.md)
+* [Chapter 34: Future Paradigms](part-05-three-leading-systems/ch34-future-paradigms.md)
+* [Chapter 35: Building Movements](part-05-three-leading-systems/ch35-building-movements.md)
+* [Chapter 36: Legacy Systems](part-05-three-leading-systems/ch36-legacy-systems.md)
 
 ## Part VI: Beyond Three
 
-* [Chapter 36: Exponential Impact](part-06-beyond-three/ch36-exponential-impact.md)
-* [Chapter 37: Financial Centers Capital Access](part-06-beyond-three/ch37-financial-centers-capital-access.md)
-* [Chapter 38: Emerging Market Innovation](part-06-beyond-three/ch38-emerging-market-innovation.md)
+* [Chapter 37: Exponential Impact](part-06-beyond-three/ch37-exponential-impact.md)
+* [Chapter 38: Financial Centers Capital Access](part-06-beyond-three/ch38-financial-centers-capital-access.md)
+* [Chapter 39: Cross-Industry Transformation](part-06-beyond-three/ch39-cross-industry-transformation.md)
+* [Chapter 40: Emerging Market Innovation](part-06-beyond-three/ch40-emerging-market-innovation.md)
 
 <!-- Legacy section removed from TOC: part-2-learning-from-failure -->
 

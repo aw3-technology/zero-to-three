@@ -514,6 +514,79 @@ The psychology explored in this chapter fundamentally shapes every aspect of the
 - Exercise 1: Prompt or activity.
 - Exercise 2: Prompt or activity.
 
+## Sources
+
+### Cognitive Psychology and Behavioral Economics
+- Kahneman, Daniel. *Thinking, Fast and Slow*. Farrar, Straus and Giroux, 2011.
+- Tversky, Amos, and Daniel Kahneman. "Judgment Under Uncertainty: Heuristics and Biases." Science, 1974.
+- Ariely, Dan. *Predictably Irrational: The Hidden Forces That Shape Our Decisions*. HarperCollins, 2008.
+- Thaler, Richard H., and Cass R. Sunstein. *Nudge: Improving Decisions About Health, Wealth, and Happiness*. Yale University Press, 2008.
+
+### Entrepreneurial Psychology
+- Shane, Scott. *The Illusions of Entrepreneurship: The Costly Myths That Entrepreneurs, Investors, and Policy Makers Live By*. Yale University Press, 2008.
+- Baron, Robert A. "Cognitive Mechanisms in Entrepreneurship: Why and When Entrepreneurs Think Differently Than Other People." Journal of Business Venturing, 1998.
+- Busenitz, Lowell W., and Jay B. Barney. "Differences Between Entrepreneurs and Managers in Large Organizations: Biases and Heuristics in Strategic Decision-Making." Journal of Business Venturing, 1997.
+
+### Stress and Mental Health
+- Sapolsky, Robert M. *Why Zebras Don't Get Ulcers: The Acclaimed Guide to Stress, Stress-Related Diseases, and Coping*. W. H. Freeman, 2004.
+- van der Kolk, Bessel. *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. Viking, 2014.
+- Brown, Brené. *Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead*. Gotham Books, 2012.
+- Kabat-Zinn, Jon. *Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life*. Hyperion, 1994.
+
+### Founder Mental Health and Burnout
+- Freeman, Michael A., et al. "Are Entrepreneurs 'Touched with Fire'?" Small Business Research Center, University of California, Berkeley, 2015.
+- Wasserman, Noam. "The Founder's Dilemma." Harvard Business Review, 2008.
+- Harvard Business Review. "The Psychological Price of Entrepreneurship." 2013.
+- Shontell, Alyson. "Entrepreneurs Are the New Labor: Part 1." Business Insider, 2014.
+
+### Cognitive Biases and Decision Making
+- Heath, Chip, and Dan Heath. *Decisive: How to Make Better Choices in Life and Work*. Crown Business, 2013.
+- Gilovich, Thomas, Dale Griffin, and Daniel Kahneman, eds. *Heuristics and Biases: The Psychology of Intuitive Judgment*. Cambridge University Press, 2002.
+- Bazerman, Max H., and Don A. Moore. *Judgment in Managerial Decision Making*. Wiley, 2012.
+
+### Resilience and Peak Performance
+- Dweck, Carol S. *Mindset: The New Psychology of Success*. Random House, 2006.
+- Duckworth, Angela. *Grit: The Power of Passion and Perseverance*. Scribner, 2016.
+- Csikszentmihalyi, Mihaly. *Flow: The Psychology of Optimal Experience*. Harper & Row, 1990.
+- Seligman, Martin E.P. *Learned Optimism: How to Change Your Mind and Your Life*. Vintage Books, 2006.
+
+### Leadership Psychology
+- Goleman, Daniel. *Emotional Intelligence: Why It Matters More Than IQ*. Bantam Books, 1995.
+- Brown, Brené. *Dare to Lead: Brave Work, Tough Conversations, Whole Hearts*. Random House, 2018.
+- Kegan, Robert, and Lisa Laskow Lahey. *Immunity to Change: How to Overcome It and Unlock the Potential in Yourself and Your Organization*. Harvard Business Review Press, 2009.
+
+### Systems Thinking and Mental Models
+- Senge, Peter M. *The Fifth Discipline: The Art & Practice of The Learning Organization*. Doubleday, 2006.
+- Meadows, Donella H. *Thinking in Systems: A Primer*. Chelsea Green Publishing, 2008.
+- Johnson-Laird, Philip N. *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*. Harvard University Press, 1983.
+
+### Innovation and Creativity
+- Christensen, Clayton M. *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail*. Harvard Business Review Press, 1997.
+- Thiel, Peter, and Blake Masters. *Zero to One: Notes on Startups, or How to Build the Future*. Crown Business, 2014.
+- Johnson, Steven. *Where Good Ideas Come From: The Natural History of Innovation*. Riverhead Books, 2010.
+
+### Web3 and AI Specific Psychology
+- Russell, Stuart J. *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking, 2019.
+- O'Neil, Cathy. *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*. Crown, 2016.
+- Zuboff, Shoshana. *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. PublicAffairs, 2019.
+- Buterin, Vitalik. "Notes on Blockchain Governance." Vitalik.ca, 2017.
+
+### Research on Founder Psychology
+- Cardon, Melissa S., et al. "The Nature and Experience of Entrepreneurial Passion." Academy of Management Review, 2009.
+- Hmieleski, Keith M., and Robert A. Baron. "Entrepreneurs' Optimism and New Venture Performance: A Social Cognitive Perspective." Academy of Management Journal, 2009.
+- Hayward, Mathew L.A., et al. "Beyond Hubris: How Highly Confident Entrepreneurs Rebound to Venture Again." Journal of Business Venturing, 2010.
+
+### Support Systems and Community
+- Granovetter, Mark S. "The Strength of Weak Ties." American Journal of Sociology, 1973.
+- Putnam, Robert D. *Bowling Alone: The Collapse and Revival of American Community*. Simon & Schuster, 2000.
+- Reis, Harry T., and Phillip R. Shaver. "Intimacy as an Interpersonal Process." In Handbook of Personal Relationships, 1988.
+
+### Mental Health Resources
+- National Institute of Mental Health. "Mental Health Information." nimh.nih.gov
+- Founders Mental Health Pledge. foundermentalhealthpledge.com
+- Entrepreneurs' Organization. "Mental Health Resources for Entrepreneurs." eonetwork.org
+- Harvard Business School. "Managing Yourself: The Psychological Price of Entrepreneurship." hbr.org
+
 ## Related Case Studies
 - ClimateBase: ../case-studies/compendium.md#climatebase
 - JustiGuide: ../case-studies/compendium.md#justiguide

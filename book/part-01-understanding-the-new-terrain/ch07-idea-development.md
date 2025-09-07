@@ -6,6 +6,20 @@
 
 How to create competitive advantages when code is open source and forkable.
 
+In Web3 and AI, traditional moats often don't apply. Code is frequently open source, models can be replicated, and network effects take time to establish. Yet the most successful ventures in these spaces have built formidable competitive advantages. The key lies in understanding which moats work in open, composable systems and how to build them systematically.
+
+### The Paradox of Open Competition
+
+Web3 and AI present a fundamental paradox: transparency and openness are core values, yet competitive advantage still matters for business sustainability. This creates unique challenges:
+
+- **Forkability**: Anyone can copy your code and launch a competitor
+- **Composability**: Your components become building blocks for others
+- **Network Effects**: Take longer to establish in decentralized systems
+- **Commoditization Risk**: Pure technology advantages erode quickly
+- **Community Governance**: Users have more power to influence direction
+
+Successful founders in these spaces don't fight this reality—they design for it, creating advantages that compound rather than erode in open systems.
+
 ## Case Studies
 
 ### n8n
