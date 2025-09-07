@@ -1,4 +1,4 @@
-# Chapter 21: AI System Design
+# Chapter 24: AI System Design
 
 ## 1. Introduction: From Tools to Systems of Intelligence
 
@@ -34,6 +34,10 @@ The most successful AI products aren't simply tools with ML capabilities bolted 
 
 ## Related Case Studies
 
+- Weights & Biases: ../case-studies/ai-infrastructure-case-studies.md#weights--biases-mlops-and-experiment-tracking
+- Humanloop: ../case-studies/ai-infrastructure-case-studies.md#humanloop-llm-application-development-platform
+- Replicate: ../case-studies/ai-infrastructure-case-studies.md#replicate-ai-model-marketplace-and-hosting
+- Cursor (Anysphere): ../case-studies/ai-infrastructure-case-studies.md#anysphere-cursor-redefining-development-tools
 - OpenAI: ../case-studies/compendium.md#openai
 - Anthropic: ../case-studies/compendium.md#anthropic
 - Hugging Face: ../case-studies/compendium.md#hugging-face
@@ -74,6 +78,53 @@ Visual workflow interfaces enable users to design multi-step processes combining
 
 **Outcome-Based Direction**
 Advanced interfaces focused on desired results rather than specific processes allow users to define what they want accomplished while leaving implementation details to the system.
+
+## 3. Evaluation Frameworks (Offline + Online)
+
+Offline Eval Suite (pre-deploy)
+- Gold set: 200–1,000 labeled examples representative of production tasks
+- Metrics: task-appropriate (e.g., Rouge/BLEU exact-match; rubric-based scoring; hallucination rate)
+- Benchmarks: track by model, prompt, and retrieval settings; store in repo; run in CI
+
+Example rubric (summarization):
+```
+Score 1–5 across: factuality, completeness, clarity, style adherence; require avg ≥4.0
+Block release if any category <3.5
+```
+
+Online Eval Suite (post-deploy)
+- Shadow labeling: sample 1–5% of prod interactions for human review
+- Guardrail metrics: jailbreak rate, PII leakage rate, toxicity flags
+- Business metrics: TTV, task success rate, p95 latency, cost per task
+- Release gates: traffic ramps (1%→5%→25%→100%) when guardrails within thresholds
+
+## 4. Data Governance Patterns
+
+Redaction & Logging
+- Redact PII at edge; hash or tokenize stable identifiers
+- Store inputs/outputs with trace IDs; keep raw sensitive payloads out of logs
+- Separate audit logs for privileged actions; immutable storage for 90–365 days
+
+Access Controls
+- Principle of least privilege; short-lived credentials; dual control for key changes
+- Data classification policy (public/internal/restricted/secret) with retention rules
+
+Feedback Loops
+- Capture explicit user feedback; triage hard cases; add to gold set with labels
+- Avoid training on sensitive or user-owned data without explicit consent
+
+## 5. Safe Autonomy Matrix
+
+Template:
+```
+Task | Autonomy | Risk | Guardrails | Human-in-Loop | Fallback
+---- | -------- | ---- | ---------- | ------------- | --------
+Draft email | Assist  | Low  | length/tone limits | optional review | return to template
+Prod deploy | Approve | High | tests + policy gates | required       | block + alert
+On-chain tx | Approve | High | dry-run + limits     | required       | cancel
+```
+
+Adopt stricter autonomy for high-impact, low-reversibility tasks. Encode guardrails in code and policy; test with red-team scenarios.
 
 The most effective interfaces often combine elements from multiple paradigms, balancing accessibility with flexibility.
 
@@ -509,6 +560,42 @@ NVIDIA demonstrates how infrastructure-level innovation creates enduring competi
 
 NVIDIA's approach highlights how controlling foundational layers creates extraordinary leverage—with their chips, software, and development tools shaping what's practically possible throughout the entire AI industry.
 
+### Weights & Biases – MLOps for AI Development Lifecycle
+
+Weights & Biases demonstrates how infrastructure tools can become essential for professional AI development—creating the version control, experimentation, and monitoring systems that enable teams to build AI applications systematically rather than through ad-hoc experimentation.
+
+**Experiment Tracking and Reproducibility**
+- Systematic logging of model training runs and hyperparameters
+- Version control for datasets, models, and training configurations
+- Collaborative workflows enabling team-based AI development
+- Reproducible research through standardized experiment management
+
+**Production Monitoring and Model Performance**
+- Real-time monitoring of model performance in production environments
+- Automated alerting when model accuracy degrades
+- A/B testing frameworks for comparing model versions
+- Data drift detection ensuring models remain effective over time
+
+The W&B approach highlights how AI development requires specialized tooling—traditional software development practices must be augmented with experiment tracking, model versioning, and performance monitoring specifically designed for machine learning workflows.
+
+### Humanloop – LLM Application Development Platform
+
+Humanloop exemplifies the specialized tooling required for large language model applications—providing prompt management, model comparison, and human feedback collection specifically designed for LLM-based products rather than traditional ML applications.
+
+**Prompt Engineering and Optimization**
+- Version control for prompts and prompt templates
+- A/B testing for different prompt variations
+- Systematic optimization of prompt performance
+- Integration with multiple LLM providers for model comparison
+
+**Human-in-the-Loop Workflows**
+- Structured collection of human feedback on model outputs
+- Fine-tuning based on human preferences and corrections
+- Quality assurance workflows for LLM applications
+- Analytics and insights into model performance and user satisfaction
+
+Humanloop demonstrates how LLM applications require different tooling than traditional ML—focusing on prompt optimization, human feedback, and model comparison rather than traditional training and deployment pipelines.
+
 ## 8. Implementation Guide: Building AI-Native Applications
 
 ### Architecture Patterns
@@ -648,3 +735,14 @@ The most successful AI products function as complete systems rather than merely 
 ---
 
 Through these principles, founders can create AI systems that deliver genuine value—moving beyond the hype cycle to build products that solve real problems through appropriately designed intelligence. By focusing on systematic development rather than merely implementing the latest models, teams create sustainable advantages through deliberate architecture rather than temporary differentiation through access to capabilities that quickly become commoditized.
+
+## In This Chapter
+- Key points go here.
+
+## Checklist
+- [ ] Actionable step 1
+- [ ] Actionable step 2
+
+## Exercises
+- Exercise 1: Prompt or activity.
+- Exercise 2: Prompt or activity.

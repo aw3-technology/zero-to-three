@@ -1,0 +1,16 @@
+exclude = [
+  "^mailto:",
+  "^tel:",
+  "^#",
+]
+max_concurrency = 20
+timeout = 15
+retry_wait_time = 2
+user_agent = "lychee/quality-gate"
+scheme = "https"
+
+# Treat 429/5xx as transient
+[status]
+accept = [200, 204]
+exclude = [429, 500, 502, 503, 504]
+

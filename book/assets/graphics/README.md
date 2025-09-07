@@ -7,42 +7,42 @@ This directory contains SVG graphics and diagrams for the "Zero to Three" book. 
 ### Core Framework Diagrams
 
 #### 1. Zero to Three Framework (`zero-to-three-framework.svg`)
-**Purpose**: Central framework diagram showing the progression from Zero (idea) → One (product) → Two (scale) → Three (leadership) → Beyond  
-**Used in**: Introduction, Chapter 2 (Evolution of Entrepreneurship)  
+**Purpose**: Central framework diagram showing the progression from Zero (idea) → One (product) → Two (scale) → Three (leadership) → Beyond
+**Used in**: Introduction, Chapter 2 (Evolution of Entrepreneurship)
 **Key Elements**: Stage definitions, timeline, metrics, characteristics by phase
 
 #### 2. Innovation Hierarchy (`innovation-hierarchy.svg`)
-**Purpose**: Illustrates the three-layer innovation stack (Infrastructure, Platform, Application)  
-**Used in**: Chapter 5 (Innovation Hierarchy)  
+**Purpose**: Illustrates the three-layer innovation stack (Infrastructure, Platform, Application)
+**Used in**: Chapter 5 (Innovation Hierarchy)
 **Key Elements**: Layer definitions, examples, value flow, capital requirements
 
 #### 3. Founder Journey Timeline (`founder-journey-timeline.svg`)
-**Purpose**: Detailed timeline showing milestones, challenges, and decision points throughout the founder journey  
-**Used in**: Part 2 overview, various journey chapters  
+**Purpose**: Detailed timeline showing milestones, challenges, and decision points throughout the founder journey
+**Used in**: Part 2 overview, various journey chapters
 **Key Elements**: Phase transitions, success metrics, risk periods, critical decisions
 
 ### Technology & Ecosystem Diagrams
 
 #### 4. Web3 Ecosystem Architecture (`web3-ecosystem.svg`)
-**Purpose**: Comprehensive view of the Web3 technology stack from L1 blockchains to user applications  
-**Used in**: Chapter 3 (Technical Paradigm Shift), various technical chapters  
+**Purpose**: Comprehensive view of the Web3 technology stack from L1 blockchains to user applications
+**Used in**: Chapter 3 (Technical Paradigm Shift), various technical chapters
 **Key Elements**: 5-layer architecture, AI integration, value flows, innovation patterns
 
 #### 5. AI × Web3 Convergence (`ai-web3-convergence.svg`)
-**Purpose**: Shows how AI and Web3 technologies combine to create new primitives and applications  
-**Used in**: Chapter 3 (Technical Paradigm Shift), Chapter 25 (Ecosystem Leadership)  
+**Purpose**: Shows how AI and Web3 technologies combine to create new primitives and applications
+**Used in**: Chapter 3 (Technical Paradigm Shift), Chapter 25 (Ecosystem Leadership)
 **Key Elements**: Technology mapping, convergence applications, emergent properties
 
 #### 6. Technical Decision Tree (`technical-decision-tree.svg`)
-**Purpose**: Decision framework for choosing centralized vs. hybrid vs. decentralized architecture  
-**Used in**: Chapter 3 (Technical Paradigm Shift), Chapter 21 (AI System Design)  
+**Purpose**: Decision framework for choosing centralized vs. hybrid vs. decentralized architecture
+**Used in**: Chapter 3 (Technical Paradigm Shift), Chapter 21 (AI System Design)
 **Key Elements**: Decision criteria, economic considerations, team size factors
 
 ### Business & Strategy Diagrams
 
 #### 7. Alternative Funding Mechanisms (`alternative-funding-mechanisms.svg`)
-**Purpose**: Comprehensive overview of funding options in the Web3 era beyond traditional VC  
-**Used in**: Chapter 18 (Alternative Funding)  
+**Purpose**: Comprehensive overview of funding options in the Web3 era beyond traditional VC
+**Used in**: Chapter 18 (Alternative Funding)
 **Key Elements**: 5 funding categories, comparison matrix, examples, pros/cons
 
 ## Usage Guidelines

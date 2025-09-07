@@ -1,4 +1,4 @@
-# Chapter 19: Building What Works
+# Chapter 22: Building What Works
 
 ## 1. Introduction: From Theory to Traction
 
@@ -39,6 +39,56 @@ This acceleration creates both opportunity and imperative: while you can build f
 - Write an MVS spec: product + loop + trust
 - Define 3 “sharp edges” to smooth before GA
 - Publish a contributor guide and a simple first PR task
+
+## MVS One‑Pager (Template + Filled Example)
+
+Template:
+```
+Title: <Product/System Name>
+Objective: The smallest system that proves value in the real world
+
+Users: who, where they are, problem worth solving
+Value Signal: the measurable outcome proving value (e.g., paid usage, retention)
+
+Core Loop: trigger → action → reward → investment
+Trust Surface: risks, guardrails, and recovery paths
+
+Scope (4–6 weeks): top 3 capabilities; out-of-scope items
+Dependencies: APIs, data, infra
+Metrics: TTV, activation, value signal, p95 latency, error rate
+Release Plan: private alpha → public beta criteria
+```
+
+Example (Community Issue Triage Bot):
+```
+Users: maintainers of mid-size OSS repos on GitHub
+Value Signal: 30% reduction in median issue triage time within 2 weeks
+
+Core Loop: new issue → classify & route → maintainer acts → bot closes/stales per policy
+Trust: simulation mode, audit log, opt-out labels
+
+Scope: labeler (LLM), routing rules, staleness policy; out: PR reviews
+Metrics: time-to-first-response, triage SLA adherence, false positive rate
+Release: 3 pilot repos → expand on satisfaction + metrics improvements
+```
+
+## First PR Task Example (Contributor On‑Ramp)
+
+Context: reduce reviewer load (see Chapter 17 loops) by enabling first-timers.
+
+Issue Template:
+```
+Title: chore(docs): Add Risk Panel example to UX guide
+
+Summary: Insert the Risk Panel snippet into Chapter 19 at section 6.
+Steps:
+- Edit `book/part-03-one-building-systems/ch19-user-experience.md`
+- Add the snippet under “Patterns Library (Snippets)”
+- Run `make check` and fix link errors if any
+
+Acceptance:
+- CI passes; snippet matches style guide; links valid
+```
 
 ## 2. MVPs in the Era of LLMs and Composability
 
@@ -439,3 +489,17 @@ The journey from Zero to One ultimately transcends technical implementation to a
 Modern tools—from LLMs to composable infrastructure—dramatically accelerate the journey from concept to functional product. Yet the fundamental challenge remains unchanged: creating something people genuinely want and will pay for. The founders who succeed in this transition are those who combine these powerful new capabilities with timeless principles of user focus, value delivery, and authentic engagement.
 
 Whether building with AI copilots or designing token incentives, whether leveraging existing APIs or creating novel components, the measure of success remains constant: does your creation solve real problems for real people in ways they value enough to pay for? Answer this with demonstrable evidence rather than theoretical argument, and you've successfully made the transition from Zero to One.
+
+## In This Chapter
+- Key points go here.
+
+## Checklist
+- [ ] Actionable step 1
+- [ ] Actionable step 2
+
+## Exercises
+- Exercise 1: Prompt or activity.
+- Exercise 2: Prompt or activity.
+
+## Related Case Studies
+- See the Case Studies Compendium for curated examples relevant to this chapter: ../case-studies/compendium.md

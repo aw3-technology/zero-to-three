@@ -1,0 +1,93 @@
+version: "0.2"
+language: en
+useGitignore: true
+ignorePaths:
+  - .git
+  - "**/node_modules/**"
+  - graphics/**
+  - resources/**
+  - drafts/**
+  - book/assets/**
+words:
+  - Web3
+  - web3
+  - blockchain
+  - blockchains
+  - smartcontract
+  - smartcontracts
+  - smart‑contract
+  - smart‑contracts
+  - Ethereum
+  - EVM
+  - Solidity
+  - zk
+  - zkSNARKs
+  - zkSNARK
+  - zkSTARKs
+  - zkSTARK
+  - rollup
+  - rollups
+  - L2s
+  - L2
+  - DeFi
+  - DAO
+  - DAOs
+  - IPFS
+  - Arweave
+  - Filecoin
+  - Polkadot
+  - Kusama
+  - Cosmos
+  - Tendermint
+  - Solana
+  - Avalanche
+  - Near
+  - NEAR
+  - zkSync
+  - StarkNet
+  - Optimism
+  - Arbitrum
+  - EigenLayer
+  - restake
+  - restaking
+  - tokenomics
+  - cryptoeconomics
+  - cryptography
+  - cryptographic
+  - multisig
+  - onchain
+  - offchain
+  - mainnet
+  - testnet
+  - devnet
+  - gasless
+  - airdrop
+  - airdrops
+  - on‑ramp
+  - off‑ramp
+  - preseed
+  - presale
+  - founders
+  - solopreneur
+  - solopreneurs
+  - go‑to‑market
+  - bootstrapping
+  - SaaS
+  - fintech
+  - AI
+  - LLM
+  - LLMs
+  - prompt‑engineering
+  - vectorize
+  - vectorized
+  - embeddings
+  - embedding
+  - mdBook
+  - markdownlint
+  - Prettier
+ignoreRegExpList:
+  - /https?:\/\/[^\s)]+/g
+  - /#[A-Za-z0-9_-]+/g
+files:
+  - "**/*.md"
+

@@ -1,4 +1,8 @@
-# Chapter 2: The Evolution of Entrepreneurship
+# Chapter 02: Evolution of Entrepreneurship
+
+> Skim This Chapter
+> - Avoid repeating Ch.1: focus on stage dynamics and decision flow.
+> - Takeaway: know when to revisit each stage as context changes.
 
 ## 1. Introduction: From "Zero to One" to "Zero to Three"
 
@@ -257,3 +261,106 @@ This systemic thinking requires longer time horizons and different success metri
 ---
 
 As we continue through the Zero to Three framework in subsequent chapters, we'll explore each stage in greater depth—examining the specific challenges, strategies, and skills required to progress from individual insight to systemic leadership. The path isn't linear or predictable, but with the right mental models and practical approaches, today's entrepreneurs can navigate the complexities of the Web3 and AI landscape to build ventures with lasting impact.
+
+## In This Chapter
+- Key points go here.
+
+## Checklist
+- [ ] Actionable step 1
+- [ ] Actionable step 2
+
+## Exercises
+- Exercise 1: Prompt or activity.
+- Exercise 2: Prompt or activity.
+## When to Revisit Each Stage (Decision Tree)
+
+```mermaid
+flowchart TD
+  S[What is breaking now?]
+  S -->|No adoption| Z[Zero: Insight/Positioning]
+  S -->|Prototype stalls| O[One: Architecture/Scope]
+  S -->|Users churn| T[Two: Trust/Governance]
+  S -->|Partners blocked| E[Three: Platform/Standards]
+
+  Z --> Z1[Clarify asymmetric insight; test 3 sharp narratives]
+  O --> O1[Decide: central service vs protocol v1; cut surface area]
+  T --> T1[Map trust failures; add verifiable processes/incentives]
+  E --> E1[Define APIs/standards; create contributor pathways]
+```
+
+Stage‑specific chapters:
+- Zero: Ch. 12 Building in Uncertainty, Ch. 15 Self‑Leadership
+- One: Ch. 3 Technical Paradigm Shift, Ch. 22 Building What Works
+- Two: Ch. 25 Decentralized Governance, Ch. 27 Community Building
+- Three: Ch. 30 System Leadership
+
+## Sources
+
+### Entrepreneurship Theory and History
+- Schumpeter, Joseph A. *The Theory of Economic Development: An Inquiry into Profits, Capital, Credit, Interest, and the Business Cycle*. Harvard University Press, 1934.
+- Drucker, Peter F. *Innovation and Entrepreneurship*. Harper & Row, 1985.
+- Shane, Scott. *The Illusions of Entrepreneurship: The Costly Myths That Entrepreneurs, Investors, and Policy Makers Live By*. Yale University Press, 2008.
+- Audretsch, David B. *Entrepreneurship: A Survey of the Literature*. European Commission, 2003.
+
+### Venture Capital and Startup Evolution
+- Gompers, Paul A., and Josh Lerner. *The Venture Capital Cycle*. MIT Press, 2004.
+- Ries, Eric. *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses*. Crown Business, 2011.
+- Blank, Steve, and Bob Dorf. *The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company*. K&S Ranch, 2012.
+- Hoffman, Reid, and Chris Yeh. *Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies*. Currency, 2018.
+
+### Technology Paradigm Shifts
+- Christensen, Clayton M. *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail*. Harvard Business Review Press, 1997.
+- Moore, Geoffrey A. *Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers*. HarperBusiness, 2002.
+- Rogers, Everett M. *Diffusion of Innovations*. Free Press, 2003.
+- Perez, Carlota. *Technological Revolutions and Financial Capital*. Edward Elgar Publishing, 2002.
+
+### Digital Transformation and Web Evolution
+- Negroponte, Nicholas. *Being Digital*. Vintage Books, 1996.
+- Anderson, Chris. *The Long Tail: Why the Future of Business Is Selling Less of More*. Hyperion, 2006.
+- Parker, Geoffrey G., et al. *Platform Revolution: How Networked Markets Are Transforming the Economy*. W. W. Norton, 2016.
+- Brynjolfsson, Erik, and Andrew McAfee. *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*. W. W. Norton, 2014.
+
+### Web3 and Blockchain Evolution
+- Nakamoto, Satoshi. "Bitcoin: A Peer-to-Peer Electronic Cash System." bitcoin.org/bitcoin.pdf, 2008.
+- Buterin, Vitalik. "Ethereum Whitepaper: A Next-Generation Smart Contract and Decentralized Application Platform." Ethereum Foundation, 2014.
+- Antonopoulos, Andreas M. *Mastering Bitcoin: Programming the Open Blockchain*. O'Reilly Media, 2017.
+- Swan, Melanie. *Blockchain: Blueprint for a New Economy*. O'Reilly Media, 2015.
+
+### AI and Machine Learning Revolution
+- Russell, Stuart J., and Peter Norvig. *Artificial Intelligence: A Modern Approach*. Pearson, 2020.
+- Domingos, Pedro. *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World*. Basic Books, 2015.
+- Lee, Kai-Fu. *AI Superpowers: China, Silicon Valley, and the New World Order*. Houghton Mifflin Harcourt, 2018.
+- Agrawal, Ajay, et al. *Prediction Machines: The Simple Economics of Artificial Intelligence*. Harvard Business Review Press, 2018.
+
+### Decentralized Finance and Financial Innovation
+- Tapscott, Don, and Alex Tapscott. *Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World*. Portfolio, 2016.
+- Raval, Siraj. *Decentralized Applications: Harnessing Bitcoin's Blockchain Technology*. O'Reilly Media, 2016.
+- DeFi Pulse. "Decentralized Finance Rankings and Analytics." defipulse.com, 2023.
+- Compound Labs. "DeFi Protocol Analysis." compound.finance, 2023.
+
+### Emerging Market Innovation
+- Prahalad, C.K. *The Fortune at the Bottom of the Pyramid: Eradicating Poverty Through Profits*. Wharton School Publishing, 2004.
+- Christensen, Clayton M., et al. "Disruptive Innovation for Social Change." Harvard Business Review, 2006.
+- Hart, Stuart L. *Capitalism at the Crossroads: Next Generation Business Strategies for a Post-Crisis World*. Wharton School Publishing, 2010.
+
+### Psychological and Social Aspects of Entrepreneurship
+- Kahneman, Daniel. *Thinking, Fast and Slow*. Farrar, Straus and Giroux, 2011.
+- Thiel, Peter, and Blake Masters. *Zero to One: Notes on Startups, or How to Build the Future*. Crown Business, 2014.
+- Dweck, Carol S. *Mindset: The New Psychology of Success*. Random House, 2006.
+- Bandura, Albert. "Self-Efficacy: Toward a Unifying Theory of Behavioral Change." Psychological Review, 1977.
+
+### Industry Reports and Data
+- National Venture Capital Association. "NVCA Yearbook 2023." nvca.org, 2023.
+- CB Insights. "State of Venture Capital Report." cbinsights.com, 2023.
+- PitchBook. "Global VC Market Research." pitchbook.com, 2023.
+- Crunchbase. "Global Startup Funding Trends." crunchbase.com, 2023.
+
+### Regional Ecosystem Studies
+- Startup Genome. "Global Startup Ecosystem Report 2023." startupgenome.com, 2023.
+- OECD. "Entrepreneurship at a Glance." oecd.org/industry/entrepreneurship-at-a-glance, 2023.
+- World Bank Group. "Entrepreneurship Database." worldbank.org/en/programs/entrepreneurship, 2023.
+
+## Related Case Studies
+- Nubank: ../case-studies/compendium.md#nubank
+- Nigeria's Crypto Movement: ../case-studies/compendium.md#nigerias-crypto-movement
+- See the Case Studies Compendium for curated examples relevant to this chapter: ../case-studies/compendium.md

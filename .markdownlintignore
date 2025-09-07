@@ -1,0 +1,6 @@
+graphics/
+resources/
+drafts/
+**/node_modules/
+.git/
+

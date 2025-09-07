@@ -1,0 +1,78 @@
+name: Quality Gates
+
+on:
+  pull_request:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  lint:
+    name: Prettier + markdownlint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run pre-commit
+        uses: pre-commit/action@v3.0.1
+
+  structure:
+    name: Structure validation (SUMMARY vs files)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Validate structure
+        run: |
+          python scripts/validate_structure.py
+
+  links:
+    name: Link check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Lychee Link Checker
+        uses: lycheeverse/lychee-action@v2.1.0
+        with:
+          args: '--config .lychee.toml --accept 200,204 --no-progress "**/*.md"'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  spellcheck:
+    name: Spellcheck (cspell)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run cspell
+        uses: streetsidesoftware/cspell-action@v6
+        with:
+          config: 'cspell.config.yaml'
+          files: '**/*.md'
+          incremental_files_only: false
+
+  build:
+    name: Build (if mdBook configured)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for book.toml
+        id: has_mdbook
+        run: |
+          if [ -f book.toml ] || [ -f book/book.toml ]; then echo "found=true" >> $GITHUB_OUTPUT; else echo "found=false" >> $GITHUB_OUTPUT; fi
+      - name: Install mdBook
+        if: steps.has_mdbook.outputs.found == 'true'
+        uses: peaceiris/actions-mdbook@v2
+      - name: mdBook build
+        if: steps.has_mdbook.outputs.found == 'true'
+        run: |
+          if [ -f book.toml ]; then mdbook build; else mdbook build book; fi
+

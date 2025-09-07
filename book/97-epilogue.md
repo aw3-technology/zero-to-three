@@ -354,3 +354,42 @@ You won't be anointed because you seek it. You'll be anointed because, in buildi
 The path is clear. The tools are available. The knowledge is open.
 
 Now build.
+
+---
+
+## What To Do Next
+
+Use the Practice Loop to convert insight into reps, and the Case Studies Compendium to calibrate against real patterns.
+
+- Practice Loop: practice-loop.md
+- Case Studies Compendium: case-studies/compendium.md
+
+### Zero (Idea → Signal)
+- Run 10 interviews in 7 days; test 1 prototype and 3 messages.
+- Collect one hard signal (deposit, pre‑order, or LOI).
+- Pairs well with: Chapter 8 (Market Validation), Chapter 9 (Technical Foundations).
+- Cases to study: Midjourney (community pull), Hugging Face (developer adoption).
+
+### One (Build What Works)
+- Lock 3 architecture decisions; instrument 3 core metrics.
+- Ship weekly improvements; publish release notes.
+- Pairs well with: Chapter 18 (Technology Decisions), Chapter 22 (Building What Works), Chapter 19 (User Experience).
+- Cases to study: OpenAI (research → product), Uniswap (simplicity and clarity).
+
+### Two (Scale Systems)
+- Define SLOs and error budgets; create one incident runbook.
+- Remove one bottleneck; shorten lead time measurably.
+- Pairs well with: Chapter 29 (Operational Excellence), Chapter 27 (Community Building).
+- Cases to study: Polygon (ecosystem growth), NVIDIA/TSMC (capacity and constraints).
+
+### Three (Lead Systems)
+- Write a 1‑page strategy; delegate one function end‑to‑end.
+- Host a decision review; improve how the org decides.
+- Pairs well with: Chapter 30 (System Leadership), Chapter 32 (Building Movements).
+- Cases to study: Cosmos (standards leadership), ClimateBase (mission community).
+
+### Beyond Three (Enduring Impact)
+- Turn values into operating constraints; publish one external standard.
+- Run a succession simulation; document the playbook.
+- Pairs well with: Chapter 33 (Legacy Systems), Chapter 34 (Exponential Impact).
+- Cases to study: Bitcoin (credible neutrality), The DAO Hack (governance lessons).

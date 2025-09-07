@@ -1,0 +1,205 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e293b">
+    Community Building Flywheel: From Audience to Movement
+  </text>
+  
+  <!-- Central hub -->
+  <circle cx="400" cy="300" r="80" fill="#6366f1" stroke="#4f46e5" stroke-width="3"/>
+  <text x="400" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    SHARED
+  </text>
+  <text x="400" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">
+    PURPOSE
+  </text>
+  <text x="400" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="white">
+    Mission Clarity
+  </text>
+  
+  <!-- Flywheel components -->
+  <!-- 1. Value Creation -->
+  <g id="value-creation">
+    <circle cx="280" cy="180" r="60" fill="#ef4444" opacity="0.9"/>
+    <text x="280" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      VALUE
+    </text>
+    <text x="280" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      CREATION
+    </text>
+    <text x="280" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">
+      1. Create genuine value
+    </text>
+    <text x="280" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      • Solve real problems
+    </text>
+    <text x="280" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      • Build useful tools
+    </text>
+  </g>
+  
+  <!-- 2. Community Formation -->
+  <g id="community-formation">
+    <circle cx="520" cy="180" r="60" fill="#f59e0b" opacity="0.9"/>
+    <text x="520" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      COMMUNITY
+    </text>
+    <text x="520" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      FORMATION
+    </text>
+    <text x="520" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">
+      2. Gather early adopters
+    </text>
+    <text x="520" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      • Create belonging
+    </text>
+    <text x="520" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      • Enable contribution
+    </text>
+  </g>
+  
+  <!-- 3. Network Effects -->
+  <g id="network-effects">
+    <circle cx="620" cy="350" r="60" fill="#10b981" opacity="0.9"/>
+    <text x="620" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      NETWORK
+    </text>
+    <text x="620" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      EFFECTS
+    </text>
+    <text x="620" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">
+      3. Value grows with users
+    </text>
+    <text x="620" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      • More valuable together
+    </text>
+    <text x="620" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      • Viral sharing
+    </text>
+  </g>
+  
+  <!-- 4. Movement Building -->
+  <g id="movement-building">
+    <circle cx="520" cy="470" r="60" fill="#8b5cf6" opacity="0.9"/>
+    <text x="520" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      MOVEMENT
+    </text>
+    <text x="520" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      BUILDING
+    </text>
+    <text x="520" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">
+      4. Identity transformation
+    </text>
+    <text x="520" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      • Shared identity
+    </text>
+    <text x="520" y="558" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      • Cultural change
+    </text>
+  </g>
+  
+  <!-- 5. Ecosystem Leadership -->
+  <g id="ecosystem-leadership">
+    <circle cx="280" cy="470" r="60" fill="#06b6d4" opacity="0.9"/>
+    <text x="280" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      ECOSYSTEM
+    </text>
+    <text x="280" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      LEADERSHIP
+    </text>
+    <text x="280" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">
+      5. Enable others to build
+    </text>
+    <text x="280" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      • Platform effects
+    </text>
+    <text x="280" y="558" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      • Compound growth
+    </text>
+  </g>
+  
+  <!-- 6. Value Multiplication -->
+  <g id="value-multiplication">
+    <circle cx="180" cy="350" r="60" fill="#dc2626" opacity="0.9"/>
+    <text x="180" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      VALUE
+    </text>
+    <text x="180" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">
+      MULTIPLICATION
+    </text>
+    <text x="180" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">
+      6. Exponential impact
+    </text>
+    <text x="180" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      • System-level change
+    </text>
+    <text x="180" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+      • Industry influence
+    </text>
+  </g>
+  
+  <!-- Arrows showing the flywheel flow -->
+  <defs>
+    <marker id="arrowhead-flywheel" markerWidth="12" markerHeight="8" refX="12" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#64748b"/>
+    </marker>
+  </defs>
+  
+  <!-- Curved arrows forming the flywheel -->
+  <g stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrowhead-flywheel)">
+    <path d="M 330 200 Q 400 140 470 200"/>
+    <path d="M 540 240 Q 600 280 600 330"/>
+    <path d="M 600 390 Q 580 450 540 450"/>
+    <path d="M 460 470 Q 400 510 340 470"/>
+    <path d="M 260 450 Q 200 400 200 370"/>
+    <path d="M 200 330 Q 220 280 260 240"/>
+  </g>
+  
+  <!-- Central connections -->
+  <g stroke="#6366f1" stroke-width="2" opacity="0.6">
+    <line x1="340" y1="230" x2="370" y2="270"/>
+    <line x1="470" y1="230" x2="430" y2="270"/>
+    <line x1="570" y1="340" x2="480" y2="320"/>
+    <line x1="570" y1="420" x2="480" y2="380"/>
+    <line x1="340" y1="420" x2="370" y2="380"/>
+    <line x1="230" y1="340" x2="320" y2="320"/>
+  </g>
+  
+  <!-- Success Examples -->
+  <rect x="50" y="480" width="150" height="100" fill="#f0fdf4" stroke="#16a34a" stroke-width="1" rx="5"/>
+  <text x="125" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#15803d">
+    Success Examples:
+  </text>
+  <text x="125" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#166534">
+    • Bitcoin community
+  </text>
+  <text x="125" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#166534">
+    • Ethereum ecosystem
+  </text>
+  <text x="125" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#166534">
+    • OpenAI developer network
+  </text>
+  <text x="125" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#166534">
+    • ClimateBase movement
+  </text>
+  
+  <!-- Key Insight -->
+  <rect x="600" y="480" width="150" height="100" fill="#fef3c7" stroke="#f59e0b" stroke-width="1" rx="5"/>
+  <text x="675" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400e">
+    Key Insight:
+  </text>
+  <text x="675" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#78350f">
+    Movements compound
+  </text>
+  <text x="675" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#78350f">
+    faster than products.
+  </text>
+  <text x="675" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#78350f">
+    Start with purpose,
+  </text>
+  <text x="675" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#78350f">
+    not just product.
+  </text>
+</svg>

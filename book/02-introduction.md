@@ -1,5 +1,20 @@
 # INTRODUCTION: THE NEW LANDSCAPE
 
+> TL;DR
+> - Two converging revolutions—AI and Web3—change how we build, trust, and scale.
+> - Winning playbooks shift from product features to systems, incentives, and governance.
+> - Use the Zero → One → Two → Three framework to decide where to focus now.
+
+```mermaid
+flowchart LR
+  Z[Zero\nMindset • Insight • Resilience]
+  O[One\nProduct • Protocol • Service]
+  T[Two\nCommunity • Trust • Network Effects]
+  E[Three\nPlatform • Standards • Ecosystem]
+  Z --> O --> T --> E
+  E -.recur.-> Z
+```
+
 ## 1. Setting the Stage: A Transformative Era
 
 We stand at the threshold of an extraordinary period in human history. The pace of technological change has accelerated beyond anything we've previously experienced, fundamentally reshaping not just industries but the fabric of society itself. Artificial intelligence systems now generate art, write code, and engage in complex reasoning. Blockchain networks enable trustless cooperation at global scale. The metaverse promises to blur the boundaries between physical and digital reality.
@@ -98,3 +113,17 @@ We encourage you to approach this book not as a definitive guide but as a living
 The journey from Zero to Three is challenging, nonlinear, and often deeply personal. But it also represents one of the most meaningful paths available in our rapidly changing world—the opportunity to create systems that enable human flourishing through technological advancement.
 
 Welcome to the new landscape. Let's build.
+## Short Glossary
+
+- Web3: Internet infrastructure with verifiable ownership, programmable assets, and decentralized coordination.
+- Tokenomics: Incentive design using tokens for contribution, security, and resource allocation.
+- Decentralization: Shifting control/trust from single operators to distributed protocols and communities.
+- Alignment: Incentive, information, and authority structures that keep behavior pointed at shared goals.
+- Governance: How changes are proposed, approved, and enacted—on-chain, off-chain, or hybrid.
+
+## Where to Go Next
+
+- If you’re at Zero (founder foundations): Ch. 15 Self‑Leadership, Ch. 12 Building in Uncertainty
+- If you’re at One (build the system): Ch. 3 Technical Paradigm Shift, Ch. 21 Web3 Architecture & Security, Ch. 24 AI System Design
+- If you’re at Two (earn trust/traction): Ch. 27 Community Building, Ch. 25 Decentralized Governance
+- If you’re at Three (system leadership): Ch. 30 System Leadership, Ch. 22 Building What Works (as platform design refresher)

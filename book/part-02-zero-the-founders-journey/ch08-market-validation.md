@@ -1,4 +1,4 @@
-# Chapter 8: Market Validation
+# Chapter 08: Market Validation
 
 ## 1. Introduction: Why Adoption Is the Real Moat
 
@@ -375,6 +375,52 @@ People "hire" products to help them make progress in specific circumstances. Thi
 For founders, identifying these multidimensional jobs requires looking beyond what users say they want to understand the underlying progress they're trying to make in specific contexts.
 
 ### Progress-Making Forces
+
+## 1-Week Market Validation Sprint (Artifact)
+
+Purpose: convert assumptions into evidence with pre-declared pass/fail criteria.
+
+Day 1: Hypotheses + Signals
+- List top 3 problem hypotheses and target personas.
+- Define success signals: willingness-to-pay, time-to-value, conversion to next step.
+- Draft outreach scripts and a 5-question interview guide that avoids leading questions.
+
+Day 2: Recruitment + Offer
+- Source 15–25 prospects per persona via warm intros and communities.
+- Create a concrete offer: calendar link for 20-min call, or a 15-min product walkthrough slot.
+
+Day 3–4: Interviews + Demos
+- Run 5–8 interviews per persona; record with consent; tag pains and current alternatives.
+- If demoing: measure completion rate of the “happy path” and objections raised.
+
+Day 5: Smoke Test
+- Publish a one-page value prop + price anchor landing page; collect emails or preorders.
+- Run 2–3 copy variants targeting different personas.
+
+Day 6: Synthesis
+- Tally problem intensity, budget ownership, alternatives displaced, urgency.
+- Decide which persona has the lowest trust barrier and fastest path to paid.
+
+Day 7: Decision
+- Proceed (build/continue interviews), pivot (persona/value), or pause.
+- Update your decision log and next week’s plan.
+
+## Trust-Barrier Checklists by Persona
+
+Persona: Head of Compliance (Enterprise)
+- Risk: “Will this increase audit exposure?”
+- Trust Assets: SOC2/ISO references; security whitepaper; data-flow diagrams.
+- Proof: Limited-scope pilot; auditor letter; completed security questionnaire.
+
+Persona: Solo Dev/Founder (Indie)
+- Risk: “Will this waste my time?”
+- Trust Assets: 5-minute setup; clear quickstart; generous free tier; active community.
+- Proof: Two-path tutorial (copy/paste vs. SDK); reference repo; screencast.
+
+Persona: Protocol Foundation PM
+- Risk: “Will this fragment our ecosystem?”
+- Trust Assets: Alignment with standards; neutral governance; dual-licensed SDK.
+- Proof: Reference integrations; adoption by 2–3 respected teams.
 
 Adoption decisions emerge from the interplay of four distinct forces:
 
@@ -833,3 +879,19 @@ By understanding these adoption dynamics, founders can create products that don'
 9. Stanford HAI (2024). *"AI Adoption in Enterprise: Survey Results."* AI Index Report 2024, March 2024.
 
 10. Fogg, B.J. (2020). *Tiny Habits: The Small Changes That Change Everything*. Houghton Mifflin Harcourt.
+
+## In This Chapter
+- Key points go here.
+
+## Checklist
+- [ ] Actionable step 1
+- [ ] Actionable step 2
+
+## Exercises
+- Exercise 1: Prompt or activity.
+- Exercise 2: Prompt or activity.
+
+## Related Case Studies
+- Midjourney: ../case-studies/compendium.md#midjourney
+- Nubank: ../case-studies/compendium.md#nubank
+- See the Case Studies Compendium for curated examples relevant to this chapter: ../case-studies/compendium.md

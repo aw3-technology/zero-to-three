@@ -1,0 +1,107 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e293b">
+    Capital Evolution: From Easy Money to Strategic Capital (2010-2025)
+  </text>
+  
+  <!-- Timeline line -->
+  <line x1="100" y1="100" x2="700" y2="100" stroke="#64748b" stroke-width="3"/>
+  
+  <!-- Timeline markers -->
+  <g id="timeline-markers">
+    <!-- 2010-2015: Post-Crisis Recovery -->
+    <circle cx="150" cy="100" r="8" fill="#3b82f6"/>
+    <text x="150" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">2010-2015</text>
+    <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#3b82f6">Post-Crisis Recovery</text>
+    <text x="150" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• QE begins</text>
+    <text x="150" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Mobile-first era</text>
+    <text x="150" y="171" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Series A: ~$5M</text>
+    
+    <!-- 2015-2020: Peak Easy Money -->
+    <circle cx="300" cy="100" r="10" fill="#059669"/>
+    <text x="300" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">2015-2020</text>
+    <text x="300" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#059669">Peak Easy Money</text>
+    <text x="300" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• ZIRP policy</text>
+    <text x="300" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• "Blitzscaling" era</text>
+    <text x="300" y="171" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Series A: ~$15M</text>
+    <text x="300" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Growth over profit</text>
+    
+    <!-- 2020-2022: Speculation Peak -->
+    <circle cx="450" cy="100" r="12" fill="#f59e0b"/>
+    <text x="450" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">2020-2022</text>
+    <text x="450" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#f59e0b">Speculation Peak</text>
+    <text x="450" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• COVID stimulus</text>
+    <text x="450" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Crypto boom</text>
+    <text x="450" y="171" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Series A: ~$25M</text>
+    <text x="450" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Meme valuations</text>
+    
+    <!-- 2022-2024: Reality Check -->
+    <circle cx="580" cy="100" r="10" fill="#dc2626"/>
+    <text x="580" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">2022-2024</text>
+    <text x="580" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc2626">Reality Check</text>
+    <text x="580" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Interest rates rise</text>
+    <text x="580" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Unit economics focus</text>
+    <text x="580" y="171" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Series A: ~$8M</text>
+    <text x="580" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Profitability path</text>
+    
+    <!-- 2025+: Strategic Capital -->
+    <circle cx="650" cy="100" r="8" fill="#8b5cf6"/>
+    <text x="650" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">2025+</text>
+    <text x="650" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#8b5cf6">Strategic Capital</text>
+    <text x="650" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Selective funding</text>
+    <text x="650" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Alternative models</text>
+    <text x="650" y="171" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Revenue-based</text>
+    <text x="650" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Token economies</text>
+  </g>
+  
+  <!-- Key Changes Chart -->
+  <rect x="100" y="230" width="600" height="200" fill="white" stroke="#e2e8f0" stroke-width="1" rx="8"/>
+  <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">
+    Key Changes: What's Different Now
+  </text>
+  
+  <!-- Two-column comparison -->
+  <g id="comparison-columns">
+    <!-- Easy Money Era (Left) -->
+    <text x="200" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">
+      Easy Money Era (2015-2022)
+    </text>
+    <g id="easy-money-list" fill="#64748b" font-family="Arial, sans-serif" font-size="11">
+      <text x="120" y="300">• Growth at all costs mentality</text>
+      <text x="120" y="315">• Raise large rounds early</text>
+      <text x="120" y="330">• "Fake it till you make it"</text>
+      <text x="120" y="345">• Revenue validation optional</text>
+      <text x="120" y="360">• Unicorn status as primary goal</text>
+      <text x="120" y="375">• Platform risk acceptable</text>
+      <text x="120" y="390">• Burn rate = progress metric</text>
+      <text x="120" y="405">• Narrative over fundamentals</text>
+    </g>
+    
+    <!-- Strategic Capital Era (Right) -->
+    <text x="600" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#059669">
+      Strategic Capital Era (2022+)
+    </text>
+    <g id="strategic-capital-list" fill="#64748b" font-family="Arial, sans-serif" font-size="11">
+      <text x="520" y="300">• Sustainable unit economics required</text>
+      <text x="520" y="315">• Raise only what you need</text>
+      <text x="520" y="330">• Product-market fit validation</text>
+      <text x="520" y="345">• Revenue traction mandatory</text>
+      <text x="520" y="360">• Profitability path clarity</text>
+      <text x="520" y="375">• Platform independence valued</text>
+      <text x="520" y="390">• Efficiency = survival metric</text>
+      <text x="520" y="405">• Fundamentals over narrative</text>
+    </g>
+  </g>
+  
+  <!-- Bottom insight -->
+  <rect x="100" y="450" width="600" height="40" fill="#f0f9ff" stroke="#0ea5e9" stroke-width="1" rx="5"/>
+  <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0c4a6e" font-weight="bold">
+    📊 Impact: Series A median dropped 68% from peak, but quality improved
+  </text>
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#075985">
+    Successful founders adapt strategy to capital environment rather than waiting for conditions to improve
+  </text>
+</svg>

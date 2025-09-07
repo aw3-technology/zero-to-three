@@ -1,0 +1,19 @@
+{
+  "name": "zero-to-three",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Book project for Zero to Three.",
+  "scripts": {
+    "format": "prettier --write \"**/*.md\"",
+    "lint:md": "markdownlint \"**/*.md\" -c .markdownlint.json",
+    "check:links": "markdown-link-check -c .mlc.json \"**/*.md\"",
+    "book:build": "honkit build ./book ./_book",
+    "book:serve": "honkit serve ./book --port 4000"
+  },
+  "devDependencies": {
+    "honkit": "^4.0.8",
+    "markdown-link-check": "^3.11.2",
+    "markdownlint-cli": "^0.41.0",
+    "prettier": "^3.2.5"
+  }
+}

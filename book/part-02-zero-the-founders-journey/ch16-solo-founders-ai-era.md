@@ -1,4 +1,4 @@
-# Chapter 16: Solo Founders in the AI Era
+# Chapter 16: Solo Founders AI Era
 
 ## 1. Introduction: A New Kind of Founder
 
@@ -119,6 +119,27 @@ Manus's technical implementation illustrates how small teams can now build sophi
 - **Language Model Integration**: Using LLMs for natural interaction and synthesis
 - **Personalization**: Adapting behavior based on individual usage patterns and preferences
 
+## 5. Scope, Leverage, and Partners for Solos
+
+### Scope Design
+- One ICP and one job-to-be-done until PMF; document explicit “won’t do yet” items.
+- Map top 3 outcomes customers value; cut features that don’t serve them.
+
+### Leverage With Agents and LLMs
+- Roles: research agent (sources → notes), drafting agent (first pass), QA agent (fact and tone lint), support agent (FAQ + escalation).
+- Guardrails: define sources of truth; retrieval for claims; evaluate outputs with a small test set.
+- Treat prompts as versioned assets; keep change logs for regressions.
+
+### Partner Strategies
+- Complementarity: distribution (audience owner), credibility (domain expert), delivery (implementation partner).
+- Start with rev-share pilots; milestone-based scope; clear IP and exit clauses.
+- Advisory layer: 2–3 advisors covering product, tech, and capital for escalation.
+
+### Weekly Cadence (Solo Edition)
+- 3 deep-work blocks (90m) on value creation; 2 on distribution.
+- One customer conversation per day (async allowed) and one ship per week.
+- Friday review: what shipped, what learned, what to cut next week.
+
 This approach demonstrates the leverage available through composition—combining existing AI capabilities into novel configurations rather than building foundational technology directly.
 
 ## 5. Key Takeaways: Leveraging AI as a Force Multiplier
@@ -154,3 +175,16 @@ Practical implementation involves:
 - Establishing clear responsibility boundaries and ownership
 
 The AI-augmented solo founder represents not merely a variation on traditional entrepreneurship but a fundamentally new approach to venture building—leveraging unprecedented cognitive capabilities to create value at scales previously requiring much larger organizations. By embracing this new model and developing the specific skills it requires, founders can build ventures that combine the agility and vision clarity of solo operation with the capability scope previously available only to substantial teams.
+## In This Chapter
+- Key points go here.
+
+## Checklist
+- [ ] Actionable step 1
+- [ ] Actionable step 2
+
+## Exercises
+- Exercise 1: Prompt or activity.
+- Exercise 2: Prompt or activity.
+
+## Related Case Studies
+- See the Case Studies Compendium for curated examples relevant to this chapter: ../case-studies/compendium.md

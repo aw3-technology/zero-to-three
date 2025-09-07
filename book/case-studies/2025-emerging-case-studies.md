@@ -19,7 +19,7 @@ This collection features case studies from companies and movements that have eme
 **The Innovation**
 Cursor reimagined code editing for the AI era, building a native AI editor rather than adding AI features to existing tools. Their approach includes:
 - **AI-first architecture**: Every interaction designed around AI assistance
-- **Codebase awareness**: Understanding entire projects, not just current files  
+- **Codebase awareness**: Understanding entire projects, not just current files
 - **Natural language programming**: Direct conversation with code
 - **Context preservation**: Maintaining understanding across long coding sessions
 
@@ -163,7 +163,7 @@ Together AI provides infrastructure for open source AI models:
 **Market Dynamics**
 Positioned between cloud providers and AI model companies:
 - **vs. OpenAI/Anthropic**: Open source models with customization
-- **vs. AWS/GCP**: Specialized for AI workloads with better economics  
+- **vs. AWS/GCP**: Specialized for AI workloads with better economics
 - **vs. Hugging Face**: Enterprise-focused with better performance
 - **vs. Replicate**: Broader model selection with better pricing
 
@@ -299,7 +299,7 @@ Farcaster created a decentralized alternative to Twitter/X:
 **Strategic Evolution**
 Zora evolved through multiple phases:
 1. **NFT Marketplace**: Competing with OpenSea and Foundation
-2. **Creator Tools**: Enabling easy NFT creation and management  
+2. **Creator Tools**: Enabling easy NFT creation and management
 3. **Protocol Layer**: Building infrastructure others could use
 4. **Layer 2 Network**: Launching dedicated blockchain for creators
 
@@ -328,7 +328,7 @@ Enable a creator-owned economy where:
 
 **Company Snapshot**
 - Founded: 2022
-- Founders: Henri Stern, Charlie Etcheverry  
+- Founders: Henri Stern, Charlie Etcheverry
 - Focus: Embedded wallet infrastructure for Web2 companies
 - Funding: $8M+ raised, powering 100+ applications
 
@@ -349,7 +349,7 @@ Privy provides embedded wallets for traditional applications:
 **Strategic Insight**
 Web3 adoption requires starting with familiar UX:
 - **Progressive Disclosure**: Gradually introduce crypto concepts
-- **Abstract Complexity**: Hide blockchain details initially  
+- **Abstract Complexity**: Hide blockchain details initially
 - **Social Recovery**: Use existing social graphs for security
 - **Developer Experience**: Make integration as easy as adding Stripe
 
@@ -383,7 +383,7 @@ Web3 adoption requires starting with familiar UX:
 
 **Core Services**
 - **DAO Creation**: One-click deployment of governance structures
-- **Treasury Management**: Multi-sig wallets and asset management  
+- **Treasury Management**: Multi-sig wallets and asset management
 - **Voting Systems**: Flexible governance mechanisms
 - **Token Distribution**: Fair launches and airdrops
 - **Legal Integration**: Connecting DAOs with legal entities
@@ -541,7 +541,7 @@ These 2025 case studies show entrepreneurship evolving rapidly with AI and Web3 
 
 - **AI-native products** are outcompeting retrofitted solutions
 - **Infrastructure providers** are capturing significant value
-- **Developer experience** is becoming a key competitive advantage  
+- **Developer experience** is becoming a key competitive advantage
 - **Voice and conversation** are becoming primary interfaces
 - **Open source strategies** are creating new competitive dynamics
 

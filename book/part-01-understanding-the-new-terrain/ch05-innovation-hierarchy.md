@@ -1,6 +1,32 @@
-# Chapter 5: The Innovation Hierarchy
+# Chapter 05: Innovation Hierarchy
 
 ## Introduction: Innovation Is Not All the Same
+
+## One‑Page Stack Illustration
+
+```mermaid
+flowchart TB
+  A[Fundamental Research] --> B[Infrastructure/Protocols]
+  B --> C[Platforms/Standards]
+  C --> D[Applications]
+  D --> E[Distribution/Community]
+  E --> F[Governance/Ecosystem]
+  F -.informs.-> B
+```
+
+## Example KPIs by Layer
+
+- Research: citations, benchmarks surpassed, reproducibility
+- Infrastructure: TPS/latency, security incidents, validator/geographic diversity
+- Platforms: API adoption, third‑party integrations, developer NPS
+- Applications: WAU/MAU, retention, unit economics, NPS
+- Distribution: CAC, viral coefficient, community growth/health
+- Governance: proposal throughput, voter participation, contributor pathways
+
+## Partner Playbooks (Up/Down the Stack)
+
+- Moving up: expose stable primitives via clean APIs; publish standards; invest in developer success.
+- Moving down: secure critical dependencies; create redundancy; invest in privacy, compliance, and reliability.
 
 In the entrepreneurial landscape, a common misconception persists: that all startups operate on a level playing field, differentiated merely by their ideas, execution, and market timing. The reality is far more nuanced. Some ventures build features that improve existing products, others create standalone applications that serve end users, while a select few develop the foundational infrastructure upon which entire technological ecosystems depend.
 
@@ -437,7 +463,7 @@ As infrastructure capabilities expand, applications may struggle to maintain dif
 
 **Fix:** Start with one specific application, prove value, then expand
 - Pick one vertical (e.g., pharmaceutical supply chain)
-- Build end-to-end solution for that vertical  
+- Build end-to-end solution for that vertical
 - Once you have 10+ customers, generalize the platform
 
 ### Anti-Pattern #2: Over-Tokenization
@@ -451,7 +477,7 @@ As infrastructure capabilities expand, applications may struggle to maintain dif
 
 **Fix:** Token-gate only what genuinely benefits from decentralization
 - Governance over protocol parameters: ✓
-- Revenue sharing with power users: ✓  
+- Revenue sharing with power users: ✓
 - Voting on UI color schemes: ✗
 
 ### Anti-Pattern #3: Infrastructure Cosplay
@@ -622,3 +648,14 @@ Strategic positioning within the innovation hierarchy often matters more than sp
 - As an application, it might reach end users quickly but face more direct competition
 
 This positioning choice should reflect founder strengths, capital access, market timing, and competitive landscape rather than simply technical possibility.
+
+## In This Chapter
+- Key points go here.
+
+## Checklist
+- [ ] Actionable step 1
+- [ ] Actionable step 2
+
+## Exercises
+- Exercise 1: Prompt or activity.
+- Exercise 2: Prompt or activity.

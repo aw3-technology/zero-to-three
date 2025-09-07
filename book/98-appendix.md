@@ -7,6 +7,14 @@ This appendix serves as your practical resource library—a collection of tools,
 - Case Studies Compendium: see case summaries and patterns
   - book/case-studies/compendium.md
 
+### How To Use The Compendium
+
+1) Start with a chapter’s “Related Case Studies” section and pick 1–2.
+2) Identify which pattern the case demonstrates (architecture, go‑to‑market, incentives, governance, UX, ops).
+3) Ask: “What would break if our context differs?” (market, regulation, team, timing).
+4) Extract one decision rule you can apply in your next Practice Loop.
+5) Write what you will measure to know if the rule works for you.
+
 Quick links by theme:
 - Infrastructure: Cosmos, Bitcoin, IPFS/Filecoin, Chainlink, Celestia, NVIDIA, TSMC
 - AI Foundations: OpenAI, Anthropic, DeepSeek, Hugging Face
@@ -27,6 +35,10 @@ By chapter (selected):
 
 Use: At the end of each chapter, follow “Related Case Studies” to jump here and dive deeper.
 
+### Practice Loop: Bridge Reading To Doing
+- A weekly cycle to turn insights into reps and artifacts.
+- Start here: book/practice-loop.md
+
 ## 📖 COMPREHENSIVE BIBLIOGRAPHY AND SOURCES
 
 ### Source Quality and Verification Standards
@@ -39,7 +51,7 @@ All sources in Zero to Three meet rigorous credibility standards:
 - Company SEC filings and official reports
 - Direct interviews with founders and industry leaders
 
-**Tier 2 (High Credibility)** 
+**Tier 2 (High Credibility)**
 - Established industry publications (Harvard Business Review, MIT Technology Review)
 - Reputable financial and technology news sources
 - Comprehensive research from recognized organizations

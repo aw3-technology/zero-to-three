@@ -1,4 +1,4 @@
-# CHAPTER 4: ECONOMIC FUNDAMENTALS FOR FOUNDERS
+# Chapter 04: Economic Fundamentals
 
 ## 1. Introduction: Why Economics Still Rules the Game
 
@@ -81,7 +81,7 @@ In contrast to natural scarcity, digital economies often involve deliberately cr
 
 **Base Case: DEX Protocol**
 - Monthly Active Users: 10,000
-- Average Trade Volume: $500/user/month  
+- Average Trade Volume: $500/user/month
 - Fee Rate Scenarios:
 
 | **Fee Structure** | **Protocol Revenue** | **User LTV** | **12-Month Value** |
@@ -92,7 +92,7 @@ In contrast to natural scarcity, digital economies often involve deliberately cr
 
 **Retention Impact:**
 - High fees (1%): 40% 6-month retention, but higher per-user value
-- Low fees (0.05%): 80% 6-month retention, but lower per-user value  
+- Low fees (0.05%): 80% 6-month retention, but lower per-user value
 - Sweet spot: 0.25-0.30% balances retention and revenue
 
 ## Monte Carlo Scenario Grid: Emissions vs. Growth
@@ -159,7 +159,7 @@ In contrast to natural scarcity, digital economies often involve deliberately cr
 [Users] ──fees──> [Protocol Treasury]
    │                      │
    │                      ├──50%──> [Token Buyback/Burn]
-   │                      ├──30%──> [Development Fund] 
+   │                      ├──30%──> [Development Fund]
    │                      └──20%──> [Community Grants]
    │
    └──governance votes──> [DAO Proposals]
@@ -182,7 +182,17 @@ In contrast to natural scarcity, digital economies often involve deliberately cr
 
 ## Related Case Studies
 
-- Nigeria’s Crypto Movement: ../case-studies/compendium.md#nigerias-crypto-movement
+**AI Company Economics:**
+- Perplexity: ../case-studies/2025-emerging-case-studies.md#perplexity-answer-engines-vs-search-engines
+- Magic Dev: ../case-studies/2025-emerging-case-studies.md#magic-dev-autonomous-software-engineering
+- Stability AI: ../case-studies/2025-emerging-case-studies.md#stability-ai-open-source-ai-business-models
+
+**Web3 Economics & Tokenomics:**
+- Worldcoin: ../case-studies/2025-emerging-case-studies.md#worldcoin-global-digital-identity-and-ubi
+- Syndicate: ../case-studies/2025-emerging-case-studies.md#syndicate-decentralized-investing-infrastructure
+
+**Traditional Economic Fundamentals:**
+- Nigeria's Crypto Movement: ../case-studies/compendium.md#nigerias-crypto-movement
 - Bitcoin: ../case-studies/compendium.md#bitcoin
 - TSMC: ../case-studies/compendium.md#nvidia--tsmc
 
@@ -428,3 +438,92 @@ The most significant opportunities often exist where existing systems cause subs
 The increasing complexity of the technological landscape has made economic literacy an essential founder skill. Understanding how value is created, captured, and distributed within complex ecosystems enables more effective product design, business model development, and strategic decision-making.
 
 By integrating economic thinking throughout the entrepreneurial process, founders can build ventures better aligned with fundamental realities rather than temporary narratives or market conditions. This alignment creates resilience through market cycles, enabling sustained development toward ambitious visions even as specific technologies, funding environments, and competitive landscapes evolve.
+
+## In This Chapter
+- Key points go here.
+
+## Checklist
+- [ ] Actionable step 1
+- [ ] Actionable step 2
+
+## Exercises
+- Exercise 1: Prompt or activity.
+- Exercise 2: Prompt or activity.
+## Unit Economics Template
+
+| Metric | Definition | Target |
+|---|---|---|
+| CAC | Fully loaded cost to acquire a customer | <$X (by segment) |
+| Payback | Months to recover CAC from gross margin | <12 months |
+| Gross Margin | (Revenue − COGS) / Revenue | >60% (software), >30% (infra) |
+| Retention | Customers active at 12 months | >70% (SMB), >85% (enterprise) |
+| Contribution Margin | Unit margin after variable costs | Positive by month 6–9 |
+
+Worksheet (fill for your core segment):
+- Price (ARPU): $____ per month
+- COGS per unit: $____ (compute, storage, validators, API, support)
+- Variable costs: $____ (payments, fraud, refunds)
+- CAC: $____; Expected payback: ____ months
+
+## Price/Cost Bands (Reference)
+
+- AI inference (1M tokens): $0.50–$2.00 (model/host dependent)
+- L2 tx (per user/month at N tx): $____ (estimate by chain/rollup)
+- Storage (GB/month): $____ (S3/Filecoin/IPFS pinning)
+- Support (per active account): $____ (tiered)
+
+## Survival Model Examples (12–18 Months)
+
+| Scenario | Customers | ARPU | Gross Margin | Burn | Runway |
+|---|---:|---:|---:|---:|---:|
+| Base | 1,000 | $50 | 70% | $60k/mo | 18 mo (with $1.1M cash) |
+| Stretch | 2,000 | $60 | 65% | $90k/mo | 15 mo |
+| Downside | 700 | $40 | 55% | $50k/mo | 12 mo |
+
+Assumptions: stepwise infra costs at 1k/5k/10k users; CAC front‑loaded 6 months.
+
+Related case studies for context:
+- Bitcoin (credible neutrality, conservative governance)
+- Nigeria's Crypto Movement (emerging market adoption under constraints)
+- NVIDIA / TSMC (capital intensity, supply constraints)
+See: [Case Studies Compendium](../case-studies/compendium.md)
+
+## Sources
+
+### Books and Academic Literature
+1. Duckworth, Angela. *Grit: The Power of Passion and Perseverance*. Scribner, 2016.
+2. Nakamoto, Satoshi. "Bitcoin: A Peer-to-Peer Electronic Cash System." 2008.
+3. Thiel, Peter, and Blake Masters. *Zero to One: Notes on Startups, or How to Build the Future*. Crown Business, 2014.
+4. Vitalik Buterin. "Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform." Ethereum White Paper, 2013.
+
+### Research and Reports
+1. African Development Bank. "Fintech and Financial Inclusion in Africa." 2020.
+2. Chainalysis. "The 2023 Geography of Cryptocurrency Report." 2023.
+3. Federal Reserve Bank of St. Louis. "Zero Interest Rate Policy (ZIRP) and Its Effects." Economic Research, 2022.
+4. McKinsey & Company. "The Rise of Digital Banking in Emerging Markets." 2023.
+5. World Bank. "Financial Inclusion and Digital Payments in Nigeria." 2022.
+
+### Industry Data and Statistics
+1. Bitcoin Network Statistics. blockchain.info/stats
+2. Cryptocurrency Market Data. CoinGecko and CoinMarketCap, 2023-2024.
+3. Nigeria Economic Data. Central Bank of Nigeria, 2023.
+4. NVIDIA Financial Reports and Investor Presentations, 2020-2024.
+5. TSMC Annual Reports and Industry Analysis, 2020-2024.
+
+### News and Industry Publications
+1. "The End of Zero Interest Rates and Its Impact on Tech Startups." *Financial Times*, various articles 2022-2023.
+2. "Nigeria's Cryptocurrency Adoption Amid Economic Challenges." *Reuters*, 2023.
+3. "TSMC and the Global Semiconductor Supply Chain." *The Economist*, 2023.
+4. Various cryptocurrency and fintech industry reports from *CoinDesk*, *The Block*, and *TechCrunch*.
+
+### Government and Regulatory Sources
+1. Central Bank of Nigeria. Cryptocurrency and Digital Asset Guidelines, 2023.
+2. Federal Reserve Economic Data (FRED). Interest Rate Historical Data.
+3. Securities and Exchange Commission. Digital Asset and Cryptocurrency Guidance.
+4. U.S. Treasury Department. Financial Crimes Enforcement Network (FinCEN) Guidelines.
+
+### Technical Documentation
+1. Bitcoin Core Documentation. bitcoin.org
+2. Ethereum Documentation and EIPs. ethereum.org
+3. Lightning Network Technical Specifications.
+4. Various Layer 2 scaling solution technical papers and documentation.

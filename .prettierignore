@@ -1,0 +1,7 @@
+graphics/
+resources/
+drafts/
+**/node_modules/
+.git/
+book/assets/
+

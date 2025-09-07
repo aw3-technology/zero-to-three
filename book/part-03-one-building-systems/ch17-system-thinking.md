@@ -1,4 +1,4 @@
-# Chapter 13: System Thinking
+# Chapter 17: System Thinking
 
 ## Applying Systems Thinking To Venture Building
 
@@ -23,6 +23,51 @@ This chapter frames ventures as systems: interacting parts, feedback loops, dela
 - Draw a causal loop diagram for acquisition → activation → contribution → governance
 - Identify one balancing loop preventing runaway complexity; strengthen it
 - Write a policy change to realign incentives with desired behaviors
+
+## Worked Example: Acquisition → Activation → Contribution → Governance
+
+This example models a community-driven product where users progress from acquisition to activation, contribute back, and participate in governance. It surfaces reinforcing growth and the balancing frictions to address.
+
+Textual causal loop diagram:
+
+- Acquisition (+) → Activated Users (+)
+- Activated Users (+) → Contributions (+)
+- Contributions (+) → Product Quality (+)
+- Product Quality (+) → Word of Mouth (+)
+- Word of Mouth (+) → Acquisition (+)  [R1 Growth]
+
+- Contributions (+) → Moderator Load (+)
+- Moderator Load (+) → Review Time (−)
+- Review Time (−) → Contributor Satisfaction (−)
+- Contributor Satisfaction (−) → Contributions (−)  [B1 Friction]
+
+- Activated Users (+) → Governance Participants (+)
+- Governance Participants (+) → Decision Latency (−)
+- Decision Latency (−) → Product Velocity (−)
+- Product Velocity (−) → Product Quality (−)  [B2 Coordination]
+
+Instrument these loops:
+- Activation: define threshold (e.g., N actions in 7 days) and track conversion.
+- Contributions: acceptance rate, median review time, first-time contributor share.
+- Governance: proposal throughput, time-to-decision, participation rate.
+
+Interventions (high-leverage first):
+- Publish review SLA dashboard; auto-assign reviewers; create “first-timer” issue labels.
+- Delegate low-risk decisions to working groups with bounded charters; use consent voting.
+- Recognition loops: monthly contributor highlights and badges tied to helpful behaviors.
+
+## Leverage-Point Worksheet (Fill and use quarterly)
+
+- Desired outcome: … (e.g., “Sustain contributor growth with <48h median review.”)
+- Stocks/flows: What accumulates? What moves it? (backlog size; submissions, reviews)
+- Key loops: List R/B loops with primary drivers (R1 growth, B1 friction, B2 coordination)
+- Constraints/bottlenecks: … (reviewer capacity, unclear status, proposal overload)
+- Information flows: Which signals are missing/late? (status, SLAs, queue health)
+- Rules/incentives: SLAs, mentoring rota, recognition, decision rights
+- 3 interventions (ranked by leverage x cost):
+  - LP1: Auto-assign + SLA visibility
+  - LP2: Mentored first-PR program
+  - LP3: Delegated authority for routine changes
 
 ## 1. Introduction: The End of Easy Money
 
@@ -615,3 +660,17 @@ Baird Augustine demonstrates how financial innovation can create bridges between
 For founders building in Web3 and AI domains, these capital strategies provide essential guidance for navigating environments where traditional funding patterns may prove insufficient or inappropriate. By developing sophisticated approaches to capital—raising it efficiently, allocating it strategically, and complementing it with revenue—founders create sustainability that permits continued innovation despite broader capital constraint.
 
 The end of easy money doesn't represent the end of ambitious entrepreneurship. Rather, it creates natural selection pressure favoring ventures with fundamentally sound economics, efficient operations, and strategic capital approaches. By embracing these attributes as advantages rather than limitations, founders can transform apparent constraint into distinctive capability—building ventures that thrive because of rather than despite the new capital landscape.
+
+## In This Chapter
+- Key points go here.
+
+## Checklist
+- [ ] Actionable step 1
+- [ ] Actionable step 2
+
+## Exercises
+- Exercise 1: Prompt or activity.
+- Exercise 2: Prompt or activity.
+
+## Related Case Studies
+- See the Case Studies Compendium for curated examples relevant to this chapter: ../case-studies/compendium.md

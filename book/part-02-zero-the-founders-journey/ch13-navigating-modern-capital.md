@@ -1,4 +1,4 @@
-# Chapter 11: Navigating Modern Capital
+# Chapter 13: Navigating Modern Capital
 
 ## 1. Introduction: The End of Easy Money
 
@@ -591,3 +591,16 @@ Baird Augustine demonstrates how financial innovation can create bridges between
 For founders building in Web3 and AI domains, these capital strategies provide essential guidance for navigating environments where traditional funding patterns may prove insufficient or inappropriate. By developing sophisticated approaches to capital—raising it efficiently, allocating it strategically, and complementing it with revenue—founders create sustainability that permits continued innovation despite broader capital constraint.
 
 The end of easy money doesn't represent the end of ambitious entrepreneurship. Rather, it creates natural selection pressure favoring ventures with fundamentally sound economics, efficient operations, and strategic capital approaches. By embracing these attributes as advantages rather than limitations, founders can transform apparent constraint into distinctive capability—building ventures that thrive because of rather than despite the new capital landscape.
+## In This Chapter
+- Key points go here.
+
+## Checklist
+- [ ] Actionable step 1
+- [ ] Actionable step 2
+
+## Exercises
+- Exercise 1: Prompt or activity.
+- Exercise 2: Prompt or activity.
+
+## Related Case Studies
+- See the Case Studies Compendium for curated examples relevant to this chapter: ../case-studies/compendium.md

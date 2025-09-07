@@ -1,0 +1,11 @@
+[book]
+title = "Zero to Three"
+authors = ["Zero to Three Team"]
+language = "en"
+multilingual = false
+src = "."
+
+[output.html]
+default-theme = "light"
+site-url = "/"
+
