@@ -1,0 +1,195 @@
+<svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 22px; font-weight: 700; fill: #1a1a1a; }
+      .question-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 14px; font-weight: 600; fill: #2d3748; }
+      .answer-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 12px; fill: #4a5568; }
+      .result-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 11px; font-weight: 500; fill: #2d3748; }
+      .detail-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 9px; fill: #718096; }
+      .decision-node { fill: #e6fffa; stroke: #38b2ac; stroke-width: 2; }
+      .result-centralized { fill: #fed7d7; stroke: #e53e3e; }
+      .result-hybrid { fill: #c6f6d5; stroke: #38a169; }
+      .result-decentralized { fill: #bee3f8; stroke: #3182ce; }
+      .flow-line { stroke: #4a5568; stroke-width: 2; fill: none; }
+    </style>
+  </defs>
+  
+  <!-- Title -->
+  <text x="600" y="40" class="title-text" text-anchor="middle">Infrastructure Decision Tree: Centralized vs Hybrid vs Decentralized</text>
+  
+  <!-- Start Node -->
+  <rect x="520" y="70" width="160" height="50" class="decision-node" rx="25"/>
+  <text x="600" y="90" class="question-text" text-anchor="middle">Start Here:</text>
+  <text x="600" y="105" class="question-text" text-anchor="middle">Core Requirements?</text>
+  
+  <!-- Regulatory Node -->
+  <rect x="200" y="160" width="180" height="60" class="decision-node" rx="8"/>
+  <text x="290" y="180" class="question-text" text-anchor="middle">Regulatory &</text>
+  <text x="290" y="195" class="question-text" text-anchor="middle">Compliance Needs?</text>
+  
+  <!-- Performance Node -->
+  <rect x="510" y="160" width="180" height="60" class="decision-node" rx="8"/>
+  <text x="600" y="180" class="question-text" text-anchor="middle">Performance</text>
+  <text x="600" y="195" class="question-text" text-anchor="middle">Requirements?</text>
+  
+  <!-- Trust Node -->
+  <rect x="820" y="160" width="180" height="60" class="decision-node" rx="8"/>
+  <text x="910" y="180" class="question-text" text-anchor="middle">Trust Model &</text>
+  <text x="910" y="195" class="question-text" text-anchor="middle">User Expectations?</text>
+  
+  <!-- Flow lines from start -->
+  <path d="M 580 120 L 290 160" class="flow-line" marker-end="url(#arrowhead)"/>
+  <path d="M 600 120 L 600 160" class="flow-line" marker-end="url(#arrowhead)"/>
+  <path d="M 620 120 L 910 160" class="flow-line" marker-end="url(#arrowhead)"/>
+  
+  <!-- Regulatory Branch -->
+  <!-- High Regulatory -->
+  <rect x="50" y="260" width="150" height="80" class="result-centralized" rx="8"/>
+  <text x="125" y="280" class="result-text" text-anchor="middle">CENTRALIZED</text>
+  <text x="60" y="300" class="detail-text">High regulatory oversight</text>
+  <text x="60" y="312" class="detail-text">• Banking, healthcare</text>
+  <text x="60" y="324" class="detail-text">• Clear audit trails</text>
+  <text x="60" y="336" class="detail-text">• Traditional compliance</text>
+  
+  <!-- Medium Regulatory -->
+  <rect x="215" y="260" width="150" height="80" class="result-hybrid" rx="8"/>
+  <text x="290" y="280" class="result-text" text-anchor="middle">HYBRID</text>
+  <text x="225" y="300" class="detail-text">Moderate compliance</text>
+  <text x="225" y="312" class="detail-text">• Mixed requirements</text>
+  <text x="225" y="324" class="detail-text">• Flexible structure</text>
+  <text x="225" y="336" class="detail-text">• Progressive approach</text>
+  
+  <!-- Low Regulatory -->
+  <rect x="380" y="260" width="150" height="80" class="result-decentralized" rx="8"/>
+  <text x="455" y="280" class="result-text" text-anchor="middle">DECENTRALIZED</text>
+  <text x="390" y="300" class="detail-text">Minimal constraints</text>
+  <text x="390" y="312" class="detail-text">• Innovation-friendly</text>
+  <text x="390" y="324" class="detail-text">• Global permissionless</text>
+  <text x="390" y="336" class="detail-text">• Protocol-first</text>
+  
+  <!-- Flow lines from regulatory -->
+  <text x="125" y="245" class="answer-text" text-anchor="middle">High</text>
+  <path d="M 270 220 L 125 260" class="flow-line" marker-end="url(#arrowhead)"/>
+  
+  <text x="290" y="245" class="answer-text" text-anchor="middle">Medium</text>
+  <path d="M 290 220 L 290 260" class="flow-line" marker-end="url(#arrowhead)"/>
+  
+  <text x="455" y="245" class="answer-text" text-anchor="middle">Low</text>
+  <path d="M 310 220 L 455 260" class="flow-line" marker-end="url(#arrowhead)"/>
+  
+  <!-- Performance Branch -->
+  <!-- Sub-100ms -->
+  <rect x="465" y="260" width="150" height="80" class="result-centralized" rx="8"/>
+  <text x="540" y="280" class="result-text" text-anchor="middle">CENTRALIZED</text>
+  <text x="475" y="300" class="detail-text">Sub-100ms latency</text>
+  <text x="475" y="312" class="detail-text">• Real-time trading</text>
+  <text x="475" y="324" class="detail-text">• Gaming applications</text>
+  <text x="475" y="336" class="detail-text">• Direct databases</text>
+  
+  <!-- 1-10 seconds -->
+  <rect x="630" y="260" width="150" height="80" class="result-hybrid" rx="8"/>
+  <text x="705" y="280" class="result-text" text-anchor="middle">HYBRID</text>
+  <text x="640" y="300" class="detail-text">1-10 second latency</text>
+  <text x="640" y="312" class="detail-text">• DeFi applications</text>
+  <text x="640" y="324" class="detail-text">• Layer 2 solutions</text>
+  <text x="640" y="336" class="detail-text">• User interactions</text>
+  
+  <!-- Asynchronous -->
+  <rect x="795" y="260" width="150" height="80" class="result-decentralized" rx="8"/>
+  <text x="870" y="280" class="result-text" text-anchor="middle">DECENTRALIZED</text>
+  <text x="805" y="300" class="detail-text">Asynchronous OK</text>
+  <text x="805" y="312" class="detail-text">• Batch processing</text>
+  <text x="805" y="324" class="detail-text">• Data analysis</text>
+  <text x="805" y="336" class="detail-text">• Base layer operations</text>
+  
+  <!-- Flow lines from performance -->
+  <text x="540" y="245" class="answer-text" text-anchor="middle">Critical</text>
+  <path d="M 580 220 L 540 260" class="flow-line" marker-end="url(#arrowhead)"/>
+  
+  <text x="705" y="245" class="answer-text" text-anchor="middle">Important</text>
+  <path d="M 600 220 L 705 260" class="flow-line" marker-end="url(#arrowhead)"/>
+  
+  <text x="870" y="245" class="answer-text" text-anchor="middle">Flexible</text>
+  <path d="M 620 220 L 870 260" class="flow-line" marker-end="url(#arrowhead)"/>
+  
+  <!-- Trust Branch -->
+  <!-- Trust Organization -->
+  <rect x="650" y="260" width="150" height="80" class="result-centralized" rx="8"/>
+  <text x="725" y="280" class="result-text" text-anchor="middle">CENTRALIZED</text>
+  <text x="660" y="300" class="detail-text">Trust organization</text>
+  <text x="660" y="312" class="detail-text">• Brand reputation</text>
+  <text x="660" y="324" class="detail-text">• Customer support</text>
+  <text x="660" y="336" class="detail-text">• Clear accountability</text>
+  
+  <!-- Mixed Trust -->
+  <rect x="815" y="260" width="150" height="80" class="result-hybrid" rx="8"/>
+  <text x="890" y="280" class="result-text" text-anchor="middle">HYBRID</text>
+  <text x="825" y="300" class="detail-text">Mixed trust model</text>
+  <text x="825" y="312" class="detail-text">• Progressive decentralization</text>
+  <text x="825" y="324" class="detail-text">• Gradual community</text>
+  <text x="825" y="336" class="detail-text">• Dual governance</text>
+  
+  <!-- Trust Code -->
+  <rect x="980" y="260" width="150" height="80" class="result-decentralized" rx="8"/>
+  <text x="1055" y="280" class="result-text" text-anchor="middle">DECENTRALIZED</text>
+  <text x="990" y="300" class="detail-text">Trust protocols/math</text>
+  <text x="990" y="312" class="detail-text">• Open source</text>
+  <text x="990" y="324" class="detail-text">• Cryptographic proofs</text>
+  <text x="990" y="336" class="detail-text">• Community governance</text>
+  
+  <!-- Flow lines from trust -->
+  <text x="725" y="245" class="answer-text" text-anchor="middle">Organization</text>
+  <path d="M 890 220 L 725 260" class="flow-line" marker-end="url(#arrowhead)"/>
+  
+  <text x="890" y="245" class="answer-text" text-anchor="middle">Mixed</text>
+  <path d="M 910 220 L 890 260" class="flow-line" marker-end="url(#arrowhead)"/>
+  
+  <text x="1055" y="245" class="answer-text" text-anchor="middle">Protocol</text>
+  <path d="M 930 220 L 1055 260" class="flow-line" marker-end="url(#arrowhead)"/>
+  
+  <!-- Economic Model Section -->
+  <rect x="100" y="400" width="1000" height="180" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <text x="120" y="425" class="question-text">Secondary Considerations: Economic Model</text>
+  
+  <!-- Centralized Economics -->
+  <rect x="130" y="450" width="280" height="110" class="result-centralized" rx="6" opacity="0.3"/>
+  <text x="270" y="470" class="result-text" text-anchor="middle">CENTRALIZED ECONOMICS</text>
+  <text x="140" y="490" class="detail-text">• Subscription models (SaaS)</text>
+  <text x="140" y="505" class="detail-text">• Advertising revenue</text>
+  <text x="140" y="520" class="detail-text">• Transaction fees</text>
+  <text x="140" y="535" class="detail-text">• Traditional equity financing</text>
+  <text x="140" y="550" class="detail-text">Examples: Stripe, OpenAI, most startups</text>
+  
+  <!-- Hybrid Economics -->
+  <rect x="430" y="450" width="280" height="110" class="result-hybrid" rx="6" opacity="0.3"/>
+  <text x="570" y="470" class="result-text" text-anchor="middle">HYBRID ECONOMICS</text>
+  <text x="440" y="490" class="detail-text">• Freemium with token rewards</text>
+  <text x="440" y="505" class="detail-text">• Revenue sharing tokens</text>
+  <text x="440" y="520" class="detail-text">• Progressive ownership distribution</text>
+  <text x="440" y="535" class="detail-text">• Multi-stakeholder governance</text>
+  <text x="440" y="550" class="detail-text">Examples: Brave Browser, Discord</text>
+  
+  <!-- Decentralized Economics -->
+  <rect x="730" y="450" width="280" height="110" class="result-decentralized" rx="6" opacity="0.3"/>
+  <text x="870" y="470" class="result-text" text-anchor="middle">DECENTRALIZED ECONOMICS</text>
+  <text x="740" y="490" class="detail-text">• Token-native business models</text>
+  <text x="740" y="505" class="detail-text">• Protocol fee capture</text>
+  <text x="740" y="520" class="detail-text">• Network effects and utility tokens</text>
+  <text x="740" y="535" class="detail-text">• Community-owned and operated</text>
+  <text x="740" y="550" class="detail-text">Examples: Uniswap, Bitcoin, Ethereum</text>
+  
+  <!-- Team Size Consideration -->
+  <rect x="100" y="610" width="1000" height="120" fill="#f0f8ff" stroke="#4682b4" stroke-width="1" rx="8"/>
+  <text x="120" y="635" class="question-text">Development Resources & Team Size</text>
+  
+  <text x="120" y="660" class="detail-text">• Small team (1-5), fast iteration needed → CENTRALIZED (rapid prototyping, quick deployment)</text>
+  <text x="120" y="680" class="detail-text">• Medium team (5-20), moderate complexity → HYBRID (leverage existing tools, gradual decentralization)</text>
+  <text x="120" y="700" class="detail-text">• Large team (20+), long-term vision → DECENTRALIZED (build infrastructure, establish protocols)</text>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#4a5568"/>
+    </marker>
+  </defs>
+</svg>

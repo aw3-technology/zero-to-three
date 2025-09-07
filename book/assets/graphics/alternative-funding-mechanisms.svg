@@ -1,0 +1,229 @@
+<svg viewBox="0 0 1100 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 26px; font-weight: 700; fill: #1a1a1a; }
+      .category-title { font-family: 'Inter', -apple-system, sans-serif; font-size: 16px; font-weight: 600; fill: #2d3748; }
+      .mechanism-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 12px; font-weight: 500; fill: #4a5568; }
+      .detail-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 10px; fill: #718096; }
+      .traditional { fill: #e2e8f0; stroke: #a0aec0; }
+      .web3 { fill: #bee3f8; stroke: #3182ce; }
+      .hybrid { fill: #c6f6d5; stroke: #38a169; }
+      .community { fill: #fed7d7; stroke: #e53e3e; }
+      .ai-enabled { fill: #fbb6ce; stroke: #d53f8c; }
+    </style>
+  </defs>
+  
+  <!-- Title -->
+  <text x="550" y="40" class="title-text" text-anchor="middle">Alternative Funding Mechanisms in Web3 Era</text>
+  
+  <!-- Traditional Funding Column -->
+  <rect x="50" y="80" width="200" height="680" class="traditional" rx="8" opacity="0.2"/>
+  <text x="150" y="105" class="category-title" text-anchor="middle">Traditional Funding</text>
+  
+  <!-- Traditional mechanisms -->
+  <rect x="70" y="130" width="160" height="70" class="traditional" rx="4"/>
+  <text x="150" y="150" class="mechanism-text" text-anchor="middle">Venture Capital</text>
+  <text x="80" y="167" class="detail-text">• Series A, B, C rounds</text>
+  <text x="80" y="180" class="detail-text">• Equity dilution</text>
+  <text x="80" y="193" class="detail-text">• Board control</text>
+  
+  <rect x="70" y="220" width="160" height="70" class="traditional" rx="4"/>
+  <text x="150" y="240" class="mechanism-text" text-anchor="middle">Angel Investment</text>
+  <text x="80" y="257" class="detail-text">• Individual investors</text>
+  <text x="80" y="270" class="detail-text">• Early stage focus</text>
+  <text x="80" y="283" class="detail-text">• Mentor network</text>
+  
+  <rect x="70" y="310" width="160" height="70" class="traditional" rx="4"/>
+  <text x="150" y="330" class="mechanism-text" text-anchor="middle">Bank Loans</text>
+  <text x="80" y="347" class="detail-text">• Debt financing</text>
+  <text x="80" y="360" class="detail-text">• Asset-backed</text>
+  <text x="80" y="373" class="detail-text">• Fixed repayment</text>
+  
+  <rect x="70" y="400" width="160" height="70" class="traditional" rx="4"/>
+  <text x="150" y="420" class="mechanism-text" text-anchor="middle">Crowdfunding</text>
+  <text x="80" y="437" class="detail-text">• Kickstarter, Indiegogo</text>
+  <text x="80" y="450" class="detail-text">• Product pre-sales</text>
+  <text x="80" y="463" class="detail-text">• Community validation</text>
+  
+  <!-- Web3 Native Column -->
+  <rect x="270" y="80" width="200" height="680" class="web3" rx="8" opacity="0.2"/>
+  <text x="370" y="105" class="category-title" text-anchor="middle">Web3 Native</text>
+  
+  <!-- Web3 mechanisms -->
+  <rect x="290" y="130" width="160" height="70" class="web3" rx="4"/>
+  <text x="370" y="150" class="mechanism-text" text-anchor="middle">Token Sales</text>
+  <text x="300" y="167" class="detail-text">• Public/private sales</text>
+  <text x="300" y="180" class="detail-text">• Utility-based tokens</text>
+  <text x="300" y="193" class="detail-text">• Community ownership</text>
+  
+  <rect x="290" y="220" width="160" height="70" class="web3" rx="4"/>
+  <text x="370" y="240" class="mechanism-text" text-anchor="middle">Airdrops</text>
+  <text x="300" y="257" class="detail-text">• Retroactive rewards</text>
+  <text x="300" y="270" class="detail-text">• Early user incentives</text>
+  <text x="300" y="283" class="detail-text">• Community building</text>
+  
+  <rect x="290" y="310" width="160" height="70" class="web3" rx="4"/>
+  <text x="370" y="330" class="mechanism-text" text-anchor="middle">DAO Treasury</text>
+  <text x="300" y="347" class="detail-text">• Community-controlled</text>
+  <text x="300" y="360" class="detail-text">• Transparent allocation</text>
+  <text x="300" y="373" class="detail-text">• Governance-driven</text>
+  
+  <rect x="290" y="400" width="160" height="70" class="web3" rx="4"/>
+  <text x="370" y="420" class="mechanism-text" text-anchor="middle">Protocol Revenue</text>
+  <text x="300" y="437" class="detail-text">• Transaction fees</text>
+  <text x="300" y="450" class="detail-text">• MEV capture</text>
+  <text x="300" y="463" class="detail-text">• Value accrual</text>
+  
+  <rect x="290" y="490" width="160" height="70" class="web3" rx="4"/>
+  <text x="370" y="510" class="mechanism-text" text-anchor="middle">Quadratic Funding</text>
+  <text x="300" y="527" class="detail-text">• Matching funds</text>
+  <text x="300" y="540" class="detail-text">• Democratic allocation</text>
+  <text x="300" y="553" class="detail-text">• Public goods focus</text>
+  
+  <!-- Hybrid Models Column -->
+  <rect x="490" y="80" width="200" height="680" class="hybrid" rx="8" opacity="0.2"/>
+  <text x="590" y="105" class="category-title" text-anchor="middle">Hybrid Models</text>
+  
+  <!-- Hybrid mechanisms -->
+  <rect x="510" y="130" width="160" height="70" class="hybrid" rx="4"/>
+  <text x="590" y="150" class="mechanism-text" text-anchor="middle">Revenue Sharing</text>
+  <text x="520" y="167" class="detail-text">• Token-based dividends</text>
+  <text x="520" y="180" class="detail-text">• Performance-linked</text>
+  <text x="520" y="193" class="detail-text">• Sustainable returns</text>
+  
+  <rect x="510" y="220" width="160" height="70" class="hybrid" rx="4"/>
+  <text x="590" y="240" class="mechanism-text" text-anchor="middle">Convertible Tokens</text>
+  <text x="520" y="257" class="detail-text">• SAFE + token rights</text>
+  <text x="520" y="270" class="detail-text">• Flexible structure</text>
+  <text x="520" y="283" class="detail-text">• Bridge traditional/Web3</text>
+  
+  <rect x="510" y="310" width="160" height="70" class="hybrid" rx="4"/>
+  <text x="590" y="330" class="mechanism-text" text-anchor="middle">Work Tokens</text>
+  <text x="520" y="347" class="detail-text">• Stake to participate</text>
+  <text x="520" y="360" class="detail-text">• Performance rewards</text>
+  <text x="520" y="373" class="detail-text">• Network security</text>
+  
+  <rect x="510" y="400" width="160" height="70" class="hybrid" rx="4"/>
+  <text x="590" y="420" class="mechanism-text" text-anchor="middle">Progressive Ownership</text>
+  <text x="520" y="437" class="detail-text">• Gradual decentralization</text>
+  <text x="520" y="450" class="detail-text">• Milestone-based</text>
+  <text x="520" y="463" class="detail-text">• Team → Community</text>
+  
+  <!-- Community-Driven Column -->
+  <rect x="710" y="80" width="200" height="680" class="community" rx="8" opacity="0.2"/>
+  <text x="810" y="105" class="category-title" text-anchor="middle">Community-Driven</text>
+  
+  <!-- Community mechanisms -->
+  <rect x="730" y="130" width="160" height="70" class="community" rx="4"/>
+  <text x="810" y="150" class="mechanism-text" text-anchor="middle">Grants Programs</text>
+  <text x="740" y="167" class="detail-text">• Ecosystem funding</text>
+  <text x="740" y="180" class="detail-text">• Non-dilutive</text>
+  <text x="740" y="193" class="detail-text">• Milestone-based</text>
+  
+  <rect x="730" y="220" width="160" height="70" class="community" rx="4"/>
+  <text x="810" y="240" class="mechanism-text" text-anchor="middle">Bounty Systems</text>
+  <text x="740" y="257" class="detail-text">• Task-based rewards</text>
+  <text x="740" y="270" class="detail-text">• Open competition</text>
+  <text x="740" y="283" class="detail-text">• Contributor growth</text>
+  
+  <rect x="730" y="310" width="160" height="70" class="community" rx="4"/>
+  <text x="810" y="330" class="mechanism-text" text-anchor="middle">Retroactive Funding</text>
+  <text x="740" y="347" class="detail-text">• Impact-based rewards</text>
+  <text x="740" y="360" class="detail-text">• Post-delivery payment</text>
+  <text x="740" y="373" class="detail-text">• Optimism model</text>
+  
+  <rect x="730" y="400" width="160" height="70" class="community" rx="4"/>
+  <text x="810" y="420" class="mechanism-text" text-anchor="middle">Contribution Mining</text>
+  <text x="740" y="437" class="detail-text">• Work-based tokens</text>
+  <text x="740" y="450" class="detail-text">• Proof of contribution</text>
+  <text x="740" y="463" class="detail-text">• Long-term alignment</text>
+  
+  <rect x="730" y="490" width="160" height="70" class="community" rx="4"/>
+  <text x="810" y="510" class="mechanism-text" text-anchor="middle">Member Ownership</text>
+  <text x="740" y="527" class="detail-text">• Cooperative model</text>
+  <text x="740" y="540" class="detail-text">• Shared governance</text>
+  <text x="740" y="553" class="detail-text">• Equal distribution</text>
+  
+  <!-- AI-Enabled Column -->
+  <rect x="930" y="80" width="150" height="680" class="ai-enabled" rx="8" opacity="0.2"/>
+  <text x="1005" y="105" class="category-title" text-anchor="middle">AI-Enabled</text>
+  
+  <!-- AI mechanisms -->
+  <rect x="945" y="130" width="120" height="60" class="ai-enabled" rx="4"/>
+  <text x="1005" y="148" class="mechanism-text" text-anchor="middle" font-size="11px">Prediction Markets</text>
+  <text x="950" y="162" class="detail-text">• AI forecasting</text>
+  <text x="950" y="174" class="detail-text">• Risk assessment</text>
+  <text x="950" y="186" class="detail-text">• Dynamic pricing</text>
+  
+  <rect x="945" y="210" width="120" height="60" class="ai-enabled" rx="4"/>
+  <text x="1005" y="228" class="mechanism-text" text-anchor="middle" font-size="11px">Automated Vesting</text>
+  <text x="950" y="242" class="detail-text">• Performance-based</text>
+  <text x="950" y="254" class="detail-text">• AI monitoring</text>
+  <text x="950" y="266" class="detail-text">• Smart contracts</text>
+  
+  <rect x="945" y="290" width="120" height="60" class="ai-enabled" rx="4"/>
+  <text x="1005" y="308" class="mechanism-text" text-anchor="middle" font-size="11px">Reputation Mining</text>
+  <text x="950" y="322" class="detail-text">• AI-scored work</text>
+  <text x="950" y="334" class="detail-text">• Quality metrics</text>
+  <text x="950" y="346" class="detail-text">• Network effects</text>
+  
+  <rect x="945" y="370" width="120" height="60" class="ai-enabled" rx="4"/>
+  <text x="1005" y="388" class="mechanism-text" text-anchor="middle" font-size="11px">Dynamic Tokens</text>
+  <text x="950" y="402" class="detail-text">• AI-adjusted supply</text>
+  <text x="950" y="414" class="detail-text">• Demand-responsive</text>
+  <text x="950" y="426" class="detail-text">• Stability mechanisms</text>
+  
+  <!-- Comparison Matrix -->
+  <rect x="50" y="600" width="1030" height="140" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <text x="70" y="625" class="category-title">Comparison Matrix</text>
+  
+  <!-- Matrix headers -->
+  <text x="70" y="645" class="mechanism-text">Mechanism Type</text>
+  <text x="200" y="645" class="mechanism-text">Speed</text>
+  <text x="280" y="645" class="mechanism-text">Dilution</text>
+  <text x="360" y="645" class="mechanism-text">Control</text>
+  <text x="440" y="645" class="mechanism-text">Community</text>
+  <text x="540" y="645" class="mechanism-text">Regulatory</text>
+  <text x="640" y="645" class="mechanism-text">Best Stage</text>
+  <text x="760" y="645" class="mechanism-text">Examples</text>
+  
+  <!-- Traditional row -->
+  <text x="70" y="665" class="detail-text">Traditional VC</text>
+  <text x="200" y="665" class="detail-text">Slow</text>
+  <text x="280" y="665" class="detail-text">High</text>
+  <text x="360" y="665" class="detail-text">Shared</text>
+  <text x="440" y="665" class="detail-text">Low</text>
+  <text x="540" y="665" class="detail-text">Clear</text>
+  <text x="640" y="665" class="detail-text">Series A+</text>
+  <text x="760" y="665" class="detail-text">Coinbase, OpenAI</text>
+  
+  <!-- Web3 row -->
+  <text x="70" y="685" class="detail-text">Token Sales</text>
+  <text x="200" y="685" class="detail-text">Fast</text>
+  <text x="280" y="685" class="detail-text">None</text>
+  <text x="360" y="685" class="detail-text">Distributed</text>
+  <text x="440" y="685" class="detail-text">High</text>
+  <text x="540" y="685" class="detail-text">Unclear</text>
+  <text x="640" y="685" class="detail-text">Post-PMF</text>
+  <text x="760" y="685" class="detail-text">Uniswap, ENS</text>
+  
+  <!-- Hybrid row -->
+  <text x="70" y="705" class="detail-text">Revenue Share</text>
+  <text x="200" y="705" class="detail-text">Medium</text>
+  <text x="280" y="705" class="detail-text">Medium</text>
+  <text x="360" y="705" class="detail-text">Hybrid</text>
+  <text x="440" y="705" class="detail-text">Medium</text>
+  <text x="540" y="705" class="detail-text">Evolving</text>
+  <text x="640" y="705" class="detail-text">Growth</text>
+  <text x="760" y="705" class="detail-text">Nexus Mutual</text>
+  
+  <!-- Community row -->
+  <text x="70" y="725" class="detail-text">Grants</text>
+  <text x="200" y="725" class="detail-text">Variable</text>
+  <text x="280" y="725" class="detail-text">None</text>
+  <text x="360" y="725" class="detail-text">Maintained</text>
+  <text x="440" y="725" class="detail-text">High</text>
+  <text x="540" y="725" class="detail-text">Minimal</text>
+  <text x="640" y="725" class="detail-text">Early</text>
+  <text x="760" y="725" class="detail-text">Ethereum Foundation</text>
+</svg>

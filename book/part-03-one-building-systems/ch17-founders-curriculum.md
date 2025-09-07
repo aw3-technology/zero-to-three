@@ -1,4 +1,4 @@
-# Chapter 15: The Founder's Curriculum
+# Chapter 17: Founder's Curriculum
 
 ## 1. Introduction: Knowledge Is a System, Not a List
 
@@ -9,6 +9,26 @@ In the Web3 and AI era, this reality intensifies as founders must simultaneously
 This chapter reframes the founder's educational challenge. Rather than attempting to memorize an impossible volume of information, successful founders develop personal learning architectures—systems for acquiring, organizing, applying, and sharing knowledge that evolve alongside their ventures. These architectures function less like libraries (static collections) and more like laboratories (dynamic environments for experimentation and synthesis).
 
 The goal isn't encyclopedic knowledge but strategic understanding—knowing enough about critical domains to make informed decisions, communicate effectively with specialists, and continuously expand capabilities as your venture evolves. By designing your learning as a system rather than pursuing knowledge as a checklist, you create intellectual infrastructure capable of supporting your journey from Zero to Three.
+
+## In This Chapter, You Will
+
+- Define a skills roadmap tied to Zero→One→Two→Three
+- Build weekly learning loops linked to active projects
+- Curate mentors and resources with explicit outcomes
+- Avoid overlearning that delays execution
+
+## Founder’s Checklist
+
+- What must I learn this month to unblock progress?
+- Which 2 mentors cover my biggest blind spots?
+- What’s my weekly cadence for deliberate practice?
+- How do I convert learning into shipped artifacts?
+
+## Exercises
+
+- Write a 6‑week curriculum with deliverables per week
+- Identify 3 “golden resources” per skill and schedule time
+- Pair each learning goal with a shipping goal
 
 ## 2. The Core Skill Map for a Modern Founder
 

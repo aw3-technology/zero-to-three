@@ -1,0 +1,75 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 24px; font-weight: 600; fill: #1a1a1a; }
+      .layer-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 18px; font-weight: 500; fill: #2d3748; }
+      .description-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 14px; fill: #4a5568; }
+      .example-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 12px; fill: #718096; }
+      .infrastructure { fill: #3182ce; stroke: #2b6cb0; }
+      .platform { fill: #38a169; stroke: #2f855a; }
+      .application { fill: #d69e2e; stroke: #b7791f; }
+      .arrow { fill: #718096; }
+    </style>
+  </defs>
+  
+  <!-- Title -->
+  <text x="400" y="40" class="title-text" text-anchor="middle">The Innovation Hierarchy</text>
+  
+  <!-- Infrastructure Layer -->
+  <rect x="100" y="450" width="600" height="120" class="infrastructure" rx="8" opacity="0.1"/>
+  <rect x="110" y="460" width="580" height="100" class="infrastructure" rx="6" opacity="0.2"/>
+  
+  <text x="130" y="485" class="layer-text">Infrastructure Layer</text>
+  <text x="130" y="505" class="description-text">Foundation protocols, hardware, and core systems</text>
+  
+  <!-- Infrastructure examples -->
+  <text x="130" y="530" class="example-text">• Bitcoin, Ethereum protocols</text>
+  <text x="130" y="545" class="example-text">• NVIDIA GPUs, TSMC chips</text>
+  <text x="400" y="530" class="example-text">• Foundation models (GPT, Claude)</text>
+  <text x="400" y="545" class="example-text">• AWS S3, IPFS storage</text>
+  
+  <!-- Platform Layer -->
+  <rect x="100" y="280" width="600" height="120" class="platform" rx="8" opacity="0.1"/>
+  <rect x="110" y="290" width="580" height="100" class="platform" rx="6" opacity="0.2"/>
+  
+  <text x="130" y="315" class="layer-text">Platform Layer</text>
+  <text x="130" y="335" class="description-text">Developer tools, APIs, and middleware</text>
+  
+  <!-- Platform examples -->
+  <text x="130" y="360" class="example-text">• Stripe payments API</text>
+  <text x="130" y="375" class="example-text">• React, TensorFlow</text>
+  <text x="400" y="360" class="example-text">• Alchemy blockchain API</text>
+  <text x="400" y="375" class="example-text">• GitHub, VS Code</text>
+  
+  <!-- Application Layer -->
+  <rect x="100" y="110" width="600" height="120" class="application" rx="8" opacity="0.1"/>
+  <rect x="110" y="120" width="580" height="100" class="application" rx="6" opacity="0.2"/>
+  
+  <text x="130" y="145" class="layer-text">Application Layer</text>
+  <text x="130" y="165" class="description-text">End-user applications and services</text>
+  
+  <!-- Application examples -->
+  <text x="130" y="190" class="example-text">• Uniswap, OpenSea</text>
+  <text x="130" y="205" class="example-text">• ChatGPT, Midjourney</text>
+  <text x="400" y="190" class="example-text">• Mobile apps, websites</text>
+  <text x="400" y="205" class="example-text">• DeFi protocols, NFT platforms</text>
+  
+  <!-- Value flow arrows -->
+  <path d="M 750 170 L 750 140 L 740 150 M 750 140 L 760 150" class="arrow" stroke="#718096" stroke-width="2" fill="none"/>
+  <path d="M 750 340 L 750 310 L 740 320 M 750 310 L 760 320" class="arrow" stroke="#718096" stroke-width="2" fill="none"/>
+  
+  <!-- Value labels -->
+  <text x="620" y="135" class="example-text">Higher user</text>
+  <text x="620" y="150" class="example-text">visibility</text>
+  <text x="620" y="305" class="example-text">More</text>
+  <text x="620" y="320" class="example-text">abstraction</text>
+  <text x="620" y="475" class="example-text">Greater</text>
+  <text x="620" y="490" class="example-text">technical depth</text>
+  
+  <!-- Characteristics sidebar -->
+  <rect x="50" y="260" width="4" height="140" fill="#3182ce" rx="2"/>
+  <text x="30" y="280" class="example-text" writing-mode="vertical-rl">Higher capital requirements</text>
+  
+  <rect x="50" y="140" width="4" height="100" fill="#d69e2e" rx="2"/>
+  <text x="30" y="160" class="example-text" writing-mode="vertical-rl">Faster iteration cycles</text>
+</svg>

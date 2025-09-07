@@ -1,10 +1,36 @@
-# Chapter 19: Tokenomics and Incentive Engineering
+# Chapter 20: Tokenomics and Incentive Engineering
 
 ## Introduction: Incentives Are Architecture
 
 Tokenomics represents far more than a marketing mechanism for fundraising or speculative investment—it constitutes a sophisticated system of rules, behaviors, and beliefs that fundamentally shapes how decentralized networks function. While traditional product designers create features and interfaces, Web3 founders must design economic systems that coordinate behavior, distribute value, and create sustainable alignment across diverse stakeholder groups.
 
 This shift transforms founders into monetary policy designers—creating systems that function effectively across market conditions, stakeholder interests, and time horizons. Like central bankers managing national economies, token designers must balance multiple objectives: encouraging growth without creating inflation, rewarding early participants without penalizing latecomers, distributing governance appropriately while preventing capture, and creating sufficient value capture without extracting excessive fees.
+
+## In This Chapter, You Will
+
+- Choose supply, issuance, and sink designs aligned to utility
+- Align contributor rewards with verifiable work and outcomes
+- Design governance and value capture without rent‑seeking
+- Build stress tests for bear markets and attack scenarios
+
+## Founder’s Checklist
+
+- What real utility requires a token here (if any)?
+- Who earns what, when, and based on which proofs?
+- How do we prevent mercenary extraction and wash‑behavior?
+- What’s our credible path from centralized control to governance?
+
+## Exercises
+
+- Write a one‑pager “Why a token?” with pass/fail criteria
+- Model issuance/sinks across 3 market cycles; cap worst‑case inflation
+- Define Sybil‑resistant reward proofs for one contribution type
+
+## Related Case Studies
+
+- Uniswap: ../case-studies/compendium.md#uniswap
+- Helium Network: ../case-studies/compendium.md#helium-network
+- The DAO Hack (Cautionary Tale): ../case-studies/compendium.md#the-dao-hack-cautionary-tale
 
 The architecture analogy proves particularly apt—token systems create invisible structures that direct participant behavior, channel value flows, and establish relationships between different ecosystem components. Like physical architecture, these structures must balance form and function, beauty and utility, present needs and future flexibility. And like buildings, they must stand strong through various conditions—bull markets and bear markets, high activity and low usage, growth phases and maturity.
 

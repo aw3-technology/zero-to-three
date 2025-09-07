@@ -1,8 +1,28 @@
-# Chapter 23: Trust Engineering
+# Chapter 23: Global Expansion
 
-## Building Trust in Trustless Systems
+## Going Global Without Losing Coherence
 
-The paradox of creating trusted experiences in decentralized environments.
+How to sequence markets, localize responsibly, and maintain product quality.
+
+## In This Chapter, You Will
+
+- Prioritize countries by product‑regulatory fit and distribution
+- Localize pricing, payments, and UX with minimal surface area
+- Build regional partnerships for compliance and support
+- Operate 24/7 with sane processes and on‑call rotations
+
+## Founder’s Checklist
+
+- Which 2–3 markets are “now”, which are “later”, and why?
+- What must be localized vs. kept global for maintainability?
+- Who is our in‑region legal and distribution partner?
+- How do we measure market‑specific retention and trust?
+
+## Exercises
+
+- Draft a market entry brief for one target country
+- Implement one localization improvement (copy, payments, docs)
+- Set up a follow‑the‑sun support schedule and escalation path
 
 ## Case Studies
 

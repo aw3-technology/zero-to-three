@@ -1,0 +1,133 @@
+<svg viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 28px; font-weight: 700; fill: #1a1a1a; }
+      .stage-title { font-family: 'Inter', -apple-system, sans-serif; font-size: 20px; font-weight: 600; fill: #2d3748; }
+      .stage-subtitle { font-family: 'Inter', -apple-system, sans-serif; font-size: 14px; font-weight: 500; fill: #4a5568; }
+      .description-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 12px; fill: #718096; }
+      .metrics-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 11px; fill: #805ad5; }
+      .zero { fill: #e53e3e; stroke: #c53030; }
+      .one { fill: #38a169; stroke: #2f855a; }
+      .two { fill: #3182ce; stroke: #2b6cb0; }
+      .three { fill: #d69e2e; stroke: #b7791f; }
+      .beyond { fill: #805ad5; stroke: #6b46c1; }
+      .arrow { fill: none; stroke: #718096; stroke-width: 3; }
+    </style>
+  </defs>
+  
+  <!-- Title -->
+  <text x="450" y="40" class="title-text" text-anchor="middle">Zero to Three: The Founder's Journey</text>
+  
+  <!-- Zero Stage -->
+  <circle cx="150" cy="150" r="60" class="zero" opacity="0.2"/>
+  <circle cx="150" cy="150" r="50" class="zero" opacity="0.4"/>
+  <text x="150" y="140" class="stage-title" text-anchor="middle">Zero</text>
+  <text x="150" y="160" class="stage-subtitle" text-anchor="middle">Idea to Reality</text>
+  
+  <text x="150" y="230" class="description-text" text-anchor="middle">• Problem validation</text>
+  <text x="150" y="245" class="description-text" text-anchor="middle">• Technical proof</text>
+  <text x="150" y="260" class="description-text" text-anchor="middle">• Team formation</text>
+  <text x="150" y="275" class="description-text" text-anchor="middle">• First prototype</text>
+  
+  <text x="150" y="295" class="metrics-text" text-anchor="middle">Metrics: User interviews,</text>
+  <text x="150" y="308" class="metrics-text" text-anchor="middle">technical demos, early feedback</text>
+  
+  <!-- One Stage -->
+  <circle cx="350" cy="150" r="60" class="one" opacity="0.2"/>
+  <circle cx="350" cy="150" r="50" class="one" opacity="0.4"/>
+  <text x="350" y="140" class="stage-title" text-anchor="middle">One</text>
+  <text x="350" y="160" class="stage-subtitle" text-anchor="middle">Product-Market Fit</text>
+  
+  <text x="350" y="230" class="description-text" text-anchor="middle">• MVP launch</text>
+  <text x="350" y="245" class="description-text" text-anchor="middle">• User traction</text>
+  <text x="350" y="260" class="description-text" text-anchor="middle">• Revenue model</text>
+  <text x="350" y="275" class="description-text" text-anchor="middle">• Core systems</text>
+  
+  <text x="350" y="295" class="metrics-text" text-anchor="middle">Metrics: Active users, retention,</text>
+  <text x="350" y="308" class="metrics-text" text-anchor="middle">revenue, NPS</text>
+  
+  <!-- Two Stage -->
+  <circle cx="550" cy="150" r="60" class="two" opacity="0.2"/>
+  <circle cx="550" cy="150" r="50" class="two" opacity="0.4"/>
+  <text x="550" y="140" class="stage-title" text-anchor="middle">Two</text>
+  <text x="550" y="160" class="stage-subtitle" text-anchor="middle">Scale & Growth</text>
+  
+  <text x="550" y="230" class="description-text" text-anchor="middle">• Team scaling</text>
+  <text x="550" y="245" class="description-text" text-anchor="middle">• Operations</text>
+  <text x="550" y="260" class="description-text" text-anchor="middle">• Market expansion</text>
+  <text x="550" y="275" class="description-text" text-anchor="middle">• Community building</text>
+  
+  <text x="550" y="295" class="metrics-text" text-anchor="middle">Metrics: Growth rate, CAC,</text>
+  <text x="550" y="308" class="metrics-text" text-anchor="middle">LTV, market share</text>
+  
+  <!-- Three Stage -->
+  <circle cx="750" cy="150" r="60" class="three" opacity="0.2"/>
+  <circle cx="750" cy="150" r="50" class="three" opacity="0.4"/>
+  <text x="750" y="140" class="stage-title" text-anchor="middle">Three</text>
+  <text x="750" y="160" class="stage-subtitle" text-anchor="middle">Market Leadership</text>
+  
+  <text x="750" y="230" class="description-text" text-anchor="middle">• Industry influence</text>
+  <text x="750" y="245" class="description-text" text-anchor="middle">• Platform creation</text>
+  <text x="750" y="260" class="description-text" text-anchor="middle">• Ecosystem building</text>
+  <text x="750" y="275" class="description-text" text-anchor="middle">• Standard setting</text>
+  
+  <text x="750" y="295" class="metrics-text" text-anchor="middle">Metrics: Market dominance,</text>
+  <text x="750" y="308" class="metrics-text" text-anchor="middle">ecosystem value, influence</text>
+  
+  <!-- Beyond Three -->
+  <circle cx="450" cy="400" r="60" class="beyond" opacity="0.2"/>
+  <circle cx="450" cy="400" r="50" class="beyond" opacity="0.4"/>
+  <text x="450" y="390" class="stage-title" text-anchor="middle">Beyond</text>
+  <text x="450" y="410" class="stage-subtitle" text-anchor="middle">Systemic Impact</text>
+  
+  <text x="450" y="480" class="description-text" text-anchor="middle">• Industry transformation</text>
+  <text x="450" y="495" class="description-text" text-anchor="middle">• Global coordination</text>
+  <text x="450" y="510" class="description-text" text-anchor="middle">• New paradigms</text>
+  <text x="450" y="525" class="description-text" text-anchor="middle">• Exponential impact</text>
+  
+  <!-- Arrows -->
+  <path d="M 210 150 L 290 150" class="arrow" marker-end="url(#arrowhead)"/>
+  <path d="M 410 150 L 490 150" class="arrow" marker-end="url(#arrowhead)"/>
+  <path d="M 610 150 L 690 150" class="arrow" marker-end="url(#arrowhead)"/>
+  <path d="M 750 210 Q 600 300 450 340" class="arrow" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#718096"/>
+    </marker>
+  </defs>
+  
+  <!-- Key Characteristics Box -->
+  <rect x="50" y="500" width="800" height="150" fill="#f7fafc" stroke="#e2e8f0" stroke-width="1" rx="8"/>
+  <text x="70" y="525" class="stage-title">Key Characteristics by Stage</text>
+  
+  <!-- Zero characteristics -->
+  <rect x="70" y="535" width="15" height="15" class="zero" opacity="0.6"/>
+  <text x="95" y="547" class="description-text">Zero: High uncertainty, rapid learning, resource constraints</text>
+  
+  <!-- One characteristics -->
+  <rect x="70" y="555" width="15" height="15" class="one" opacity="0.6"/>
+  <text x="95" y="567" class="description-text">One: Product focus, user feedback loops, market validation</text>
+  
+  <!-- Two characteristics -->
+  <rect x="70" y="575" width="15" height="15" class="two" opacity="0.6"/>
+  <text x="95" y="587" class="description-text">Two: Operational excellence, team building, distribution channels</text>
+  
+  <!-- Three characteristics -->
+  <rect x="70" y="595" width="15" height="15" class="three" opacity="0.6"/>
+  <text x="95" y="607" class="description-text">Three: Strategic leadership, ecosystem design, competitive moats</text>
+  
+  <!-- Beyond characteristics -->
+  <rect x="70" y="615" width="15" height="15" class="beyond" opacity="0.6"/>
+  <text x="95" y="627" class="description-text">Beyond: Global impact, systemic change, paradigm shifts</text>
+  
+  <!-- Web3/AI Context -->
+  <rect x="450" y="500" width="380" height="100" fill="#faf5ff" stroke="#d6bcfa" stroke-width="1" rx="6"/>
+  <text x="470" y="520" class="stage-title">Web3 & AI Era Specifics</text>
+  <text x="470" y="540" class="description-text">• Composable infrastructure enables faster Zero→One</text>
+  <text x="470" y="553" class="description-text">• Token economics creates new incentive models</text>
+  <text x="470" y="566" class="description-text">• AI assistance accelerates development cycles</text>
+  <text x="470" y="579" class="description-text">• Open source and transparency build trust</text>
+  <text x="470" y="592" class="description-text">• Global, permissionless markets from day one</text>
+</svg>

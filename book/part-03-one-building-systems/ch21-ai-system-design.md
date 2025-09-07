@@ -1,4 +1,4 @@
-# Chapter 20: AI System Design
+# Chapter 21: AI System Design
 
 ## 1. Introduction: From Tools to Systems of Intelligence
 
@@ -11,6 +11,32 @@ This transition is not merely adding machine learning to existing software archi
 The most successful AI products aren't simply tools with ML capabilities bolted on but integrated systems where intelligence forms the core architecture rather than an additional component. This chapter explores how to design these systems effectively—from conceptual framework to technical implementation to economic sustainability.
 
 ## 2. From Tools to Agents: New Possibilities in Product Design
+
+## In This Chapter, You Will
+
+- Select autonomy levels appropriate to risk and value
+- Architect data, retrieval, and feedback for compounding quality
+- Bake in safety: guardrails, evaluation, and fallback behavior
+- Ship evals and telemetry to drive ongoing improvements
+
+## Founder’s Checklist
+
+- What tasks are safe to automate vs. assist only?
+- Do we log inputs/outputs with redaction for privacy and audits?
+- What are our offline and online eval suites and thresholds?
+- How do we communicate limitations and provide recourse?
+
+## Exercises
+
+- Define an autonomy matrix for 5 core user tasks
+- Add a feedback loop: capture, triage, and fine‑tune on hard cases
+- Implement one red‑team scenario and document mitigations
+
+## Related Case Studies
+
+- OpenAI: ../case-studies/compendium.md#openai
+- Anthropic: ../case-studies/compendium.md#anthropic
+- Hugging Face: ../case-studies/compendium.md#hugging-face
 
 ### The Autonomy Spectrum
 

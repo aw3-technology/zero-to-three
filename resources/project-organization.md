@@ -38,6 +38,7 @@ zero_to_three/
 - **Examples**: `ch01-the-new-paradigm.md`, `ch18-alternative-funding.md`, `ch32-global-coordination.md`
 - **Title Format**: Include chapter number and title as H1 header within the file
 - **Location**: Within appropriate `part-#-description/` directories
+- **⚠️ CRITICAL**: Each chapter number must be unique across the entire book. No duplicate chapter numbers allowed.
 
 ### Case Studies
 - **Main File**: `company-index.md` (comprehensive case study compendium)
@@ -49,6 +50,69 @@ zero_to_three/
 - **Outlines**: `outline_chapter_XX.md` or `outline_[topic].md`
 - **Research**: `research_[topic].md` or `interview_[person_date].md`
 - **Templates**: `template_[purpose].md`
+
+## Version Management and Duplicate Prevention
+
+### No Duplicate Chapters Policy
+**ABSOLUTE RULE**: Each chapter number can only exist once in the entire book project.
+
+- ✅ **Correct**: `ch18-alternative-funding.md` (one file with this number)
+- ❌ **NEVER**: `ch18-alternative-funding.md` AND `ch18-building-what-works.md`
+- ❌ **NEVER**: Multiple versions of same chapter number in different directories
+
+### Chapter Conflicts Resolution
+When chapter conflicts arise:
+
+1. **Immediate Action**: Identify which chapter should retain the number
+2. **Renumber**: Assign conflicting chapter to available sequential number
+3. **Update References**: Fix all internal links and table of contents
+4. **Document Change**: Note renumbering in commit message
+
+### Alternative Versions Management
+
+If you need to create alternative versions of the book:
+
+#### Option 1: Versions Directory Structure
+```
+zero_to_three/
+├── book/                    # Main canonical version
+├── versions/
+│   ├── v1-original/
+│   │   └── book/           # Complete alternative version
+│   ├── v2-expanded/
+│   │   └── book/           # Another complete version
+│   └── experimental/
+│       └── book/           # Experimental version
+├── resources/
+└── drafts/
+```
+
+#### Option 2: Git Branch Strategy (Preferred)
+```bash
+git checkout -b version/alternative-structure
+# Create your alternative version
+git checkout main  # Return to canonical version
+```
+
+#### Option 3: Fork Repository
+- Fork the entire repository for substantial rewrites
+- Clearly mark as derivative work
+- Maintain attribution to original
+
+### Version Identification Requirements
+Any alternative version MUST include:
+
+1. **Clear Naming**: Version directory/branch name indicates it's not canonical
+2. **Documentation**: README explaining differences from main version  
+3. **Attribution**: Clear credit to original work and contributors
+4. **Date Stamp**: When alternative version was created
+5. **Purpose Statement**: Why this version exists
+
+### Canonical Version Authority
+- The `/book/` directory in main branch is the official canonical version
+- All chapter numbers in canonical version are authoritative
+- Alternative versions may not claim chapter numbers used in canonical version
+- SUMMARY.md in canonical version is the definitive table of contents
 
 ## Folder Guidelines
 

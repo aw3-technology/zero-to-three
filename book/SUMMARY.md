@@ -69,3 +69,5 @@
 ### [Appendix](98-appendix.md)
 
 ### [Company Index](company-index.md)
+
+### [Case Studies Compendium](case-studies/compendium.md)

@@ -1,4 +1,4 @@
-# Chapter 26: Operational Excellence at Scale
+# Chapter 26: Operational Excellence
 
 ## The Foundation of Sustainable Growth
 
@@ -40,6 +40,26 @@ Web3 and AI-native companies require infrastructure approaches that go beyond tr
 - Decentralized monitoring and alerting
 - Privacy-preserving analytics
 - Autonomous system health checking
+
+## In This Chapter, You Will
+
+- Establish lightweight processes that increase speed and quality
+- Instrument your system with SLOs, runbooks, and postmortems
+- Create hiring, onboarding, and leadership routines that scale
+- Align operations with governance and community promises
+
+## Founder’s Checklist
+
+- Do we have a single source of truth for priorities?
+- Are on‑call, incidents, and postmortems real and used?
+- What’s our definition of done (tests, docs, security checks)?
+- How do we keep meetings short and decisions documented?
+
+## Exercises
+
+- Write a 2‑page operating cadence (rituals, artifacts, roles)
+- Add SLOs and an incident template; run a tabletop incident
+- Create a new‑hire onboarding checklist and a 30/60/90 plan
 
 ### Data Architecture for Decision Making
 

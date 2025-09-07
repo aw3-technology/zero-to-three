@@ -4,6 +4,26 @@
 
 From managing people to orchestrating systems.
 
+## In This Chapter, You Will
+
+- Orchestrate standards, incentives, and norms across many actors
+- Create forums and processes that convert conflict into progress
+- Fund and govern public goods without capture
+- Measure ecosystem health, not just product metrics
+
+## Founder’s Checklist
+
+- What must be neutral, and where can we take a strong stance?
+- Do we have a credible path to reduce our central role?
+- How do we handle forks, disputes, and incompatible visions?
+- Which shared metrics indicate ecosystem flourishing?
+
+## Exercises
+
+- Draft a minimal “ecosystem constitution” with scope and values
+- Launch a quarterly ecosystem review with public notes and actions
+- Design a grants rubric that rewards leverage and openness
+
 ## Case Studies
 
 ### Cosmos

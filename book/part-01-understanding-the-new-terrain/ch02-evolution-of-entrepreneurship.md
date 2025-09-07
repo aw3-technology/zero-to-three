@@ -24,6 +24,35 @@ This is why we need the "Zero to Three" framework—a multidimensional path that
 
 Each stage presents unique challenges requiring different skills, resources, and strategic approaches. By explicitly acknowledging all four stages, "Zero to Three" provides a comprehensive map for navigating the entrepreneurial landscape in the age of Web3 and AI.
 
+## Value Creation Evolution: Across Eras
+
+The methods and mechanisms of value creation have fundamentally shifted across entrepreneurial eras:
+
+| **Era** | **Dominant Form** | **Capital Requirement** | **Coordination Tech** | **Value Capture** |
+|---------|-------------------|------------------------|----------------------|-------------------|
+| **Industrial (1880-1980)** | Corporation | High capex, physical assets | Hierarchy, contracts | Profit margins, IP |
+| **Digital (1990-2010)** | Software company | Medium, dev + servers | Email, project mgmt | SaaS, advertising |
+| **Platform (2010-2020)** | Network platform | Low-medium, mostly devs | APIs, marketplaces | Transaction fees, data |
+| **Crypto-AI (2020+)** | Protocol + community | Variable, compute + tokens | Smart contracts, DAOs | Token value, network effects |
+
+This evolution shows how coordination technology enables new organizational forms, which unlock different value creation and capture mechanisms.
+
+## Organizational Taxonomy: Beyond Traditional Firms
+
+Today's ventures operate across a spectrum of organizational forms, each with distinct characteristics:
+
+**Traditional Startup:** Equity-based, hierarchical, venture-funded company with clear IP ownership and centralized control. Best for: Deep tech, regulated industries, complex operations.
+
+**Protocol Project:** Open-source infrastructure with token economics and distributed governance. Best for: Foundational infrastructure, network effects, community-driven development.
+
+**DAO (Decentralized Autonomous Organization):** Governance-token controlled entity with on-chain decision making and treasury management. Best for: Community coordination, public goods, distributed ownership.
+
+**Cooperative Network:** Member-owned organization with shared governance and profit distribution. Best for: Local services, mutual aid, aligned stakeholder interests.
+
+**Open Source Project:** Community-developed software with various governance models and funding mechanisms. Best for: Developer tools, standards, public goods.
+
+The most successful modern ventures often combine elements from multiple forms, evolving their organizational structure as they mature through different stages.
+
 ## 2. Revisiting "Zero to One"
 
 Thiel's core insights remain remarkably relevant. His emphasis on monopoly—building businesses so differentiated they face limited direct competition—still forms the foundation of venture-scale returns. His focus on uncovering secrets—non-obvious truths about markets, technologies, or human behavior—remains essential to discovering unique opportunities. And his advocacy for definite optimism—having concrete plans for a better future rather than vague hopes—continues to separate visionary founders from wishful thinkers.
@@ -84,6 +113,12 @@ Innovation has become truly global, transcending traditional geographic constrai
 Nigeria has seen remarkable grassroots adoption of cryptocurrency solutions addressing real economic needs. India has produced global blockchain infrastructure leaders like Polygon. Latin America has reimagined financial services through companies like Nubank.
 
 This globalization creates both intensified competition and expanded opportunity. Today's entrepreneurs must think globally from inception, understanding diverse market conditions and regulatory environments while leveraging distributed talent pools and serving customers across geographic boundaries.
+
+### Global Innovation Examples: Network-Centric Models
+
+**India's UPI Stack:** India's Unified Payments Interface demonstrates how government-backed infrastructure can enable massive entrepreneurial opportunity. Rather than building a centralized payment system, India created open APIs that allowed hundreds of apps (PhonePe, Paytm, Google Pay) to compete on user experience while sharing common infrastructure. This network-centric approach processed 100+ billion transactions in 2023, creating a $200B+ fintech ecosystem. The model shows how countries can leapfrog traditional financial infrastructure by designing for ecosystem participation rather than monopolistic control.
+
+**Latin American Crypto Rails:** In Argentina and Venezuela, entrepreneurs built crypto-based financial services to address currency instability and inflation. Companies like Bitso, Mercado Pago, and countless smaller players created parallel financial infrastructure using stablecoins and cross-border payment rails. This wasn't about blockchain ideology—it was practical infrastructure for preserving value and enabling commerce when traditional banking systems failed. The resulting ecosystem demonstrates how entrepreneurs can build "Zero to Three" progressions by solving immediate problems (individual remittances), creating community adoption (merchant networks), and establishing new financial primitives (regional crypto economy).
 
 ## 5. Redefining the Entrepreneurial Rulebook with Web3 and AI
 

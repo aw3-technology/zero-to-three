@@ -58,6 +58,12 @@ In contrast to natural scarcity, digital economies often involve deliberately cr
 - Define 3 pricing experiments that match value delivered
 - Design a positive-sum incentive for a key external contributor
 
+## Related Case Studies
+
+- Nigeria’s Crypto Movement: ../case-studies/compendium.md#nigerias-crypto-movement
+- Bitcoin: ../case-studies/compendium.md#bitcoin
+- TSMC: ../case-studies/compendium.md#nvidia--tsmc
+
 **Compute Resources** for specialized tasks may be artificially restricted to create pricing power, even when additional capacity could technically be provided.
 
 Manufactured scarcity operates primarily through psychological triggers and social consensus rather than hard physical constraints.

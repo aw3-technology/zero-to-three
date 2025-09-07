@@ -8,6 +8,31 @@ Amid this challenging environment, one distribution mechanism has remained consi
 
 Community building transforms this word-of-mouth dynamic from accidental occurrence to engineered system—creating environments where enthusiastic users naturally become advocates, contributors, and co-creators. Unlike traditional marketing that treats users as passive recipients, community approaches recognize them as active participants whose collective energy creates distribution leverage beyond what any founder could generate independently.
 
+## In This Chapter, You Will
+
+- Design contributor pathways: user → advocate → maintainer → owner
+- Set up incentives and rituals that reinforce desired behavior
+- Build moderation, conflict resolution, and governance basics
+- Measure community health with leading indicators
+
+## Founder’s Checklist
+
+- What is the first low‑friction contribution we invite?
+- How do we recognize and reward meaningful participation?
+- Where do we document norms, roles, and recourse?
+- Which 3 metrics reflect trust and belonging (not vanity)?
+
+## Exercises
+
+- Publish a contributor ladder with clear permissions/rewards
+- Schedule one recurring community ritual (demo day, RFC review)
+- Draft a lightweight code of conduct + conflict process
+
+## Related Case Studies
+
+- ClimateBase: ../case-studies/compendium.md#climatebase
+- Bitmask: ../case-studies/compendium.md#bitmask
+
 ## 2. Word-of-Mouth Dynamics: The Original Network Effect
 
 ### Why Community > Advertising

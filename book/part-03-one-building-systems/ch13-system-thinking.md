@@ -1,4 +1,28 @@
-# Chapter 11: Navigating Modern Capital
+# Chapter 13: System Thinking
+
+## Applying Systems Thinking To Venture Building
+
+This chapter frames ventures as systems: interacting parts, feedback loops, delays, and incentives. Even when discussing capital (below), the lens is systemic—how funding structures, governance, users, and contributors co‑evolve.
+
+## In This Chapter, You Will
+
+- Map your product, community, and capital flows as one system
+- Identify reinforcing/balancing loops that drive behavior
+- Pick leverage points for outsized change with minimal effort
+- Avoid local optimizations that degrade long‑term health
+
+## Founder’s Checklist
+
+- Where are our delays causing oscillations or instability?
+- Which metrics prove system health (not just growth)?
+- What invisible incentives are creating unintended behaviors?
+- Which 1–2 leverage points can we change this quarter?
+
+## Exercises
+
+- Draw a causal loop diagram for acquisition → activation → contribution → governance
+- Identify one balancing loop preventing runaway complexity; strengthen it
+- Write a policy change to realign incentives with desired behaviors
 
 ## 1. Introduction: The End of Easy Money
 

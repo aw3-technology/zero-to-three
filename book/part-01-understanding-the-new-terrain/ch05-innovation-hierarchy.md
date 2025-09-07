@@ -58,6 +58,13 @@ Platform innovations focus on developer experience, standardization, and abstrac
 - Define 3 metrics that actually matter for your layer
 - Identify 2 adjacent-layer partners and a co-ship plan
 
+## Related Case Studies
+
+- Alchemy: ../case-studies/compendium.md#alchemy
+- Celestia: ../case-studies/compendium.md#celestia
+- IPFS / Filecoin: ../case-studies/compendium.md#ipfs--filecoin
+- NVIDIA / TSMC: ../case-studies/compendium.md#nvidia--tsmc
+
 The application layer directly serves end users, solving specific problems or providing particular experiences:
 - Consumer applications (social networks, productivity tools)
 - Enterprise software (CRM, ERP systems)

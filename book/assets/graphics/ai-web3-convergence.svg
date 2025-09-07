@@ -1,0 +1,155 @@
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 24px; font-weight: 700; fill: #1a1a1a; }
+      .section-title { font-family: 'Inter', -apple-system, sans-serif; font-size: 16px; font-weight: 600; fill: #2d3748; }
+      .component-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 12px; fill: #4a5568; }
+      .detail-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 10px; fill: #718096; }
+      .ai-tech { fill: #fed7e2; stroke: #d53f8c; }
+      .web3-tech { fill: #bee3f8; stroke: #3182ce; }
+      .convergence { fill: #c6f6d5; stroke: #38a169; }
+      .connection { fill: none; stroke: #a0aec0; stroke-width: 2; stroke-dasharray: 3,3; }
+    </style>
+  </defs>
+  
+  <!-- Title -->
+  <text x="500" y="40" class="title-text" text-anchor="middle">AI × Web3 Convergence: New Primitives</text>
+  
+  <!-- AI Technologies (Left Side) -->
+  <rect x="50" y="80" width="350" height="550" class="ai-tech" rx="12" opacity="0.2"/>
+  <text x="225" y="110" class="section-title" text-anchor="middle">AI Technologies</text>
+  
+  <!-- LLMs -->
+  <rect x="80" y="140" width="140" height="80" class="ai-tech" rx="6" opacity="0.6"/>
+  <text x="150" y="165" class="component-text" text-anchor="middle">Large Language</text>
+  <text x="150" y="180" class="component-text" text-anchor="middle">Models</text>
+  <text x="90" y="200" class="detail-text">• GPT, Claude, Llama</text>
+  <text x="90" y="212" class="detail-text">• Natural language interface</text>
+  
+  <!-- Computer Vision -->
+  <rect x="240" y="140" width="140" height="80" class="ai-tech" rx="6" opacity="0.6"/>
+  <text x="310" y="165" class="component-text" text-anchor="middle">Computer Vision</text>
+  <text x="310" y="180" class="component-text" text-anchor="middle">& Generation</text>
+  <text x="250" y="200" class="detail-text">• DALL-E, Midjourney</text>
+  <text x="250" y="212" class="detail-text">• Image/video synthesis</text>
+  
+  <!-- AI Agents -->
+  <rect x="80" y="240" width="140" height="80" class="ai-tech" rx="6" opacity="0.6"/>
+  <text x="150" y="265" class="component-text" text-anchor="middle">Autonomous</text>
+  <text x="150" y="280" class="component-text" text-anchor="middle">Agents</text>
+  <text x="90" y="300" class="detail-text">• Multi-step reasoning</text>
+  <text x="90" y="312" class="detail-text">• Tool usage</text>
+  
+  <!-- ML Infrastructure -->
+  <rect x="240" y="240" width="140" height="80" class="ai-tech" rx="6" opacity="0.6"/>
+  <text x="310" y="265" class="component-text" text-anchor="middle">ML Infrastructure</text>
+  <text x="250" y="285" class="detail-text">• Training pipelines</text>
+  <text x="250" y="297" class="detail-text">• Model serving</text>
+  <text x="250" y="309" class="detail-text">• Data orchestration</text>
+  
+  <!-- Prediction Markets -->
+  <rect x="80" y="340" width="140" height="80" class="ai-tech" rx="6" opacity="0.6"/>
+  <text x="150" y="365" class="component-text" text-anchor="middle">Predictive</text>
+  <text x="150" y="380" class="component-text" text-anchor="middle">Analytics</text>
+  <text x="90" y="400" class="detail-text">• Forecasting models</text>
+  <text x="90" y="412" class="detail-text">• Risk assessment</text>
+  
+  <!-- Personalization -->
+  <rect x="240" y="340" width="140" height="80" class="ai-tech" rx="6" opacity="0.6"/>
+  <text x="310" y="365" class="component-text" text-anchor="middle">Personalization</text>
+  <text x="310" y="380" class="component-text" text-anchor="middle">& Recommendation</text>
+  <text x="250" y="400" class="detail-text">• Content curation</text>
+  <text x="250" y="412" class="detail-text">• User modeling</text>
+  
+  <!-- Web3 Technologies (Right Side) -->
+  <rect x="600" y="80" width="350" height="550" class="web3-tech" rx="12" opacity="0.2"/>
+  <text x="775" y="110" class="section-title" text-anchor="middle">Web3 Technologies</text>
+  
+  <!-- Smart Contracts -->
+  <rect x="630" y="140" width="140" height="80" class="web3-tech" rx="6" opacity="0.6"/>
+  <text x="700" y="165" class="component-text" text-anchor="middle">Smart Contracts</text>
+  <text x="640" y="190" class="detail-text">• Automated execution</text>
+  <text x="640" y="202" class="detail-text">• Trust minimization</text>
+  <text x="640" y="214" class="detail-text">• Composability</text>
+  
+  <!-- Decentralized Storage -->
+  <rect x="790" y="140" width="140" height="80" class="web3-tech" rx="6" opacity="0.6"/>
+  <text x="860" y="165" class="component-text" text-anchor="middle">Decentralized</text>
+  <text x="860" y="180" class="component-text" text-anchor="middle">Storage</text>
+  <text x="800" y="200" class="detail-text">• IPFS, Filecoin</text>
+  <text x="800" y="212" class="detail-text">• Permanent data</text>
+  
+  <!-- Token Economics -->
+  <rect x="630" y="240" width="140" height="80" class="web3-tech" rx="6" opacity="0.6"/>
+  <text x="700" y="265" class="component-text" text-anchor="middle">Token Economics</text>
+  <text x="640" y="290" class="detail-text">• Incentive alignment</text>
+  <text x="640" y="302" class="detail-text">• Value distribution</text>
+  <text x="640" y="314" class="detail-text">• Governance rights</text>
+  
+  <!-- Identity & Reputation -->
+  <rect x="790" y="240" width="140" height="80" class="web3-tech" rx="6" opacity="0.6"/>
+  <text x="860" y="265" class="component-text" text-anchor="middle">Identity &</text>
+  <text x="860" y="280" class="component-text" text-anchor="middle">Reputation</text>
+  <text x="800" y="300" class="detail-text">• DIDs, ENS</text>
+  <text x="800" y="312" class="detail-text">• On-chain history</text>
+  
+  <!-- DAOs -->
+  <rect x="630" y="340" width="140" height="80" class="web3-tech" rx="6" opacity="0.6"/>
+  <text x="700" y="365" class="component-text" text-anchor="middle">DAOs</text>
+  <text x="640" y="385" class="detail-text">• Collective decision</text>
+  <text x="640" y="397" class="detail-text">• Treasury management</text>
+  <text x="640" y="409" class="detail-text">• Permissionless org</text>
+  
+  <!-- ZK/Privacy -->
+  <rect x="790" y="340" width="140" height="80" class="web3-tech" rx="6" opacity="0.6"/>
+  <text x="860" y="365" class="component-text" text-anchor="middle">Zero-Knowledge</text>
+  <text x="860" y="380" class="component-text" text-anchor="middle">Proofs</text>
+  <text x="800" y="400" class="detail-text">• Privacy preservation</text>
+  <text x="800" y="412" class="detail-text">• Selective disclosure</text>
+  
+  <!-- Convergence Zone (Center) -->
+  <rect x="420" y="200" width="160" height="300" class="convergence" rx="12" opacity="0.4"/>
+  <text x="500" y="230" class="section-title" text-anchor="middle">Convergence</text>
+  <text x="500" y="250" class="section-title" text-anchor="middle">Applications</text>
+  
+  <!-- Convergence examples -->
+  <rect x="435" y="270" width="130" height="50" class="convergence" rx="4" opacity="0.8"/>
+  <text x="500" y="290" class="component-text" text-anchor="middle">AI Agent DAOs</text>
+  <text x="445" y="305" class="detail-text">Autonomous organizations</text>
+  <text x="445" y="315" class="detail-text">with AI decision making</text>
+  
+  <rect x="435" y="335" width="130" height="50" class="convergence" rx="4" opacity="0.8"/>
+  <text x="500" y="355" class="component-text" text-anchor="middle">Verifiable AI</text>
+  <text x="445" y="370" class="detail-text">ZK proofs for AI outputs</text>
+  <text x="445" y="380" class="detail-text">and model integrity</text>
+  
+  <rect x="435" y="400" width="130" height="50" class="convergence" rx="4" opacity="0.8"/>
+  <text x="500" y="420" class="component-text" text-anchor="middle">AI-Generated NFTs</text>
+  <text x="445" y="435" class="detail-text">Dynamic, evolving</text>
+  <text x="445" y="445" class="detail-text">digital assets</text>
+  
+  <!-- Connection lines -->
+  <!-- LLM to AI Agent DAOs -->
+  <path d="M 220 180 Q 350 180 435 295" class="connection"/>
+  <!-- Smart Contracts to AI Agent DAOs -->
+  <path d="M 630 180 Q 550 180 565 295" class="connection"/>
+  
+  <!-- Computer Vision to AI-Generated NFTs -->
+  <path d="M 310 220 Q 350 350 435 425" class="connection"/>
+  <!-- Token Economics to AI-Generated NFTs -->
+  <path d="M 630 280 Q 550 350 565 425" class="connection"/>
+  
+  <!-- AI Agents to Verifiable AI -->
+  <path d="M 220 280 Q 350 300 435 360" class="connection"/>
+  <!-- ZK Proofs to Verifiable AI -->
+  <path d="M 790 380 Q 650 350 565 360" class="connection"/>
+  
+  <!-- Emergent Properties Box -->
+  <rect x="200" y="520" width="600" height="120" fill="#f0fff4" stroke="#68d391" stroke-width="2" rx="8"/>
+  <text x="220" y="545" class="section-title">Emergent Properties from Convergence</text>
+  
+  <text x="220" y="570" class="component-text">• Trustless AI: Verifiable AI outputs without centralized authorities</text>
+  <text x="220" y="590" class="component-text">• Autonomous Markets: AI agents trading and providing liquidity</text>
+  <text x="220" y="610" class="component-text">• Programmable Creativity: AI-generated content with embedded economics</text>
+  <text x="220" y="630" class="component-text">• Collective Intelligence: DAOs enhanced by AI analysis and prediction</text>
+</svg>

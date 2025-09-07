@@ -1,4 +1,4 @@
-# Chapter 24: The Creator-Founder Crossroad: Convergence Opportunities
+# Chapter 25: Ecosystem Leadership
 
 ## Introduction: When Art Meets Entrepreneurship and Technologies Converge
 
@@ -9,6 +9,32 @@ We now stand at a similarly profound intersection between artificial intelligenc
 The fundamental primitives emerging from these intersections—intelligence, trust, and creative expression—create entirely new capability landscapes when thoughtfully integrated. Autonomous agents can operate with verifiable behavior; distributed computation can organize without central control; creators can monetize their work through programmable ownership; and governance can become both more intelligent and more decentralized.
 
 For founders building at this frontier, unprecedented opportunity exists to define entirely new market categories—but navigating this space requires both technical understanding and strategic clarity about which intersections create genuine value rather than merely interesting experiments.
+
+## In This Chapter, You Will
+
+- Lead without control: standards, interfaces, and norms
+- Design grant and incentive programs that compound ecosystem value
+- Balance credible neutrality with a strong point of view
+- Build institutions that survive leadership transitions
+
+## Founder’s Checklist
+
+- What standards or APIs could unlock 10x downstream creation?
+- How do we avoid capture while funding ecosystem work?
+- Where do we publish roadmaps and accept community RFDs/RFCs?
+- Who are our emerging leaders and how do we support them?
+
+## Exercises
+
+- Launch a focused grants program with clear outcomes and audits
+- Propose a standards effort; convene 3 external stakeholders
+- Document a succession and stewardship plan for key roles
+
+## Related Case Studies
+
+- Cosmos: ../case-studies/compendium.md#cosmos
+- Polygon: ../case-studies/compendium.md#polygon
+- Hugging Face: ../case-studies/compendium.md#hugging-face
 
 ## Case Studies: Creative Technology Pioneers
 
@@ -369,4 +395,3 @@ This foundation development transforms potential impact from product to infrastr
 ---
 
 *The convergence of creativity, AI, and Web3 represents more than technological evolution—it's the emergence of entirely new forms of artistic expression and economic organization. For creator-founders building at this intersection, the opportunity exists not just to create successful companies but to define the fundamental architecture of how creativity, technology, and value creation will operate in the cultural economy of the future.*
-

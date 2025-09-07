@@ -1,0 +1,185 @@
+<svg viewBox="0 0 1000 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 26px; font-weight: 700; fill: #1a1a1a; }
+      .layer-title { font-family: 'Inter', -apple-system, sans-serif; font-size: 16px; font-weight: 600; fill: #2d3748; }
+      .component-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 12px; fill: #4a5568; }
+      .example-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 10px; fill: #718096; }
+      .layer1 { fill: #e53e3e; stroke: #c53030; }
+      .layer2 { fill: #3182ce; stroke: #2b6cb0; }
+      .layer3 { fill: #38a169; stroke: #2f855a; }
+      .layer4 { fill: #d69e2e; stroke: #b7791f; }
+      .layer5 { fill: #805ad5; stroke: #6b46c1; }
+      .connection { fill: none; stroke: #a0aec0; stroke-width: 2; stroke-dasharray: 3,3; }
+    </style>
+  </defs>
+  
+  <!-- Title -->
+  <text x="500" y="40" class="title-text" text-anchor="middle">Web3 Ecosystem Architecture</text>
+  
+  <!-- Layer 1: Base Layer Infrastructure -->
+  <rect x="50" y="680" width="900" height="80" class="layer1" rx="8" opacity="0.1"/>
+  <text x="70" y="700" class="layer-title">Layer 1: Base Layer Blockchains</text>
+  
+  <!-- L1 Components -->
+  <rect x="80" y="710" width="120" height="40" class="layer1" rx="4" opacity="0.3"/>
+  <text x="140" y="725" class="component-text" text-anchor="middle">Bitcoin</text>
+  <text x="140" y="738" class="example-text" text-anchor="middle">Digital gold, SoV</text>
+  
+  <rect x="220" y="710" width="120" height="40" class="layer1" rx="4" opacity="0.3"/>
+  <text x="280" y="725" class="component-text" text-anchor="middle">Ethereum</text>
+  <text x="280" y="738" class="example-text" text-anchor="middle">Smart contracts</text>
+  
+  <rect x="360" y="710" width="120" height="40" class="layer1" rx="4" opacity="0.3"/>
+  <text x="420" y="725" class="component-text" text-anchor="middle">Solana</text>
+  <text x="420" y="738" class="example-text" text-anchor="middle">High throughput</text>
+  
+  <rect x="500" y="710" width="120" height="40" class="layer1" rx="4" opacity="0.3"/>
+  <text x="560" y="725" class="component-text" text-anchor="middle">Polkadot</text>
+  <text x="560" y="738" class="example-text" text-anchor="middle">Interoperability</text>
+  
+  <rect x="640" y="710" width="120" height="40" class="layer1" rx="4" opacity="0.3"/>
+  <text x="700" y="725" class="component-text" text-anchor="middle">Avalanche</text>
+  <text x="700" y="738" class="example-text" text-anchor="middle">Subnets</text>
+  
+  <!-- Layer 2: Scaling Solutions -->
+  <rect x="50" y="580" width="900" height="80" class="layer2" rx="8" opacity="0.1"/>
+  <text x="70" y="600" class="layer-title">Layer 2: Scaling & Infrastructure</text>
+  
+  <!-- L2 Components -->
+  <rect x="80" y="610" width="150" height="40" class="layer2" rx="4" opacity="0.3"/>
+  <text x="155" y="625" class="component-text" text-anchor="middle">Rollups</text>
+  <text x="155" y="638" class="example-text" text-anchor="middle">Arbitrum, Optimism, Base</text>
+  
+  <rect x="250" y="610" width="150" height="40" class="layer2" rx="4" opacity="0.3"/>
+  <text x="325" y="625" class="component-text" text-anchor="middle">Sidechains</text>
+  <text x="325" y="638" class="example-text" text-anchor="middle">Polygon, xDAI</text>
+  
+  <rect x="420" y="610" width="150" height="40" class="layer2" rx="4" opacity="0.3"/>
+  <text x="495" y="625" class="component-text" text-anchor="middle">State Channels</text>
+  <text x="495" y="638" class="example-text" text-anchor="middle">Lightning Network</text>
+  
+  <rect x="590" y="610" width="150" height="40" class="layer2" rx="4" opacity="0.3"/>
+  <text x="665" y="625" class="component-text" text-anchor="middle">Storage</text>
+  <text x="665" y="638" class="example-text" text-anchor="middle">IPFS, Filecoin, Arweave</text>
+  
+  <rect x="760" y="610" width="150" height="40" class="layer2" rx="4" opacity="0.3"/>
+  <text x="835" y="625" class="component-text" text-anchor="middle">Oracles</text>
+  <text x="835" y="638" class="example-text" text-anchor="middle">Chainlink, Band</text>
+  
+  <!-- Layer 3: Protocol Layer -->
+  <rect x="50" y="480" width="900" height="80" class="layer3" rx="8" opacity="0.1"/>
+  <text x="70" y="500" class="layer-title">Layer 3: Protocols & Standards</text>
+  
+  <!-- Protocol Components -->
+  <rect x="80" y="510" width="140" height="40" class="layer3" rx="4" opacity="0.3"/>
+  <text x="150" y="525" class="component-text" text-anchor="middle">DeFi Protocols</text>
+  <text x="150" y="538" class="example-text" text-anchor="middle">Uniswap, Aave, Maker</text>
+  
+  <rect x="240" y="510" width="140" height="40" class="layer3" rx="4" opacity="0.3"/>
+  <text x="310" y="525" class="component-text" text-anchor="middle">NFT Standards</text>
+  <text x="310" y="538" class="example-text" text-anchor="middle">ERC-721, ERC-1155</text>
+  
+  <rect x="400" y="510" width="140" height="40" class="layer3" rx="4" opacity="0.3"/>
+  <text x="470" y="525" class="component-text" text-anchor="middle">Identity</text>
+  <text x="470" y="538" class="example-text" text-anchor="middle">ENS, DID, Ceramic</text>
+  
+  <rect x="560" y="510" width="140" height="40" class="layer3" rx="4" opacity="0.3"/>
+  <text x="630" y="525" class="component-text" text-anchor="middle">Governance</text>
+  <text x="630" y="538" class="example-text" text-anchor="middle">Snapshot, Compound</text>
+  
+  <rect x="720" y="510" width="140" height="40" class="layer3" rx="4" opacity="0.3"/>
+  <text x="790" y="525" class="component-text" text-anchor="middle">Social</text>
+  <text x="790" y="538" class="example-text" text-anchor="middle">Lens, Farcaster</text>
+  
+  <!-- Layer 4: Application Layer -->
+  <rect x="50" y="380" width="900" height="80" class="layer4" rx="8" opacity="0.1"/>
+  <text x="70" y="400" class="layer-title">Layer 4: Applications & Tools</text>
+  
+  <!-- Application Components -->
+  <rect x="80" y="410" width="130" height="40" class="layer4" rx="4" opacity="0.3"/>
+  <text x="145" y="425" class="component-text" text-anchor="middle">DEXs</text>
+  <text x="145" y="438" class="example-text" text-anchor="middle">Uniswap, SushiSwap</text>
+  
+  <rect x="230" y="410" width="130" height="40" class="layer4" rx="4" opacity="0.3"/>
+  <text x="295" y="425" class="component-text" text-anchor="middle">NFT Markets</text>
+  <text x="295" y="438" class="example-text" text-anchor="middle">OpenSea, Blur</text>
+  
+  <rect x="380" y="410" width="130" height="40" class="layer4" rx="4" opacity="0.3"/>
+  <text x="445" y="425" class="component-text" text-anchor="middle">Lending</text>
+  <text x="445" y="438" class="example-text" text-anchor="middle">Compound, Aave</text>
+  
+  <rect x="530" y="410" width="130" height="40" class="layer4" rx="4" opacity="0.3"/>
+  <text x="595" y="425" class="component-text" text-anchor="middle">Gaming</text>
+  <text x="595" y="438" class="example-text" text-anchor="middle">Axie, StepN</text>
+  
+  <rect x="680" y="410" width="130" height="40" class="layer4" rx="4" opacity="0.3"/>
+  <text x="745" y="425" class="component-text" text-anchor="middle">DAOs</text>
+  <text x="745" y="438" class="example-text" text-anchor="middle">MakerDAO, ENS</text>
+  
+  <rect x="830" y="410" width="100" height="40" class="layer4" rx="4" opacity="0.3"/>
+  <text x="880" y="425" class="component-text" text-anchor="middle">Wallets</text>
+  <text x="880" y="438" class="example-text" text-anchor="middle">MetaMask</text>
+  
+  <!-- Layer 5: User Experience -->
+  <rect x="50" y="280" width="900" height="80" class="layer5" rx="8" opacity="0.1"/>
+  <text x="70" y="300" class="layer-title">Layer 5: User Experience & Interfaces</text>
+  
+  <!-- UX Components -->
+  <rect x="80" y="310" width="160" height="40" class="layer5" rx="4" opacity="0.3"/>
+  <text x="160" y="325" class="component-text" text-anchor="middle">Web Interfaces</text>
+  <text x="160" y="338" class="example-text" text-anchor="middle">dApp frontends, portals</text>
+  
+  <rect x="260" y="310" width="160" height="40" class="layer5" rx="4" opacity="0.3"/>
+  <text x="340" y="325" class="component-text" text-anchor="middle">Mobile Apps</text>
+  <text x="340" y="338" class="example-text" text-anchor="middle">Native crypto apps</text>
+  
+  <rect x="440" y="310" width="160" height="40" class="layer5" rx="4" opacity="0.3"/>
+  <text x="520" y="325" class="component-text" text-anchor="middle">Aggregators</text>
+  <text x="520" y="338" class="example-text" text-anchor="middle">1inch, DeFiPulse</text>
+  
+  <rect x="620" y="310" width="160" height="40" class="layer5" rx="4" opacity="0.3"/>
+  <text x="700" y="325" class="component-text" text-anchor="middle">Analytics</text>
+  <text x="700" y="338" class="example-text" text-anchor="middle">Dune, DefiLlama</text>
+  
+  <rect x="800" y="310" width="120" height="40" class="layer5" rx="4" opacity="0.3"/>
+  <text x="860" y="325" class="component-text" text-anchor="middle">Social</text>
+  <text x="860" y="338" class="example-text" text-anchor="middle">Twitter, Discord</text>
+  
+  <!-- AI Integration -->
+  <rect x="50" y="150" width="900" height="100" fill="#f0f8ff" stroke="#4682b4" stroke-width="2" rx="8" opacity="0.3"/>
+  <text x="70" y="175" class="layer-title">AI Integration Layer</text>
+  
+  <rect x="100" y="190" width="180" height="50" fill="#4682b4" rx="4" opacity="0.3"/>
+  <text x="190" y="210" class="component-text" text-anchor="middle" fill="white">Intelligent Agents</text>
+  <text x="190" y="225" class="example-text" text-anchor="middle" fill="white">Automated trading, governance</text>
+  
+  <rect x="300" y="190" width="180" height="50" fill="#4682b4" rx="4" opacity="0.3"/>
+  <text x="390" y="210" class="component-text" text-anchor="middle" fill="white">AI-Generated Content</text>
+  <text x="390" y="225" class="example-text" text-anchor="middle" fill="white">NFTs, creative tools</text>
+  
+  <rect x="500" y="190" width="180" height="50" fill="#4682b4" rx="4" opacity="0.3"/>
+  <text x="590" y="210" class="component-text" text-anchor="middle" fill="white">Prediction Markets</text>
+  <text x="590" y="225" class="example-text" text-anchor="middle" fill="white">AI-powered forecasting</text>
+  
+  <rect x="700" y="190" width="180" height="50" fill="#4682b4" rx="4" opacity="0.3"/>
+  <text x="790" y="210" class="component-text" text-anchor="middle" fill="white">Smart Contracts+</text>
+  <text x="790" y="225" class="example-text" text-anchor="middle" fill="white">AI-enhanced logic</text>
+  
+  <!-- Connection lines -->
+  <path d="M 500 280 L 500 250" class="connection"/>
+  <path d="M 500 380 L 500 360" class="connection"/>
+  <path d="M 500 480 L 500 460" class="connection"/>
+  <path d="M 500 580 L 500 560" class="connection"/>
+  <path d="M 500 680 L 500 660" class="connection"/>
+  
+  <!-- Value flow indicators -->
+  <text x="850" y="100" class="example-text">Value flows up:</text>
+  <text x="850" y="115" class="example-text">User fees → Apps</text>
+  <text x="850" y="130" class="example-text">→ Protocols → L2s → L1s</text>
+  
+  <!-- Innovation indicators -->
+  <text x="50" y="100" class="example-text">Innovation flows down:</text>
+  <text x="50" y="115" class="example-text">L1 advances enable</text>
+  <text x="50" y="130" class="example-text">new app possibilities</text>
+</svg>

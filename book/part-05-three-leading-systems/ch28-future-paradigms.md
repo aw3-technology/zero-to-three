@@ -13,6 +13,26 @@ The most successful founders recognize that they themselves represent patterns�
 
 Through practical frameworks, developmental pathways, and exercises for designing personal growth alongside organizational expansion, we'll examine how founders can remain relevant, impactful, and fulfilled throughout the entire venture journey—not merely during the exciting but fleeting moments of initial creation.
 
+## In This Chapter, You Will
+
+- Identify which role the system needs from you next
+- Build capacity without becoming the bottleneck
+- Design leadership handoffs and distributed stewardship
+- Maintain integrity under scale, scrutiny, and time
+
+## Founder’s Checklist
+
+- What am I uniquely qualified to do right now?
+- What should I stop doing to let others lead?
+- Who am I developing to replace me in key areas?
+- How do I keep feedback loops open as power increases?
+
+## Exercises
+
+- Write a “role migration” plan for the next 12 months
+- Create a personal board of advisors with regular cadence
+- Document one leadership principle and a story that teaches it
+
 ## Transcending Identity: Beyond the Founder as CEO
 
 Perhaps the most fundamental challenge in founder evolution involves identity transformation—moving beyond initial roles to develop a self-concept connected to patterns of contribution rather than specific positions or activities that become unsustainable as organizations grow.

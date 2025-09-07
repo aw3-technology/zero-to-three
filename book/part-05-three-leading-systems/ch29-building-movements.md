@@ -1,6 +1,6 @@
 # Chapter 29: Building Movements
 
-## 1. Introduction: Why Startups Become Movements (or Die Forgotten)
+## 1. Introduction: From Audience to Movement
 
 The most profound distinction between merely successful ventures and truly transformative ones lies not in their technological sophistication, market timing, or execution excellence—but in their ability to transcend mere utilitarian value to become meaningful movements that reshape identities, cultures, and collective narratives beyond their specific products or services.
 
@@ -57,6 +57,31 @@ While various elements contribute to movement attraction, mission represents per
 Effective mission magnetism requires specific rather than generic purpose articulation—creating compelling direction through concrete transformation vision beyond merely abstract improvement aspiration.
 
 ClimateBase provides a powerful example of mission magnetism in action. By focusing specifically on accelerating climate action through talent development, they identified a critical need in the rapidly growing climate tech space: connecting qualified talent with climate-focused organizations. Their mission clarity has allowed them to grow beyond a mere job board to create a comprehensive ecosystem that includes the Climatebase Fellowship, events like SF Climate Week, and an influential newsletter.
+
+## In This Chapter, You Will
+
+- Craft narratives that invite participation, not just purchases
+- Design rituals and artifacts that transmit values
+- Build coalitions across institutions and communities
+- Defend against co‑optation and drift
+
+## Founder’s Checklist
+
+- What is our simple, repeatable story and why it matters?
+- What are our rituals (cadence) and artifacts (evidence)?
+- Who are our unlikely allies and how do we collaborate?
+- How do we measure movement health beyond growth?
+
+## Exercises
+
+- Write a 1‑paragraph movement narrative and a 1‑line slogan
+- Schedule a recurring public ritual and define its purpose
+- Identify 3 partners and propose a concrete joint action
+
+## Related Case Studies
+
+- Midjourney: ../case-studies/compendium.md#midjourney
+- ClimateBase: ../case-studies/compendium.md#climatebase
 
 Similarly, JustiGuide demonstrates how mission magnetism can attract resources even in traditionally underserved markets. By focusing on AI-powered immigration legal assistance for asylum seekers, their clear purpose—transforming complicated legal paperwork into accessible guidance through an AI assistant named "Dolores"—creates powerful attraction among both users and contributors aligned with their social impact vision.
 

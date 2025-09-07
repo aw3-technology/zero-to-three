@@ -1,4 +1,4 @@
-# CHAPTER 18: ONE — Building What Works
+# Chapter 19: Building What Works
 
 ## 1. Introduction: From Theory to Traction
 
@@ -19,6 +19,26 @@ This chapter serves as your practical guide to this critical transition. The lan
 These capabilities don't merely increase efficiency—they fundamentally alter what's possible for small teams or even solo founders. The minimum viable product (MVP) concept itself has evolved from relatively heavyweight software requiring substantial development to lightweight compositions that can be created, tested, and refined in days rather than months.
 
 This acceleration creates both opportunity and imperative: while you can build faster than previous founder generations, your competitors can too—making speed, precision, and learning velocity more crucial than ever.
+
+## In This Chapter, You Will
+
+- Define your minimum viable system (MVS)
+- Align roadmap to learning milestones, not feature counts
+- Design contribution pathways for users and developers
+- Track system health with a few non‑vanity metrics
+
+## Founder’s Checklist
+
+- What’s the MVS we can ship in 4–6 weeks?
+- Which 3 risks does it retire quickly?
+- How can others build on us with minimal friction?
+- Are our metrics leading indicators of durable value?
+
+## Exercises
+
+- Write an MVS spec: product + loop + trust
+- Define 3 “sharp edges” to smooth before GA
+- Publish a contributor guide and a simple first PR task
 
 ## 2. MVPs in the Era of LLMs and Composability
 

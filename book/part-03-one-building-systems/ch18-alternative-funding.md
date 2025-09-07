@@ -1,6 +1,6 @@
-# Chapter 17: Alternative Funding Models
+# Chapter 18: Alternative Funding
 
-## Beyond Traditional Venture Capital
+## 1. Introduction: Beyond Traditional Venture Capital
 
 New mechanisms for funding innovation in Web3.
 
@@ -18,6 +18,26 @@ Uniswap revolutionized funding through:
 - **Grants Program**: Funding ecosystem development
 
 Their model proves that successful protocols can bootstrap without traditional capital, aligning incentives between users, developers, and token holders.
+
+## In This Chapter, You Will
+
+- Compare equity, revenue share, grants, tokens, and hybrids
+- Align instrument choice with product and community strategy
+- Build credible use‑of‑funds with survival and growth scenarios
+- Avoid common legal and incentive pitfalls
+
+## Founder’s Checklist
+
+- What does our instrument incentivize (and disincentivize)?
+- How much runway do we really need for the next milestone?
+- Which non‑dilutive sources have we actually pursued?
+- Are we over‑promising governance, yields, or timelines?
+
+## Exercises
+
+- Draft a financing memo with 2 alternate paths (pros/cons)
+- Build a 12–18 month cash plan with bear/base/bull cases
+- List 10 grants/partnerships; send 3 applications this week
 
 ## Alternative Funding Mechanisms
 

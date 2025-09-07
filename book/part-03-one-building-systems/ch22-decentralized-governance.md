@@ -1,8 +1,28 @@
-# Chapter 22: Cross-Industry Applications
+# Chapter 22: Decentralized Governance
 
-## Web3 and AI Beyond Finance
+## Governing Evolving, Open Systems
 
-Real-world applications across industries.
+Designing governance that is legible, adaptable, and resistant to capture.
+
+## In This Chapter, You Will
+
+- Define scope and powers for governance that won’t stall builders
+- Separate technical from social change with clear processes
+- Choose representation and quorum that prevent apathy/capture
+- Stage governance maturity as adoption grows
+
+## Founder’s Checklist
+
+- What changes require governance vs. maintainer decision?
+- How can non‑token contributions earn voice or reputation?
+- Do we have emergency powers with tight limits and sunsets?
+- Are proposals legible with impact, costs, and alternatives?
+
+## Exercises
+
+- Draft a minimal governance constitution (scope, roles, process)
+- Define a reputation rubric tied to verifiable contributions
+- Add a “request for discussion” (RFD/RFC) process and template
 
 ## Case Studies
 
