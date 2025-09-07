@@ -79,6 +79,15 @@ Case studies span global innovation ecosystems:
 - **In Development**: Additional chapters following the book outline
 - **Target**: Full book covering entrepreneurship at the Web3/AI convergence
 
+## Local Preview & Tooling
+
+- Install Node deps: `npm install`
+- Serve the book locally: `npm run book:serve` (http://localhost:4000)
+- Build static site: `npm run book:build` (emits `_book/`)
+- Lint Markdown: `npm run lint:md`
+- Format Markdown: `npm run format`
+- Check links: `npm run check:links`
+
 ## Contributing
 
 This is an open-source book project combining:
@@ -88,6 +97,14 @@ This is an open-source book project combining:
 - **Case-Study Driven** insights from real company experiences
 
 See [Project Organization](resources/project-organization.md) for contribution guidelines and folder structure.
+
+## Quality Gates
+
+- Pre-commit: run `pre-commit install` once, then commits will auto-run Prettier and markdownlint.
+- Structure: `python scripts/validate_structure.py` verifies `book/SUMMARY.md` matches files.
+- Links: CI runs a full link check with lychee; for local, you can run the action in a container or trust CI.
+- Spellcheck: CI uses cspell with `cspell.config.yaml` (add technical terms there as needed).
+- Build: If `book.toml` is added for mdBook, CI builds the book automatically.
 
 ## License
 
