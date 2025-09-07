@@ -26,9 +26,7 @@
 
 ## Part III - One: Building What Works
 
-* [Chapter 16: Solo Founders in the AI Era](chapters/17-solo-founders-ai-era.md)
-* [Chapter 17: Alternative Funding Models](chapters/18-alternative-funding-models.md)
-* [Chapter 18: ONE - Building What Works](chapters/19-one-building-what-works.md)
+* [Chapter 16: Alternative Funding Models](chapters/18-alternative-funding-models.md)
 * [Chapter 19: Tokenomics and Incentive Engineering](chapters/20-tokenomics-incentive-engineering.md)
 * [Chapter 20: AI System Design](chapters/21-ai-system-design.md)
 * [Chapter 21: Web3 Architecture and Security](chapters/22-web3-architecture-security.md)
@@ -50,9 +48,7 @@
 ## Part VI - The New Geography of Innovation
 
 * [Chapter 30: The Global Innovation Map](chapters/31-global-innovation-map.md)
-* [Chapter 31: Financial Centers and Capital Access](chapters/32-financial-centers-capital-access.md)
-* [Chapter 32: Emerging Market Innovation](chapters/33-emerging-market-innovation.md)
-* [Chapter 33: The Spiritual Journey of Creation](chapters/34-spiritual-journey-creation.md)
+* [Chapter 31: Emerging Market Innovation](chapters/33-emerging-market-innovation.md)
 
 ## Epilogue & Appendix
 
