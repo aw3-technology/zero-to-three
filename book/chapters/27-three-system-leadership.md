@@ -1,4 +1,4 @@
-# Chapter 27: THREE – System Leadership
+# Chapter 26: THREE – System Leadership
 
 ## Leading Decentralized Organizations
 

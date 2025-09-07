@@ -1,4 +1,4 @@
-# Chapter 30: Long-Term Vision
+# Chapter 29: Long-Term Vision
 
 ## Building for Decades, Not Quarters
 
