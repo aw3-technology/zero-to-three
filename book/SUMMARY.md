@@ -32,35 +32,35 @@
 
 ## Part III: One - Building What Works
 
-* [Chapter 13: System Thinking](part-03-one-building-systems/ch13-system-thinking.md)
-* [Chapter 14: Technology Decisions](part-03-one-building-systems/ch14-technology-decisions.md)
-* [Chapter 15: User Experience](part-03-one-building-systems/ch15-user-experience.md)
-* [Chapter 17: Founders Curriculum](part-03-one-building-systems/ch17-founders-curriculum.md)
-* [Chapter 18: Alternative Funding](part-03-one-building-systems/ch18-alternative-funding.md)
-* [Chapter 19: Building What Works](part-03-one-building-systems/ch19-building-what-works.md)
-* [Chapter 20: Scaling Challenges](part-03-one-building-systems/ch20-scaling-challenges.md)
-* [Chapter 21: AI System Design](part-03-one-building-systems/ch21-ai-system-design.md)
-* [Chapter 22: Decentralized Governance](part-03-one-building-systems/ch22-decentralized-governance.md)
-* [Chapter 23: Global Expansion](part-03-one-building-systems/ch23-global-expansion.md)
+* [Chapter 17: System Thinking](part-03-one-building-systems/ch17-system-thinking.md)
+* [Chapter 18: Technology Decisions](part-03-one-building-systems/ch18-technology-decisions.md)
+* [Chapter 19: User Experience](part-03-one-building-systems/ch19-user-experience.md)
+* [Chapter 20: Founders Curriculum](part-03-one-building-systems/ch20-founders-curriculum.md)
+* [Chapter 21: Alternative Funding](part-03-one-building-systems/ch21-alternative-funding.md)
+* [Chapter 22: Building What Works](part-03-one-building-systems/ch22-building-what-works.md)
+* [Chapter 23: Web3 Architecture and Security](part-03-one-building-systems/ch23-web3-architecture.md)
+* [Chapter 24: AI System Design](part-03-one-building-systems/ch24-ai-system-design.md)
+* [Chapter 25: Decentralized Governance](part-03-one-building-systems/ch25-decentralized-governance.md)
+* [Chapter 26: Global Expansion](part-03-one-building-systems/ch26-global-expansion.md)
 
 ## Part IV: Two - Gaining Traction
 
-* [Chapter 24: Community Building](part-04-two-scaling-systems/ch24-community-building.md)
-* [Chapter 25: Ecosystem Leadership](part-04-two-scaling-systems/ch25-ecosystem-leadership.md)
-* [Chapter 26: Operational Excellence](part-04-two-scaling-systems/ch26-operational-excellence.md)
+* [Chapter 27: Community Building](part-04-two-scaling-systems/ch27-community-building.md)
+* [Chapter 28: Ecosystem Leadership](part-04-two-scaling-systems/ch28-ecosystem-leadership.md)
+* [Chapter 29: Operational Excellence](part-04-two-scaling-systems/ch29-operational-excellence.md)
 
 ## Part V: Three - Leading Systems
 
-* [Chapter 27: System Leadership](part-05-three-leading-systems/ch27-system-leadership.md)
-* [Chapter 28: Future Paradigms](part-05-three-leading-systems/ch28-future-paradigms.md)
-* [Chapter 29: Building Movements](part-05-three-leading-systems/ch29-building-movements.md)
-* [Chapter 30: Legacy Systems](part-05-three-leading-systems/ch30-legacy-systems.md)
+* [Chapter 30: System Leadership](part-05-three-leading-systems/ch30-system-leadership.md)
+* [Chapter 31: Future Paradigms](part-05-three-leading-systems/ch31-future-paradigms.md)
+* [Chapter 32: Building Movements](part-05-three-leading-systems/ch32-building-movements.md)
+* [Chapter 33: Legacy Systems](part-05-three-leading-systems/ch33-legacy-systems.md)
 
 ## Part VI: Beyond Three
 
-* [Chapter 31: Exponential Impact](part-06-beyond-three/ch31-exponential-impact.md)
-* [Chapter 32: Financial Centers & Capital Access](part-06-beyond-three/ch32-financial-centers-capital-access.md)
-* [Chapter 33: Emerging Market Innovation](part-06-beyond-three/ch33-emerging-market-innovation.md)
+* [Chapter 34: Exponential Impact](part-06-beyond-three/ch34-exponential-impact.md)
+* [Chapter 35: Financial Centers & Capital Access](part-06-beyond-three/ch35-financial-centers-capital-access.md)
+* [Chapter 36: Emerging Market Innovation](part-06-beyond-three/ch36-emerging-market-innovation.md)
 
 ---
 

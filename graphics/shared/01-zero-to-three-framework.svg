@@ -1,0 +1,90 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e293b">
+    Zero to Three: The Entrepreneurial Journey
+  </text>
+  
+  <!-- Stage 0: Zero -->
+  <g id="stage-zero">
+    <circle cx="150" cy="150" r="60" fill="#ef4444" stroke="#dc2626" stroke-width="3"/>
+    <text x="150" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white">0</text>
+    <text x="150" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">ZERO</text>
+    <text x="150" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">Founder's Journey</text>
+    <text x="150" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Personal development</text>
+    <text x="150" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Unique insights</text>
+    <text x="150" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Psychological preparation</text>
+  </g>
+  
+  <!-- Stage 1: One -->
+  <g id="stage-one">
+    <circle cx="300" cy="150" r="60" fill="#3b82f6" stroke="#2563eb" stroke-width="3"/>
+    <text x="300" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white">1</text>
+    <text x="300" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">ONE</text>
+    <text x="300" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">Building Systems</text>
+    <text x="300" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Product development</text>
+    <text x="300" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Technical architecture</text>
+    <text x="300" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">System design</text>
+  </g>
+  
+  <!-- Stage 2: Two -->
+  <g id="stage-two">
+    <circle cx="450" cy="150" r="60" fill="#10b981" stroke="#059669" stroke-width="3"/>
+    <text x="450" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white">2</text>
+    <text x="450" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">TWO</text>
+    <text x="450" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">Scaling Systems</text>
+    <text x="450" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Community building</text>
+    <text x="450" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Market validation</text>
+    <text x="450" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Network effects</text>
+  </g>
+  
+  <!-- Stage 3: Three -->
+  <g id="stage-three">
+    <circle cx="600" cy="150" r="60" fill="#8b5cf6" stroke="#7c3aed" stroke-width="3"/>
+    <text x="600" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white">3</text>
+    <text x="600" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">THREE</text>
+    <text x="600" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1e293b">Leading Systems</text>
+    <text x="600" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Ecosystem leadership</text>
+    <text x="600" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Movement building</text>
+    <text x="600" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Exponential impact</text>
+  </g>
+  
+  <!-- Arrows -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+  
+  <line x1="210" y1="150" x2="240" y2="150" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="360" y1="150" x2="390" y2="150" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="510" y1="150" x2="540" y2="150" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Key Differences Section -->
+  <rect x="50" y="350" width="700" height="200" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" rx="8"/>
+  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">
+    Key Differences from Traditional "Zero to One" Framework
+  </text>
+  
+  <!-- Traditional vs New -->
+  <g id="comparison">
+    <text x="100" y="410" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Traditional (Zero → One):</text>
+    <text x="100" y="430" font-family="Arial, sans-serif" font-size="12" fill="#64748b">• Focus on product creation</text>
+    <text x="100" y="445" font-family="Arial, sans-serif" font-size="12" fill="#64748b">• Individual founder journey</text>
+    <text x="100" y="460" font-family="Arial, sans-serif" font-size="12" fill="#64748b">• Company-centric value capture</text>
+    <text x="100" y="475" font-family="Arial, sans-serif" font-size="12" fill="#64748b">• Competitive advantages</text>
+    
+    <text x="450" y="410" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#059669">Web3/AI Era (Zero → Three):</text>
+    <text x="450" y="430" font-family="Arial, sans-serif" font-size="12" fill="#64748b">• Community and ecosystem building</text>
+    <text x="450" y="445" font-family="Arial, sans-serif" font-size="12" fill="#64748b">• Systems thinking and leadership</text>
+    <text x="450" y="460" font-family="Arial, sans-serif" font-size="12" fill="#64748b">• Network-based value creation</text>
+    <text x="450" y="475" font-family="Arial, sans-serif" font-size="12" fill="#64748b">• Collaborative ecosystem advantage</text>
+  </g>
+  
+  <!-- Web3 & AI Context -->
+  <text x="400" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6366f1" font-weight="bold">
+    Optimized for Web3 protocols, AI systems, and decentralized communities
+  </text>
+</svg>

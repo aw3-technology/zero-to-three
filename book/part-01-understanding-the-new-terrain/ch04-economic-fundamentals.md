@@ -52,11 +52,133 @@ In contrast to natural scarcity, digital economies often involve deliberately cr
 - How resilient are we to rate hikes, liquidity shocks, or supply crunches?
 - Where does value accrue in our stack—and to whom?
 
+## Worked Examples: Token vs. Equity vs. Hybrid Models
+
+### Scenario: DeFi Protocol Raising $2M
+
+**Equity Financing Path:**
+- $2M at $8M pre-money = 20% dilution
+- 18-month runway for team of 12
+- VC board seat + governance control
+- Revenue model: Protocol fees captured to company entity
+- Exit: Traditional M&A or IPO
+
+**Token Sale Path:**
+- $2M through private token sale (10% of total supply)
+- Community governance from launch
+- Revenue model: Token buyback/burn from protocol fees
+- Exit: Token price appreciation + ongoing protocol fees
+- Legal complexity: Securities regulation uncertainty
+
+**Hybrid Revenue Share Path:**
+- $2M revenue-based financing (RBF)
+- 2-4x repayment multiple based on protocol fees
+- No equity dilution or governance loss
+- Revenue model: Direct fee-sharing with investors
+- Best for: Proven revenue model with predictable cash flows
+
+### Cohort LTV Analysis: Different Fee Structures
+
+**Base Case: DEX Protocol**
+- Monthly Active Users: 10,000
+- Average Trade Volume: $500/user/month  
+- Fee Rate Scenarios:
+
+| **Fee Structure** | **Protocol Revenue** | **User LTV** | **12-Month Value** |
+|-------------------|---------------------|-------------|-------------------|
+| 0.30% (Uniswap-like) | $15,000/month | $18/user | $180,000 |
+| 0.05% (Low-fee) | $2,500/month | $3/user | $30,000 |
+| 1.00% (Premium) | $50,000/month | $60/user | $600,000 |
+
+**Retention Impact:**
+- High fees (1%): 40% 6-month retention, but higher per-user value
+- Low fees (0.05%): 80% 6-month retention, but lower per-user value  
+- Sweet spot: 0.25-0.30% balances retention and revenue
+
+## Monte Carlo Scenario Grid: Emissions vs. Growth
+
+### Model Parameters
+**Token Emissions Schedule:**
+- Total Supply: 100M tokens
+- Inflation Rate: 5-15% annually (decreasing)
+- Distribution: 40% team/investors, 30% community, 30% treasury
+
+**Growth Scenarios:**
+
+| **Scenario** | **User Growth** | **Fee Revenue Growth** | **Token Demand** | **Runway (months)** |
+|--------------|---------------|----------------------|------------------|--------------------|
+| **Bear Case** | -20% YoY | -30% YoY | Low speculation | 8-12 |
+| **Base Case** | +50% YoY | +100% YoY | Moderate utility | 18-24 |
+| **Bull Case** | +200% YoY | +400% YoY | High speculation + utility | 36+ |
+
+**Key Sensitivities:**
+- **Most Critical:** User retention rate (±50% impact on runway)
+- **Moderate:** Token price volatility (±30% impact)
+- **Least Critical:** Competitor fee changes (±15% impact)
+
+### Survival Probability by Funding Type
+- **Pure Token Model:** 60% survival in bear market (regulatory risk)
+- **Pure Equity Model:** 75% survival in bear market (traditional metrics)
+- **Hybrid Model:** 80% survival in bear market (diversified risk)
+
+## Compliance Notes by Jurisdiction
+
+### United States
+**Token Sales:**
+- Howey Test applies - utility tokens may still be securities
+- SAFT (Simple Agreement for Future Tokens) for pre-launch sales
+- Regulation D/506(c) for accredited investors only
+- State money transmitter licenses may be required
+
+**Revenue Share Models:**
+- Generally not securities if structured as debt/revenue participation
+- FinCEN guidance on MSB requirements
+- State lending laws may apply
+
+### European Union
+**Token Sales:**
+- MiCA (Markets in Crypto Assets) regulation effective 2024
+- Utility tokens ≥€1M require white paper
+- Asset-referenced tokens need authorization
+- Passport system for cross-border operations
+
+**Revenue Share:**
+- ESMA guidelines on debt instruments
+- GDPR compliance for data handling
+- Local securities laws vary by member state
+
+### Regulatory Risk Mitigation
+1. **Legal Opinion:** Get classification memo before launch
+2. **Jurisdiction Shopping:** Consider crypto-friendly locations (Switzerland, Singapore)
+3. **Gradual Rollout:** Start with permissioned users before public launch
+4. **Compliance Buffer:** Reserve 15-20% of funds for legal/regulatory costs
+
+## Value Flow Diagram: Multi-Stakeholder Token Economy
+
+```
+[Users] ──fees──> [Protocol Treasury]
+   │                      │
+   │                      ├──50%──> [Token Buyback/Burn]
+   │                      ├──30%──> [Development Fund] 
+   │                      └──20%──> [Community Grants]
+   │
+   └──governance votes──> [DAO Proposals]
+                              │
+[Token Holders] <──dividends── [Revenue Distribution]
+       │
+       └──staking──> [Validator Network] ──rewards──> [Stakers]
+```
+
+**Key Insight:** Successful tokenomics align multiple incentive loops rather than creating single-purpose utility.
+
 ## Exercises
 
 - Build a simple survival model: 12–18 months under bear-case assumptions
 - Define 3 pricing experiments that match value delivered
 - Design a positive-sum incentive for a key external contributor
+- Complete the funding comparison table for your specific situation
+- Model token velocity and value accrual for your protocol
+- Research legal requirements in your target jurisdictions
 
 ## Related Case Studies
 

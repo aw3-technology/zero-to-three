@@ -17,33 +17,60 @@ This chapter explores the architecture of innovation in the Web3 and AI era, rev
 
 ## Infrastructure vs. Application Innovation
 
-### Defining the Layers
+### Defining the Layers: Crisp Entry/Exit Criteria
 
 The innovation stack consists of three primary layers, each with distinct characteristics, requirements, and value creation models:
 
 **Infrastructure Layer**
+**Definition:** Foundational technologies that enable multiple categories of applications
 
-The infrastructure layer forms the foundation upon which all other innovation depends:
-- Semiconductor chips and specialized hardware (like NVIDIA's GPUs or TSMC's manufacturing processes)
+*Entry Criteria:*
+- Building fundamental capabilities (compute, storage, networking, consensus)
+- Technology breakthrough with 10x improvement over existing solutions
+- Multi-year development timeline (5-10+ years)
+- Capital requirements >$50M before significant revenue
+
+*Success Metrics:*
+- Ecosystem adoption (# of applications built on top)
+- Network effects (value increases with # of participants)
+- Technical performance (throughput, latency, cost efficiency)
+- Developer mindshare (GitHub stars, documentation views)
+
+*Examples:*
+- Semiconductor chips and specialized hardware (NVIDIA GPUs, TSMC processes)
 - Core protocols (Bitcoin, Ethereum, TCP/IP)
-- Foundation models (like those from OpenAI, Anthropic, or DeepSeek)
+- Foundation models (OpenAI GPT, Anthropic Claude, DeepSeek)
 - Storage systems (AWS S3, Filecoin, IPFS)
 - Networking infrastructure (Starlink, fiber optic networks)
 
-Infrastructure innovations typically involve fundamental technical breakthroughs, require deeper capital reserves, and operate on longer development cycles.
+*Exit Signals:* When 100+ applications use your infrastructure OR when applications built on your infrastructure reach $1B+ combined value
 
 **Platform Layer**
+**Definition:** Developer tools and services that abstract infrastructure complexity
 
-The platform layer connects infrastructure with applications, making lower-level capabilities accessible to a broader range of developers and users:
+*Entry Criteria:*
+- Simplifying developer experience for infrastructure layer
+- Creating standardized interfaces/APIs
+- Medium development timeline (2-5 years)
+- Capital requirements $5-50M before sustainable revenue
+
+*Success Metrics:*
+- Developer adoption rate (MAU, API calls)
+- Integration breadth (# of applications using platform)
+- Developer productivity improvement (reduced time-to-deploy)
+- Revenue per developer (platform monetization)
+
+*Examples:*
 - APIs and SDKs (Stripe for payments, Alchemy for blockchain)
 - Development frameworks (React, TensorFlow, Solidity)
 - Developer tooling (GitHub, Visual Studio Code)
 - Middleware and integration services (Zapier, n8n)
 - Computing platforms (AWS, Azure, Google Cloud)
 
-Platform innovations focus on developer experience, standardization, and abstraction of complexity.
+*Exit Signals:* When 1,000+ developers actively use your platform OR when you achieve $10M+ ARR from platform services
 
 **Application Layer**
+**Definition:** End-user facing solutions that solve specific problems or provide experiences
 
 ## Founder’s Checklist
 
@@ -65,14 +92,38 @@ Platform innovations focus on developer experience, standardization, and abstrac
 - IPFS / Filecoin: ../case-studies/compendium.md#ipfs--filecoin
 - NVIDIA / TSMC: ../case-studies/compendium.md#nvidia--tsmc
 
-The application layer directly serves end users, solving specific problems or providing particular experiences:
+*Entry Criteria:*
+- Serving end users directly (B2C or B2B)
+- Addressing specific use cases or workflows
+- Fast development timeline (6 months - 2 years)
+- Capital requirements $100K-5M before product-market fit
+
+*Success Metrics:*
+- User growth and engagement (DAU, retention, NPS)
+- Revenue growth (ARR, user LTV, payback period)
+- Market share within specific vertical
+- User satisfaction and product-market fit signals
+
+*Examples:*
 - Consumer applications (social networks, productivity tools)
 - Enterprise software (CRM, ERP systems)
 - Vertical solutions (healthcare platforms, fintech apps)
 - Creative tools (design software, AI writing assistants)
 - Games and entertainment
 
-Application innovations typically prioritize user experience, specific use cases, and go-to-market execution.
+*Exit Signals:* When you achieve $10M+ ARR OR when you're acquired by platform/infrastructure player OR when you become the standard solution in your vertical
+
+### Layer Transition Patterns
+
+**Common Evolution Paths:**
+1. **Application → Platform:** Start with single use case, expand to enable others (Shopify: store → ecommerce platform)
+2. **Platform → Infrastructure:** Generalize platform capabilities (AWS: internal tools → cloud infrastructure)
+3. **Infrastructure → Application:** Build reference implementations (NVIDIA: GPUs → AI applications)
+
+**Anti-Pattern:** **Infrastructure Pretending to be Application**
+- Building complex infrastructure when users need simple solutions
+- Over-engineering for theoretical future use cases
+- Optimizing for developer flexibility over end-user experience
 
 ### Value Capture Across the Stack
 
@@ -372,6 +423,130 @@ Applications dependent on specific platforms or protocols face risks if those fo
 
 **Differentiation Challenges**
 As infrastructure capabilities expand, applications may struggle to maintain differentiation based solely on technical features, as those capabilities become widely available.
+
+## Common Anti-Patterns and Fixes
+
+### Anti-Pattern #1: Premature Platformization
+**Example:** Building a "blockchain platform for all supply chain applications" before solving one supply chain problem deeply
+
+**Why it fails:**
+- No specific user to validate with
+- Unclear value proposition
+- Infinite scope creep
+- No defensible moat without usage
+
+**Fix:** Start with one specific application, prove value, then expand
+- Pick one vertical (e.g., pharmaceutical supply chain)
+- Build end-to-end solution for that vertical  
+- Once you have 10+ customers, generalize the platform
+
+### Anti-Pattern #2: Over-Tokenization
+**Example:** Adding governance tokens to every feature interaction
+
+**Why it fails:**
+- Token utility often feels forced
+- Regulatory complexity
+- Distracts from core value proposition
+- Creates speculative rather than usage demand
+
+**Fix:** Token-gate only what genuinely benefits from decentralization
+- Governance over protocol parameters: ✓
+- Revenue sharing with power users: ✓  
+- Voting on UI color schemes: ✗
+
+### Anti-Pattern #3: Infrastructure Cosplay
+**Example:** Calling your application a "protocol" to sound more foundational
+
+**Why it fails:**
+- Wrong funding approach (infrastructure timelines/capital)
+- Wrong team building (hiring for platform when building app)
+- Wrong metrics (tracking developer adoption vs user engagement)
+- Wrong go-to-market (targeting developers vs end users)
+
+**Fix:** Embrace your actual layer and optimize for it
+- Application: Focus on user experience and market fit
+- Platform: Focus on developer experience and ecosystem growth
+- Infrastructure: Focus on technical performance and foundational capability
+
+## Layer ↔ Stage Mapping: Zero to Three Progression
+
+### Infrastructure Layer Across Stages
+
+**Zero (Founder Journey):**
+- Deep technical expertise required
+- Long research and development phase
+- Prototype focused on breakthrough capability
+- Funding: Grants, deep tech VCs, corporate ventures
+
+**One (Building Systems):**
+- First working implementations
+- Developer tools and documentation
+- Early ecosystem partnerships
+- Metrics: Technical benchmarks, early adopters
+
+**Two (Community Building):**
+- Developer community growth
+- Reference applications emerge
+- Standards and protocols solidify
+- Network effects begin
+
+**Three (Ecosystem Leadership):**
+- Multiple successful applications built on infrastructure
+- Industry-wide adoption
+- Platform revenue models mature
+- Ecosystem governance and evolution
+
+### Platform Layer Across Stages
+
+**Zero (Founder Journey):**
+- Identify developer pain points
+- Build first version of developer tools
+- Validate with early developer users
+- Funding: Seed VCs, angel investors
+
+**One (Building Systems):**
+- Production-ready developer platform
+- Documentation and support systems
+- First wave of applications built on platform
+- Metrics: Developer signups, API usage
+
+**Two (Community Building):**
+- Developer community and ecosystem
+- Marketplace or app store dynamics
+- Platform revenue sharing models
+- Developer success programs
+
+**Three (Ecosystem Leadership):**
+- Dominant platform in category
+- Rich ecosystem of applications
+- Platform governance and evolution
+- Multiple revenue streams
+
+### Application Layer Across Stages
+
+**Zero (Founder Journey):**
+- Product-market fit discovery
+- User research and validation
+- MVP development and testing
+- Funding: Friends/family, pre-seed, seed
+
+**One (Building Systems):**
+- Scalable product and operations
+- Growth marketing and sales systems
+- Product iteration based on usage data
+- Metrics: User growth, engagement, revenue
+
+**Two (Community Building):**
+- User community and brand loyalty
+- Viral growth mechanics
+- Premium features and expansion
+- Content and community-driven growth
+
+**Three (Ecosystem Leadership):**
+- Market leader in category
+- Platform features for ecosystem
+- Acquisition or IPO potential
+- Industry influence and thought leadership
 
 ## Metrics Framework: Evaluating Your Place in the Innovation Stack
 
