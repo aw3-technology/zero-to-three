@@ -36,10 +36,9 @@
 
 ## Part IV - Two: Gaining Traction
 
-* [Chapter 23: Trust Engineering](part-4-two-gaining-traction/chapter-23.md)
-* [Chapter 24: TWO - Community Building](part-4-two-gaining-traction/chapter-24.md)
-* [Chapter 25: The Creator-Founder Crossroad](part-4-two-gaining-traction/chapter-25.md)
-* [Chapter 26: Convergence Opportunities](part-4-two-gaining-traction/chapter-26.md)
+* [Chapter 23: Trust and Community](part-4-two-gaining-traction/chapter-23.md)
+* [Chapter 24: The Creator-Founder Crossroad](part-4-two-gaining-traction/chapter-24.md)
+* [Chapter 25: Convergence Opportunities](part-4-two-gaining-traction/chapter-25.md)
 
 ## Part V - Three: Leading Systems
 
