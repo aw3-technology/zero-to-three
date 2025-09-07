@@ -421,12 +421,12 @@ In subsequent chapters, we'll explore how these principles operate at each stage
 - Create a 5-year technology roadmap that accounts for both infrastructure evolution and geopolitical constraints
 
 ## Related Case Studies
-
 - DeepSeek: ../case-studies/compendium.md#deepseek
 - FTX (Cautionary Tale): ../case-studies/compendium.md#ftx-cautionary-tale
 - NVIDIA / TSMC: ../case-studies/compendium.md#nvidia--tsmc
 - Cursor (Anysphere): ../case-studies/ai-infrastructure-case-studies.md#anysphere-cursor-redefining-development-tools
 - Modal Labs: ../case-studies/ai-infrastructure-case-studies.md#modal-labs-serverless-computing-for-ai
+- See the Case Studies Compendium for curated examples relevant to this chapter: ../case-studies/compendium.md
 
 ## Sources
 
