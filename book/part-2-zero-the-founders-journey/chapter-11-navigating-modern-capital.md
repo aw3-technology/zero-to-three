@@ -558,31 +558,31 @@ Baird Augustine demonstrates how financial innovation can create bridges between
 
 ## 9. Key Takeaways: Capital Strategies for the Post-Easy-Money Era
 
-**Efficiency Is Your Edge: Cash Discipline Is a Credibility Multiplier**
+### Efficiency Is Your Edge: Cash Discipline Is a Credibility Multiplier
 - Demonstrating thoughtful deployment rather than merely securing capital
 - Focusing on unit economics alongside growth metrics
 - Developing sustainable models requiring rather than merely accepting capital
 - Creating optionality through runway extension rather than assuming continuous availability
 
-**Design Around Capital: Your Product and Strategy Should Reflect Your Funding Path**
+### Design Around Capital: Your Product and Strategy Should Reflect Your Funding Path
 - Aligning development roadmaps with realistic funding milestones
 - Creating technical architecture reflecting likely rather than ideal capital availability
 - Designing team structure for capital-appropriate scaling
 - Building go-to-market approach aligned with funding reality
 
-**Revenue Is a Strategy, Not Just a Milestone: Early Money Is the Best Investor**
+### Revenue Is a Strategy, Not Just a Milestone: Early Money Is the Best Investor
 - Developing pricing alongside rather than following product development
 - Creating value capture mechanisms as fundamental rather than additional features
 - Designing user experiences optimized for conversion alongside engagement
 - Building messaging centered on value proposition rather than merely capabilities
 
-**Capital Is Cultural: Raise Where You're Understood**
+### Capital Is Cultural: Raise Where You're Understood
 - Identifying investors with specific domain understanding rather than generic interest
 - Developing relationships based on shared vision rather than merely terms
 - Creating appropriate geographic focus reflecting venture characteristics
 - Building funding approach aligned with specific rather than general venture type
 
-**Resilience Beats Riches: Surviving Long Enough Lets You Rewrite the Rules**
+### Resilience Beats Riches: Surviving Long Enough Lets You Rewrite the Rules
 - Developing runway extension capabilities alongside growth initiatives
 - Creating flexible rather than rigid organizational structures
 - Building multiple rather than single potential funding pathways
