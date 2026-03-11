@@ -714,4 +714,4 @@ Building complex defensibility before validating demand leads to premature optim
 
 **Previously:** [Chapter 09: Emerging Market Innovation](ch09-emerging-market-innovation.md) — Explored how emerging markets are creating fundamentally new innovation approaches through constraint-driven design and technological leapfrogging.
 
-**Next:** [Chapter 11: Market Validation](../part-02-zero-the-founders-journey/ch11-market-validation.md) — Part II begins with validating your market, building lean validation plans, and translating interest into credible adoption signals.
+**Next:** [Chapter 13: Market Validation](../part-02-zero-the-founders-journey/ch13-market-validation.md) — Part II begins with validating your market, building lean validation plans, and translating interest into credible adoption signals.

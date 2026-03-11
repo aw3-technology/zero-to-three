@@ -408,7 +408,7 @@ Entrepreneurs can enhance system resilience by:
 
 This resilience-focused approach acknowledges that in complex systems, failures often emerge from interactions between components rather than individual weaknesses.
 
-## 8. Key Takeaways
+## Key Takeaways
 
 ### We Are in a New Era Where Infrastructure Is Identity
 

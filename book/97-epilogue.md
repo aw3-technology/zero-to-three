@@ -62,13 +62,31 @@ The ultimate evidence that a founder has crossed from success to significance is
 
 This is what it means to build a movement rather than a company. A company depends on its founder. A movement has absorbed the founder's insight into its culture and carries it forward independently. Bitcoin is a movement. Ethereum is a movement. Open source software is a movement. In each case, the original creators set something in motion that grew far beyond their direct control---and that growth is the most powerful evidence of the work's significance.
 
-## 4. Now Go Do This
+## 4. What This Journey Now Encompasses
 
-This book has given you frameworks, principles, case studies, and warnings. None of them matter unless you act on them. This final section distills the entire Zero to Three framework into the concrete steps you should take---not someday, but this week.
+When this book began, it was a framework for building ventures. As it grew, it became something larger: a map of the entire landscape founders must navigate---from psychology and timing to AI safety, climate responsibility, global expansion, and regulatory strategy. Forty-two chapters across six parts, because the terrain demands it.
+
+The themes that run through every part deserve explicit acknowledgment here, because they will shape the next decade of building:
+
+**Timing is the hidden variable.** The window between "too early" and "too late" is six to eighteen months, and it is closing faster as AI compresses development cycles. Infrastructure costs drop on exponential curves. The founders who master timing---reading infrastructure readiness, regulatory windows, user behavior shifts, and capital cycles---have an advantage that no amount of capital can replicate. If you take nothing else from Part I, take this: *why now* matters more than *what*.
+
+**AI has changed what one person can build.** A solo founder with the right AI stack can now ship what once required a fifteen-person team. This is not a productivity improvement---it is a structural transformation of entrepreneurship. But it also means the bar for what constitutes meaningful work has risen. If AI can build it in an afternoon, it is not defensible. The founders who thrive will be system orchestrators, not feature builders.
+
+**Safety and alignment are competitive advantages, not costs.** The companies that treat AI safety as an investment---Anthropic's Constitutional AI, responsible scaling frameworks, red-teaming protocols---are the ones earning enterprise trust and regulatory goodwill. The companies that treat safety as friction are building on a foundation that regulators and users will eventually reject. Every system you build encodes values. Design them intentionally.
+
+**Regulation is strategic terrain.** The founders who understand securities law, data privacy frameworks, and AI governance from month one make different architectural choices than those who treat compliance as a post-launch problem. MiCA in Europe, evolving US frameworks, Singapore's sandbox approach---these are not obstacles. They are constraints that, properly understood, become competitive moats.
+
+**Sustainability is not optional.** The energy footprint of AI training and blockchain consensus mechanisms is a real externality. The transition from proof-of-work to proof-of-stake, the growth of regenerative finance, the tokenization of carbon markets---these are not side topics. They are central to whether the systems we build make the world better or just faster.
+
+**The best opportunities cross borders and industries.** The greatest value creation comes from applying AI and Web3 to traditional industries---healthcare, agriculture, logistics, finance---not from building the next digital-only tool. And innovation leadership is emerging from Lagos, Singapore, Bogota, and Bangalore, not just San Francisco. The founders who see this will build for the world, not just for the Valley.
+
+## 5. Now Go Do This
+
+This book has given you frameworks, principles, case studies, and warnings. None of them matter unless you act on them. This section distills the entire Zero to Three framework into the concrete steps you should take---not someday, but this week.
 
 ### The Framework in One Page
 
-The Zero to Three journey has four stages. You are at one of them right now. Identify which one, and focus your energy there.
+The Zero to Three journey has five stages. You are at one of them right now. Identify which one, and focus your energy there.
 
 **Zero: You have a thesis but no product.**
 
@@ -94,6 +112,12 @@ Your job is to make yourself unnecessary. Not to step back---to design systems t
 
 *This week:* Identify one decision you currently make that could be made by the community or by a protocol. Design the mechanism for that delegation. Implement it. Measure whether the outcome is acceptable. If it is, delegate another. If it isn't, improve the mechanism---don't reclaim the authority.
 
+**Beyond Three: Your system runs without you, but does it endure?**
+
+Your job is to ensure the systems you built create exponential, not just linear, impact---and that they outlast your direct involvement. The most common mistake at Beyond Three is confusing scale with significance. A large system that extracts value is not the same as a large system that transforms an industry.
+
+*This week:* Apply the counterfactual test: if your company disappeared tomorrow, what would the world lose that it could not easily replace? If the answer is uncomfortable, identify one way to deepen your system's irreplaceability---not through lock-in, but through genuine value that no alternative provides. Then look outward: identify one adjacent industry where your core technology or insight could create transformation, and take the first concrete step toward exploring it.
+
 ### What This Book Didn't Tell You
 
 No book can give you the two things that matter most: the discipline to execute consistently when no one is watching, and the judgment to know when the frameworks don't apply to your situation.
@@ -104,10 +128,12 @@ The frameworks in this book are maps, not territory. Every founder's journey inc
 - **Be honest about what you don't know.** The founders who fail most spectacularly are the ones who mistake confidence for competence. The ones who succeed are the ones who say "I don't know" and then go find out.
 - **Survive long enough to be right.** Most good ideas fail because the founder ran out of money, energy, or time before the market was ready. Capital efficiency, personal resilience, and timing discipline aren't glamorous---but they're the difference between a vision and a footnote.
 - **Build systems, not empires.** The ventures that endure are the ones that become bigger than their founders. This requires ego discipline that most entrepreneurship culture actively discourages. Practice it anyway.
+- **Design for safety from day one.** The systems you build will be used by people you will never meet, in contexts you cannot predict. Red-team your assumptions. Align your incentives. Treat the ethical dimensions of your architecture as first-order design decisions, not afterthoughts.
+- **Think globally, build locally.** The next generation of transformative companies will emerge from every continent. Build for the constraints and opportunities of the world as it actually is, not just the world visible from Sand Hill Road.
 
 ### The Real Test
 
-Every system you create encodes values, whether you design them intentionally or not. The incentive structures you choose, the governance mechanisms you implement, the data you collect and the data you refuse to collect---these are ethical decisions that shape how people interact with your system and, through it, with each other. You are not building an app. You are writing the rules of systems that other people will live inside.
+Every system you create encodes values, whether you design them intentionally or not. The incentive structures you choose, the governance mechanisms you implement, the data you collect and the data you refuse to collect, the energy your system consumes and the externalities it produces---these are ethical decisions that shape how people interact with your system and, through it, with each other. You are not building an app. You are writing the rules of systems that other people will live inside.
 
 Close this book. Open your laptop. Do the one thing you've been avoiding---the hard conversation, the feature you're afraid to ship, the metric you're afraid to measure, the pivot you know you need to make.
 
@@ -119,32 +145,38 @@ In the building.
 
 ## What To Do Next
 
-Use the Practice Loop to convert insight into reps, and the Case Studies Compendium to calibrate against real patterns.
+Use the Case Studies Compendium to calibrate against real patterns. Each stage below pairs concrete actions with cases that illustrate the pattern in practice.
 
-- Practice Loop: practice-loop.md
-- Case Studies Compendium: case-studies/compendium.md
+- [Case Studies Compendium](case-studies/compendium.md)
+- [Emerging Case Studies (2025)](case-studies/2025-emerging-case-studies.md)
+- [AI Infrastructure Case Studies](case-studies/ai-infrastructure-case-studies.md)
 
 ### Zero (Idea to Signal)
 - Run 10 interviews in 7 days; test 1 prototype and 3 messages.
 - Collect one hard signal (deposit, pre-order, or LOI).
-- Cases to study: Midjourney (community pull), Hugging Face (developer adoption).
+- Assess timing: check infrastructure readiness, regulatory windows, and capital cycle position before committing.
+- Cases to study: Midjourney (community pull), Hugging Face (developer adoption), DeepSeek (efficiency-first approach to frontier AI).
 
 ### One (Build What Works)
 - Lock 3 architecture decisions; instrument 3 core metrics.
 - Ship weekly improvements; publish release notes.
-- Cases to study: OpenAI (research to product), Uniswap (simplicity and clarity).
+- Integrate AI safety evaluation from your first release---bias testing, red-teaming, responsible scaling.
+- Cases to study: OpenAI (research to product), Uniswap (simplicity and clarity), Cursor (AI-native tooling at speed).
 
 ### Two (Scale Systems)
 - Define SLOs and error budgets; create one incident runbook.
 - Remove one bottleneck; shorten lead time measurably.
-- Cases to study: Polygon (ecosystem growth), NVIDIA/TSMC (capacity and constraints).
+- Evaluate your system's energy footprint and identify one sustainability improvement.
+- Cases to study: Polygon (ecosystem growth), NVIDIA/TSMC (capacity and constraints), Ethereum (community-driven scaling through Layer 2s).
 
 ### Three (Lead Systems)
 - Write a 1-page strategy; delegate one function end-to-end.
 - Host a decision review; improve how the org decides.
-- Cases to study: Cosmos (standards leadership), ClimateBase (mission community).
+- Publish a governance document that makes power structures transparent.
+- Cases to study: Cosmos (standards leadership), Gitcoin (quadratic funding and DAO governance that works), ClimateBase (mission community).
 
 ### Beyond Three (Enduring Impact)
 - Turn values into operating constraints; publish one external standard.
 - Run a succession simulation; document the playbook.
-- Cases to study: Bitcoin (credible neutrality), The DAO Hack (governance lessons).
+- Identify one cross-industry transformation opportunity and take a concrete step toward it.
+- Cases to study: Bitcoin (credible neutrality), Ethereum (full Zero-to-Three arc), Anthropic (safety-as-competitive-advantage), M-Pesa (leapfrog infrastructure).

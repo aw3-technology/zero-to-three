@@ -219,7 +219,7 @@ By 2021, Nubank had grown to over 70 million customers across Brazil, Mexico, an
 
 Nubank's journey from identifying a market opportunity to creating systemic change illustrates the full Zero to Three progression. They moved from innovative product to trusted community to industry-reshaping force, demonstrating how emerging market entrepreneurs can use technology to solve fundamental problems at scale.
 
-## 8. Key Takeaways: Navigating the New Entrepreneurial Landscape
+## Key Takeaways
 
 The evolution of entrepreneurship in the Web3 and AI era demands new approaches and mindsets. Based on the frameworks and case studies explored in this chapter, several key principles emerge for founders navigating this landscape:
 

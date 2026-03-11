@@ -508,7 +508,7 @@ Broader shifts in economic philosophy are reshaping how value flows through busi
 
 For founders, these shifts suggest approaching venture design with broader conceptions of value and more diverse stakeholder consideration.
 
-## 8. Key Takeaways: Economic Principles for Builders
+## Key Takeaways
 
 ### Scarcity is a Design Space—Use it Wisely
 Understanding which resources are genuinely scarce versus artificially constrained creates strategic clarity in venture design. The most effective systems typically combine strategic scarcity in some dimensions with abundant access in others.

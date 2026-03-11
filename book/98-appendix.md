@@ -26,14 +26,14 @@ Quick links by theme:
 - Cautionary: The DAO Hack, FTX
 
 By chapter (selected):
-- Ch3 Technical Paradigm Shift: DeepSeek, FTX, NVIDIA, TSMC
-- Ch4 Economic Fundamentals: Nigeria’s Crypto Movement, Bitcoin, TSMC
-- Ch5 Innovation Hierarchy: Alchemy, Celestia, IPFS/Filecoin, NVIDIA, TSMC
-- Ch20 Tokenomics: Uniswap, Helium Network, The DAO Hack
-- Ch21 AI System Design: OpenAI, Anthropic, Hugging Face
-- Ch24 Community Building: ClimateBase, Bitmask
-- Ch25 Ecosystem Leadership: Cosmos, Polygon, Hugging Face
-- Ch29 Building Movements: Midjourney, ClimateBase
+- Ch4 Technical Paradigm Shift: DeepSeek, FTX, NVIDIA, TSMC
+- Ch5 Economic Fundamentals: Nigeria’s Crypto Movement, Bitcoin, TSMC
+- Ch6 Innovation Hierarchy: Alchemy, Celestia, IPFS/Filecoin, NVIDIA, TSMC
+- Ch22 Tokenomics: Uniswap, Helium Network, The DAO Hack
+- Ch27 AI System Design: OpenAI, Anthropic, Hugging Face
+- Ch33 Community Building: ClimateBase, Bitmask
+- Ch34 Ecosystem Leadership: Cosmos, Polygon, Hugging Face
+- Ch38 Building Movements: Midjourney, ClimateBase
 
 Use: At the end of each chapter, follow “Related Case Studies” to jump here and dive deeper.
 

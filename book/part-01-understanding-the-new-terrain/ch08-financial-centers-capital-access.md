@@ -1,4 +1,4 @@
-# Chapter 08: Financial Centers Capital Access
+# Chapter 08: Financial Centers and Capital Access
 
 > *Last Updated: March 2026*
 
@@ -799,7 +799,7 @@ flowchart LR
     H --> I[Multi-Hub\nOperating Model]
 ```
 
-## 6. Key Takeaways: Financial Geography Strategies
+## Key Takeaways
 
 ### Jurisdiction Is an Asset Class
 
