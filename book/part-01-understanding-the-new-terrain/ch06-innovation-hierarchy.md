@@ -1,4 +1,4 @@
-# Chapter 06: Innovation Hierarchy
+# Chapter 6: Innovation Hierarchy
 
 > *Last Updated: March 2026*
 

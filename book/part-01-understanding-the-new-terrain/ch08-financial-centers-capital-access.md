@@ -1,4 +1,4 @@
-# Chapter 08: Financial Centers and Capital Access
+# Chapter 8: Financial Centers and Capital Access
 
 > *Last Updated: March 2026*
 

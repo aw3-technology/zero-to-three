@@ -1,4 +1,4 @@
-# Chapter 03: Timeless Wisdom from "Zero to One"
+# Chapter 3: Timeless Wisdom from "Zero to One"
 
 > *Last Updated: March 2026*
 

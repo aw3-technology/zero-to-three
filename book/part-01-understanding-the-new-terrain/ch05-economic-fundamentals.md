@@ -1,4 +1,4 @@
-# Chapter 05: Economic Fundamentals
+# Chapter 5: Economic Fundamentals
 
 > *Last Updated: March 2026*
 

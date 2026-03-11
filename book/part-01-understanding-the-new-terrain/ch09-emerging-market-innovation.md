@@ -1,4 +1,4 @@
-# Chapter 09: Emerging Market Innovation
+# Chapter 9: Emerging Market Innovation
 
 > *Last Updated: March 2026*
 

@@ -1,4 +1,4 @@
-# Chapter 04: Technical Paradigm Shift
+# Chapter 4: Technical Paradigm Shift
 
 > *Last Updated: March 2026*
 

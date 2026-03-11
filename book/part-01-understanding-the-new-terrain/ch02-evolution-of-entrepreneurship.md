@@ -1,4 +1,4 @@
-# Chapter 02: Evolution of Entrepreneurship
+# Chapter 2: Evolution of Entrepreneurship
 
 > *Last Updated: March 2026*
 

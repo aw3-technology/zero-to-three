@@ -1,4 +1,4 @@
-# Chapter 07: Global Perspectives - The New Innovation Map
+# Chapter 7: Global Perspectives - The New Innovation Map
 
 > *Last Updated: March 2026*
 

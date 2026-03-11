@@ -1,4 +1,4 @@
-# Chapter 01: The New Paradigm
+# Chapter 1: The New Paradigm
 
 > *Last Updated: March 2026*
 
