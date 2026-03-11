@@ -41,6 +41,10 @@ The AI didn't write this book—but it helped organize thoughts, suggest structu
 
 To those who read early drafts, provided feedback, and helped refine ideas: your input transformed this from a collection of thoughts into a coherent framework. Thank you for your patience with rough edges and your suggestions for improvement.
 
+### The Case Study Subjects
+
+Special recognition goes to the organizations whose stories form the backbone of this book's practical examples. The teams at Alchemy, Celestia, and Chainlink who demonstrated what protocol-layer infrastructure looks like in practice. Uniswap's AMM design team for showing how elegant mechanism design creates trust. Nubank for proving that emerging market constraints breed superior architecture. The founders of Midjourney, Runway, and Luma Labs for illustrating community-first creative AI. JustiGuide and Pangea Social for demonstrating mission-driven AI development. Flutterwave, Andela, and M-Pesa for making the case that innovation geography is shifting. And the cautionary tales—FTX, Terra/Luna, Celsius, Three Arrows Capital—whose failures teach as powerfully as any success story.
+
 ### The Broader Entrepreneurship Ecosystem
 
 While this book focuses on Web3 and AI, it builds on decades of entrepreneurship research, writing, and practice. From Peter Thiel's "Zero to One" to the countless books, articles, and conversations that have shaped understanding of innovation and venture building—thank you to all who have contributed to this body of knowledge.

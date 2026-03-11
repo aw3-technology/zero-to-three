@@ -13,6 +13,9 @@
       .beyond { fill: #805ad5; stroke: #6b46c1; }
       .arrow { fill: none; stroke: #718096; stroke-width: 3; }
     </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#718096"/>
+    </marker>
   </defs>
   
   <!-- Title -->
@@ -91,12 +94,6 @@
   <path d="M 610 150 L 690 150" class="arrow" marker-end="url(#arrowhead)"/>
   <path d="M 750 210 Q 600 300 450 340" class="arrow" marker-end="url(#arrowhead)"/>
   
-  <!-- Arrow marker -->
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#718096"/>
-    </marker>
-  </defs>
   
   <!-- Key Characteristics Box -->
   <rect x="50" y="500" width="800" height="150" fill="#f7fafc" stroke="#e2e8f0" stroke-width="1" rx="8"/>

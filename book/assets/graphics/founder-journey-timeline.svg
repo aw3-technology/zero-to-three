@@ -15,6 +15,9 @@
       .challenge { fill: #f56565; stroke: #e53e3e; opacity: 0.3; }
       .milestone { fill: #68d391; stroke: #38a169; opacity: 0.3; }
     </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4a5568"/>
+    </marker>
   </defs>
   
   <!-- Title -->
@@ -189,12 +192,6 @@
   <path d="M 950 390 Q 1000 360 1050 390" stroke="#d69e2e" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <text x="1000" y="350" class="detail-text" text-anchor="middle">System-Market Fit</text>
   
-  <!-- Arrow marker -->
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#4a5568"/>
-    </marker>
-  </defs>
   
   <!-- Timeline risk indicator -->
   <rect x="100" y="750" width="1000" height="60" fill="#fff5f5" stroke="#fed7d7" stroke-width="1" rx="8"/>

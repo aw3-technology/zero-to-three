@@ -1,18 +1,20 @@
 # Chapter 02: Evolution of Entrepreneurship
 
+> *Last Updated: March 2026*
+
 > Skim This Chapter
 > - Avoid repeating Ch.1: focus on stage dynamics and decision flow.
 > - Takeaway: know when to revisit each stage as context changes.
 
-## 1. Introduction: From "Zero to One" to "Zero to Three"
+## 1. Introduction: Why "Zero to One" Is No Longer Enough
 
-When Peter Thiel published "Zero to One" in 2014, he crystallized a framework that would shape startup thinking for the next decade. His core insight was powerful in its simplicity: true innovation means creating something entirely new—going from zero to one—rather than merely optimizing what already exists. "The next Bill Gates will not build an operating system," Thiel wrote. "The next Larry Page or Sergey Brin won't make a search engine. And the next Mark Zuckerberg won't create a social network."
+In 2017, a three-person team in Sao Paulo decided to take on Brazil's banking oligopoly. They had no banking license, no branches, and no connections to the financial establishment. What they had was a conviction that mobile-first infrastructure could replace a century of institutional inertia. Within seven years, Nubank served over 70 million customers and was valued higher than most of the banks it disrupted.
 
-This insight radically shifted focus from incremental improvements to fundamental breakthroughs, from competition within existing markets to the creation of entirely new categories. Startups embraced the gospel of differentiation and monopolistic advantage, seeking to build companies with unique technology, network effects, and economies of scale that competitors couldn't easily replicate.
+Nubank's journey illustrates something Peter Thiel's *Zero to One* framework captures well: the power of contrarian insight and monopolistic ambition. But it also reveals what that framework misses. Nubank did not just build an innovative product. It built a community of evangelists who drove growth through word of mouth. It reshaped an entire financial ecosystem, forcing incumbents to modernize and regulators to adapt. The product was stage one. The real value emerged in stages two and three.
 
-While Thiel's framework remains foundational, today's entrepreneurial landscape demands an expanded perspective. The convergence of Web3 and AI technologies has created exponentially more complex possibilities, requiring founders to navigate multiple technology curves simultaneously. Building successful ventures now extends beyond creating innovative products to developing thriving communities and influencing entire ecosystems.
+Today's entrepreneurial landscape demands this expanded perspective. The convergence of Web3 and AI technologies has created exponentially more complex possibilities, requiring founders to navigate multiple technology curves simultaneously. Building successful ventures extends beyond creating innovative products to developing thriving communities and influencing entire ecosystems. (For a deep examination of Thiel's enduring principles and how they apply to Web3 and AI, see Chapter 03.)
 
-This is why we need the "Zero to Three" framework—a multidimensional path that acknowledges the full spectrum of the modern entrepreneurial journey:
+This is why we need the "Zero to Three" framework---a multidimensional path that acknowledges the full spectrum of the modern entrepreneurial journey:
 
 ## In This Chapter, You Will
 
@@ -57,11 +59,9 @@ Today's ventures operate across a spectrum of organizational forms, each with di
 
 The most successful modern ventures often combine elements from multiple forms, evolving their organizational structure as they mature through different stages.
 
-## 2. Revisiting "Zero to One"
+## 2. Where the Old Playbook Falls Short
 
-Thiel's core insights remain remarkably relevant. His emphasis on monopoly—building businesses so differentiated they face limited direct competition—still forms the foundation of venture-scale returns. His focus on uncovering secrets—non-obvious truths about markets, technologies, or human behavior—remains essential to discovering unique opportunities. And his advocacy for definite optimism—having concrete plans for a better future rather than vague hopes—continues to separate visionary founders from wishful thinkers.
-
-However, several key aspects of Thiel's model have been challenged by fundamental shifts in the technological and economic landscape:
+Thiel's core insights---monopoly power, contrarian secrets, definite optimism---remain foundational (Chapter 03 explores each in depth). But several key aspects of his model have been challenged by fundamental shifts in the technological and economic landscape:
 
 **Capital access has transformed.** During the 2010s, venture capital flowed relatively freely, allowing founders to focus primarily on growth over profitability. Today's higher interest rates and more discerning investors demand business models with clearer paths to profitability and sustainable unit economics. Alternative funding mechanisms—from token offerings to crowdfunding to revenue-based financing—have created more complex capital landscapes requiring different strategic approaches.
 
@@ -75,14 +75,7 @@ In this new context, the founder's vision still matters profoundly, but its expr
 
 Perhaps the most significant limitation of the "Zero to One" model is its focus primarily on product creation. While building something new remains essential, today's most transformative ventures extend far beyond individual products to influence entire systems.
 
-Consider the evolution of founder impact:
-
-- **Individual**: The solo creator with unique insight and technical skill
-- **Team**: The assembled talent pool executing a shared vision
-- **Community**: The engaged network of users, contributors, and stakeholders
-- **Ecosystem**: The interconnected environment where multiple ventures thrive
-
-This progression requires founders to develop different capabilities at each stage. Technical brilliance might create an innovative product, but community building demands emotional intelligence and governance design. Leading ecosystems requires systems thinking and diplomatic skill to align diverse stakeholders around shared objectives.
+Founder impact now evolves through distinct phases. It begins with the individual---the solo creator with unique insight and technical skill. It expands to a team executing a shared vision, then to a community of engaged users, contributors, and stakeholders, and ultimately to an ecosystem where multiple ventures thrive interdependently. Each phase demands different capabilities. Technical brilliance creates innovative products, but community building demands emotional intelligence and governance design. Leading ecosystems requires systems thinking and the diplomatic skill to align diverse stakeholders around shared objectives.
 
 Simultaneously, founders must navigate increasingly complex competitive landscapes. Capital flows follow reputation, which depends on technological legitimacy. Global talent can assemble from anywhere, creating both opportunities and challenges. Regulatory environments vary dramatically across jurisdictions, requiring sophisticated navigation of compliance requirements.
 
@@ -104,11 +97,7 @@ The end of the easy-money era that characterized 2010-2021 has fundamentally alt
 
 Institutional capital increasingly favors founders with proven track records or strong network connections, creating higher barriers for first-time entrepreneurs from non-traditional backgrounds. This has driven innovation in funding models:
 
-- **Bootstrapping** has gained renewed respect, with more founders building profitable businesses before seeking external capital
-- **Decentralized Autonomous Organizations (DAOs)** allow for community-based funding and ownership of projects
-- **Hybrid models** combine traditional equity with tokenization of specific rights or revenue streams
-
-These alternative approaches often better align with the nature of Web3 and AI ventures, where value is frequently distributed across networks rather than concentrated within traditional corporate boundaries.
+Bootstrapping has gained renewed respect, with more founders building profitable businesses before seeking external capital. Decentralized Autonomous Organizations (DAOs) enable community-based funding and ownership. Hybrid models combine traditional equity with tokenization of specific rights or revenue streams. These alternative approaches often better align with Web3 and AI ventures, where value is frequently distributed across networks rather than concentrated within traditional corporate boundaries.
 
 ### Global Competition
 
@@ -226,7 +215,7 @@ Nubank's evolution toward system leadership—the "Three" stage—came as they e
 
 The company's impact extended beyond its own user base to influence the entire financial sector across Latin America. Traditional banks were forced to reduce fees, improve digital services, and rethink customer experience in response to Nubank's success. Regulators developed new frameworks to accommodate digital-first financial services, opening the door for additional fintech innovation.
 
-By 2021, Nubank had grown to over 70 million customers across Brazil, Mexico, and Colombia, making it one of the world's largest digital banks. Their IPO valued the company at approximately $41 billion—greater than many traditional banks with centuries of history.
+By 2021, Nubank had grown to over 70 million customers across Brazil, Mexico, and Colombia, making it one of the world's largest digital banks. Their IPO valued the company at approximately $41 billion—greater than many traditional banks with centuries of history. By December 2025, Nubank had reached 131 million customers globally (adding 17 million in 2025 alone), with Q4 2025 revenue of $4.9 billion (up 45% year-over-year) and full-year net income of $2.9 billion. In January 2026, the company received conditional OCC approval for a US bank charter, signaling its evolution from a Latin American disruptor to a global digital banking platform.
 
 Nubank's journey from identifying a market opportunity to creating systemic change illustrates the full Zero to Three progression. They moved from innovative product to trusted community to industry-reshaping force, demonstrating how emerging market entrepreneurs can use technology to solve fundamental problems at scale.
 
@@ -262,16 +251,23 @@ This systemic thinking requires longer time horizons and different success metri
 
 As we continue through the Zero to Three framework in subsequent chapters, we'll explore each stage in greater depth—examining the specific challenges, strategies, and skills required to progress from individual insight to systemic leadership. The path isn't linear or predictable, but with the right mental models and practical approaches, today's entrepreneurs can navigate the complexities of the Web3 and AI landscape to build ventures with lasting impact.
 
-## In This Chapter
-- Key points go here.
+## Founder's Checklist
 
-## Checklist
-- [ ] Actionable step 1
-- [ ] Actionable step 2
+- [ ] Have we identified which stage (Zero, One, Two, Three) currently needs the most attention?
+- [ ] Does our organizational form match our venture's needs, or are we defaulting to a traditional startup structure out of habit?
+- [ ] Are we building community into our product design, or treating it as a marketing afterthought?
+- [ ] Have we mapped how value creation has shifted in our domain from the platform era to the crypto-AI era?
+- [ ] Do we have a plan for evolving our organizational structure as we mature through stages?
 
-## Exercises
-- Exercise 1: Prompt or activity.
-- Exercise 2: Prompt or activity.
+## Exercise: Stage Diagnostic
+
+Assess your current venture against the four stages:
+
+1. **Stage Zero audit:** Write down your core contrarian insight in one sentence. Test it with five people outside your industry. If they immediately agree, it is not contrarian enough. If they cannot understand it, it is not clear enough.
+
+2. **Stage mapping:** Draw a simple 2x2 matrix with "Current Strength" on one axis and "Current Need" on the other. Plot each stage (Zero through Three) on the matrix. The quadrant with high need and low strength is where you should focus next.
+
+3. **Organizational form fit:** Review the five organizational forms described in this chapter (traditional startup, protocol project, DAO, cooperative network, open source project). Which elements from each form would best serve your venture at its current stage? Design a hybrid structure that combines the most relevant elements.
 ## When to Revisit Each Stage (Decision Tree)
 
 ```mermaid
@@ -293,6 +289,14 @@ Stage‑specific chapters:
 - One: Ch. 3 Technical Paradigm Shift, Ch. 22 Building What Works
 - Two: Ch. 25 Decentralized Governance, Ch. 27 Community Building
 - Three: Ch. 30 System Leadership
+
+## Further Reading
+
+- **The Lean Startup** by Eric Ries — The foundational text on iterative product development that shaped modern startup methodology and remains relevant as a contrast to the systems-level thinking this chapter advocates.
+- **The Innovator's Dilemma** by Clayton M. Christensen — Essential reading on why incumbent firms fail in the face of disruptive innovation, providing historical context for the entrepreneurial evolution described here.
+- **Platform Revolution** by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary — Explains the shift from pipeline to platform business models, bridging the gap between the digital and crypto-AI eras.
+- **The Sovereign Individual** by James Dale Davidson and Lord William Rees-Mogg — A prescient 1997 work that anticipated many of the decentralization and digital coordination themes central to the Zero to Three framework.
+- **Technological Revolutions and Financial Capital** by Carlota Perez — Maps the recurring patterns of technological revolution and capital deployment, offering a macro lens on the entrepreneurial eras described in this chapter.
 
 ## Sources
 
@@ -364,3 +368,9 @@ Stage‑specific chapters:
 - Nubank: ../case-studies/compendium.md#nubank
 - Nigeria's Crypto Movement: ../case-studies/compendium.md#nigerias-crypto-movement
 - See the Case Studies Compendium for curated examples relevant to this chapter: ../case-studies/compendium.md
+
+---
+
+**Previously:** [Chapter 01: The New Paradigm](ch01-the-new-paradigm.md) — Defined the three principles reshaping entrepreneurship at the convergence of AI and Web3: systems over features, trust by architecture, and ecosystem compounding.
+
+**Next:** [Chapter 03: Timeless Wisdom from Zero to One](ch03-timeless-wisdom-from-zero-to-one.md) — Stress-tests Peter Thiel's foundational principles against the current AI and Web3 landscape to identify what still holds and what has changed.

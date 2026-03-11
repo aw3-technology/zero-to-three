@@ -1,8 +1,8 @@
-# AI INFRASTRUCTURE CASE STUDIES (2025)
+# AI INFRASTRUCTURE CASE STUDIES (2025-2026)
 
 ## Overview
 
-This collection focuses specifically on AI infrastructure companies that have emerged as critical enabling technologies for the broader AI ecosystem. These companies represent different approaches to solving the fundamental challenges of AI development, deployment, and scaling.
+This collection focuses specifically on AI infrastructure companies that have emerged as critical enabling technologies for the broader AI ecosystem. These companies represent different approaches to solving the fundamental challenges of AI development, deployment, and scaling. Data last verified March 2026.
 
 ---
 
@@ -14,8 +14,8 @@ This collection focuses specifically on AI infrastructure companies that have em
 - Founded: 2023
 - Team: Former OpenAI researchers and MIT grads
 - Product: AI-native code editor
-- Funding: $60M Series A at $400M valuation (2024)
-- Users: 30,000+ paying developers
+- Funding: $3.4B total raised; $2.3B Series D at $29.3B valuation (November 2025), co-led by Accel and Coatue with Google and NVIDIA as strategic investors
+- Users: 1M+ daily active users, 50K+ businesses; $1B+ annualized revenue (late 2025)
 
 **The Thesis**
 Traditional code editors were designed for human-only programming. AI changes the fundamental interaction model, requiring native AI integration rather than plugins or extensions.
@@ -39,7 +39,7 @@ Traditional code editors were designed for human-only programming. AI changes th
 - **User experience**: Intuitive interface that accelerates development
 
 **Market Impact**
-Cursor's success forced Microsoft to accelerate GitHub Copilot development and showed that AI-native tools can rapidly displace established incumbents when they provide significantly better user experience.
+Cursor's success forced Microsoft to accelerate GitHub Copilot development and showed that AI-native tools can rapidly displace established incumbents when they provide significantly better user experience. The AI coding assistant market reached $7.4B in 2025, with GitHub Copilot at 42% share and Cursor capturing 18% within 18 months. By 2025, 85% of developers regularly used AI coding tools (up from ~40% in 2024), and 90% of Fortune 100 companies adopted GitHub Copilot. The market is projected to reach $30.1B by 2032.
 
 **Lessons for AI Infrastructure Founders**
 1. **Native beats retrofit**: Purpose-built AI tools outperform AI-augmented existing tools

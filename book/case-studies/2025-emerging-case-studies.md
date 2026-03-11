@@ -1,8 +1,8 @@
-# ZERO TO THREE: EMERGING CASE STUDIES (2025)
+# ZERO TO THREE: EMERGING CASE STUDIES (2025-2026)
 
 ## Overview
 
-This collection features case studies from companies and movements that have emerged or gained significant prominence in 2024-2025, representing the latest evolution of Web3 and AI entrepreneurship.
+This collection features case studies from companies and movements that have emerged or gained significant prominence in 2024-2026, representing the latest evolution of Web3 and AI entrepreneurship. Data last verified March 2026.
 
 ---
 
@@ -14,7 +14,10 @@ This collection features case studies from companies and movements that have eme
 - Founded: 2023
 - Founders: Michael Truell, Sualeh Asif, Arvid Lunnemark, Aman Sanger
 - Focus: AI-powered code editor built from the ground up
-- Traction: 50K+ developers, $400M valuation (2024)
+- Traction: 1M+ daily active users, 50K+ businesses, $29.3B valuation (November 2025)
+- Funding: $3.4B total raised across seven rounds; $2.3B Series D co-led by Accel and Coatue (November 2025), with Google and NVIDIA as strategic investors
+- Revenue: Exceeded $1B in annualized revenue by late 2025; 9,900% year-over-year ARR growth
+- Market Context: AI coding assistant market reached $7.4B in 2025; GitHub Copilot holds 42% market share, Cursor captured 18% within 18 months of launch; 85% of developers now regularly use AI coding tools
 
 **The Innovation**
 Cursor reimagined code editing for the AI era, building a native AI editor rather than adding AI features to existing tools. Their approach includes:
@@ -22,6 +25,7 @@ Cursor reimagined code editing for the AI era, building a native AI editor rathe
 - **Codebase awareness**: Understanding entire projects, not just current files
 - **Natural language programming**: Direct conversation with code
 - **Context preservation**: Maintaining understanding across long coding sessions
+- **Agentic capabilities**: By 2026, Cursor has expanded into agentic coding workflows where the AI can autonomously plan and execute multi-file changes
 
 **Strategic Insights**
 - **Native vs. Plugin**: Building AI-native tools beats retrofitting existing ones
@@ -40,17 +44,20 @@ Cursor reimagined code editing for the AI era, building a native AI editor rathe
 ### 2. WORLD COIN: Global Digital Identity at Scale
 
 **Company Snapshot**
-- Founded: 2019, Launched: 2023
+- Founded: 2019, Launched: 2023 (rebranded to "World" in 2024)
 - Founder: Sam Altman (with Alex Blania, Max Novendstern)
 - Focus: Global digital identity using biometric verification
-- Scale: 10M+ verified users, 2000+ orbs deployed globally
+- Scale: 26M+ World App accounts, 12M+ Orb-verified World IDs (as of early 2026); 1,500+ Orbs live across 23 countries; 40,000+ new verified users per week
+- US launch: May 2025 in six cities (Atlanta, Austin, Los Angeles, Miami, Nashville, San Francisco)
+- Partnerships: Visa debit card project announced; Match Group (Tinder) partnership for identity verification
 
 **The Vision**
-Worldcoin aims to create a global digital identity system using iris scanning to prove uniqueness without revealing identity. Their system:
-- **Proof of Personhood**: Cryptographic proof you're human without KYC
-- **Global Distribution**: Physical orbs in 160+ cities worldwide
+World aims to create a global digital identity system using iris scanning to prove uniqueness without revealing identity. Their system:
+- **Proof of Personhood**: Cryptographic proof you're human without KYC—increasingly critical as AI-generated content and bots proliferate
+- **Global Distribution**: Physical Orbs in 23 countries, with US market entry in 2025
 - **Economic Participation**: Universal basic income distribution mechanism
 - **Privacy Preservation**: Biometric data processed locally, not stored
+- **World Chain**: Dedicated blockchain launched in 2024 for verified-human transactions
 
 **Controversial Aspects**
 - **Biometric Collection**: Concerns about iris data collection and use
@@ -72,7 +79,8 @@ Worldcoin aims to create a global digital identity system using iris scanning to
 - Founded: 2022
 - Founders: Aravind Srinivas, Denis Yarats, Johnny Ho, Andy Konwinski
 - Focus: AI-powered search and discovery
-- Traction: 100M+ queries monthly, $1B+ valuation (2025)
+- Traction: 100M+ queries monthly; $21.2B valuation (early 2026) after Series E-6 round; ~$200M ARR by February 2026 (up from $80M in late 2024)
+- Total Funding: ~$1.5B raised from investors including NVIDIA, SoftBank Vision Fund 2, Jeff Bezos, and Yann LeCun
 
 **The Innovation**
 Perplexity rebuilt search from first principles using AI:
@@ -145,7 +153,8 @@ Competing with both cloud giants (AWS, GCP) and AI platforms (Replicate, Banana)
 - Founded: 2022
 - Founders: Vipul Ved Prakash, Ce Zhang
 - Focus: Open source AI model hosting and fine-tuning
-- Funding: $102.5M Series A (2024)
+- Funding: $102.5M Series A (2024) at $1.25B valuation; additional rounds in 2025 as open-source AI infrastructure demand surged
+- Scale: 100+ models hosted; pricing 5-10x cheaper than proprietary model APIs
 
 **The Mission**
 Together AI provides infrastructure for open source AI models:
@@ -253,20 +262,25 @@ If successful, Magic could transform software development:
 - Founded: 2021
 - Founders: Dan Romero, Varun Srinivasan
 - Focus: Decentralized social networking protocol
-- Traction: 350K+ daily active users, vibrant developer ecosystem
+- Peak Traction: 80K MAUs mid-2024; declined to ~20K MAUs and 40-60K DAU range by late 2025
+- Revenue: Q4 2025 revenue fell 85% YoY to ~$1.84M
+- Major Pivot: In January 2026, Neynar acquired the Farcaster protocol in a ~$1B deal. Romero and Srinivasan stepped back from daily operations to focus on wallet development. As Romero acknowledged: "We tried for 4.5 years to put social first, but it didn't work."
+- Technical Milestones: Snapchain upgrade achieved 10,000+ TPS; Frames v2 launched—but neither reversed the user retention decline
 
 **The Innovation**
 Farcaster created a decentralized alternative to Twitter/X:
 - **Protocol vs. Platform**: Core protocol with multiple client applications
 - **Onchain Identity**: User accounts controlled by crypto wallets
 - **Composable Applications**: Developers can build on the shared social graph
-- **Frames**: Interactive posts that can trigger onchain actions
+- **Frames**: Interactive posts that can trigger onchain actions directly from social feeds
+- **AI Agents**: The Clanker AI token platform emerged as one of Farcaster's most notable developments, bridging social and DeFi
 
 **Strategic Evolution**
 - **Started as Twitter Clone**: Initially replicated familiar social features
 - **Protocol Focus**: Evolved to enable ecosystem of applications
 - **Crypto Native**: Integrated tokens, NFTs, and DeFi into social experience
 - **Developer Platform**: Tools and APIs for building social applications
+- **2026 Pivot**: Shifted from social-first to wallet-first strategy following Neynar acquisition; recognition that decentralized social alone couldn't sustain growth
 
 **Unique Features**
 - **Composability**: Applications share users and content
@@ -447,10 +461,10 @@ Despite challenges, Stability AI's impact is undeniable:
 
 ---
 
-## CROSS-CUTTING THEMES FOR 2025
+## CROSS-CUTTING THEMES FOR 2025-2026
 
 ### AI-Native Product Development
-Companies like Cursor, Magic, and Retell show a new category: products built from scratch for the AI era rather than adding AI to existing products.
+Companies like Cursor, Magic, and Retell show a new category: products built from scratch for the AI era rather than adding AI to existing products. By 2026, this trend has accelerated dramatically: the AI coding assistant market alone reached $7.4B in 2025, with 85% of developers using AI tools regularly. Cursor's trajectory from $1M to $1B+ ARR in two years demonstrates the explosive growth possible for AI-native products that fundamentally reimagine workflows.
 
 **Key Insights:**
 - Native AI design beats retrofitted AI features
@@ -477,13 +491,13 @@ The tension between open source (Stability AI, Together AI) and closed systems (
 - Community vs. commercial interests create ongoing tension
 
 ### Decentralized Social Infrastructure
-Farcaster and Zora represent attempts to rebuild social and creative infrastructure with user ownership.
+Farcaster and Zora represent attempts to rebuild social and creative infrastructure with user ownership. However, 2025-2026 has provided sobering lessons: Farcaster's MAUs peaked at 80K in mid-2024 before plummeting to under 20K by late 2025, culminating in Neynar's $1B acquisition in January 2026. The protocol's founders acknowledged that "social first" didn't work, pivoting to wallet-focused development. This represents a critical cautionary tale about the difficulty of bootstrapping decentralized social networks against incumbent network effects.
 
 **Success Factors:**
-- Protocol thinking creates more sustainable network effects
-- Composability enables ecosystem development
+- Protocol thinking creates more sustainable network effects—but bootstrapping them is harder than anticipated
+- Composability enables ecosystem development, though user retention remains the fundamental challenge
 - Creator economics drive adoption more than ideology
-- Progressive decentralization helps with adoption curves
+- Progressive decentralization helps with adoption curves, but the initial centralized phase must deliver compelling user value
 
 ### Voice and Conversational Interfaces
 Perplexity, Retell AI, and Magic represent the shift toward conversational computing.
@@ -496,7 +510,15 @@ Perplexity, Retell AI, and Magic represent the shift toward conversational compu
 
 ---
 
-## LESSONS FOR 2025 FOUNDERS
+### Agentic AI Emergence
+The most significant new trend in 2025-2026 is the rise of agentic AI—autonomous systems that can plan, execute, and iterate on multi-step tasks without human intervention. The agentic AI market reached $7.5B in 2025 and is projected to reach $199B by 2034. While 45% of Fortune 500 companies are piloting agentic systems, only 11% have solutions in production—highlighting the gap between ambition and reality. Over 17,000 AI agents have launched on Web3 platforms alone, handling 19% of all Web3 activity. Enterprise-focused VCs predict AI budgets will increase in 2026 but concentrate among fewer vendors.
+
+### Scale of Capital Deployment
+The funding landscape in 2026 is historically unprecedented. AI captured 50% of all global VC funding in 2025 ($202B), and the sector raised $220B in just the first eight weeks of 2026. The three largest venture deals ever all occurred within 12 months: OpenAI ($110B at $840B, February 2026), Anthropic ($30B at $380B, February 2026), and OpenAI's prior round ($40B at $300B, March 2025). This concentration of capital creates both opportunities (massive infrastructure investment enabling new applications) and risks (potential bubble dynamics, winner-take-most compression of the startup ecosystem). Foundation model companies alone raised $80B in 2025—40% of all AI funding.
+
+---
+
+## LESSONS FOR 2025-2026 FOUNDERS
 
 ### Product Development
 1. **AI-Native Design**: Build for AI from day one, don't retrofit
